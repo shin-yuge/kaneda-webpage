@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+      <meta charset="UTF-8">
+      <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
+      <title>Moebiusの帯(Oliveira)</title>
+      <meta name="description" content="キーワード:極小曲面;極大曲面;向き付け不可能曲面">
+      <link rel="stylesheet" href="css/style.css">
+      <script type="text/javascript" src="javascript/common.js"></script>
+  </head>
+
+  <body>
+    <div id="container">
+      <header>
+        <h1>Moebiusの帯(Oliveira)</h1>
+        <nav class="header-menu">
+          <script type="text/javascript">
+            //
+            menu();
+            // -->
+            </script>
+        </nav>
+        </header>
+          <h2>&nbsp;<span class="under">Weierstrass data (Double cover)</span></h2>
+           <p>\(M=\mathbb{C}\backslash\{0\}, \quad g = \dfrac{z^{2m}(z+1)}{z-1},\quad \eta = i\dfrac{(z-1)^2}{z^{2(m+1)}}dz, \quad (m \in \mathbb{Z}_{>0}).\)</p>
+
+        <h2>&nbsp;<span class="under">グラフィックス</span></h2>
+          <div class="image-box">
+            <ul class="image-box gr-box">
+              <li><img src="figs/moeb.png"></li>
+              <li><img src="figs/moeb-mo-04.png"></li>
+              <li><img src="figs/moeb-mo-08.png"></li>
+            </ul>
+            <ul class="image-box gr-box">
+              <li>\(m=1\)</li>
+              <li>\(m=4\)</li>
+              <li>\(m=8\)</li>
+            </ul>
+          </div>
+          <div id="footer">
+            <br>
+            最終更新：
+             <time id="modify"></time>
+              <script>
+               /* 更新日の取得 */
+              const last = new Date(document.lastModified);
+              const year = last.getFullYear();
+              const month = last.getMonth() + 1;
+              const date = last.getDate();
+              /* 日付を書き換える */
+              const target = document.getElementById('modify');
+              target.textContent = year + '-' + month + '-' + date;
+              </script>
+            </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+      <meta charset="UTF-8">
+      <link rel="stylesheet" href="css/style.css">
+      <script type="text/javascript" src="javascript/common.js"></script>
+      <title>スケジュール</title>
+      <meta name="description" content="キーワード:極小曲面;極大曲面;向き付け不可能曲面">
+  </head>
+
+  <body>
+    <div id="container">
+      <header>
+        <h1>スケジュール</h1>
+        <nav class="header-menu">
+          <script type="text/javascript">
+            //
+            menu();
+            // -->
+            </script>
+        </nav>
+        </header>
+        <h2>&nbsp;<span class="under">数学</span></h2>
+          <ul>  
+            <li>
+              <a href="http://www.mathsoc.jp">日本数学会</a>
+            </li>
+            <li>
+              <a href="http://geom.math.se.tmu.ac.jp">日本数学会幾何学分科会</a>
+            </li>
+            <li>
+              <a href="https://mathscinet.ams.org/mathscinet/">MathSciNet</a>
+            </li>
+            <li>
+              <a href="https://arxiv.org">arXiv</a>
+            </li>
+            <li>
+              <a href="https://www.mathgenealogy.org">The Mathematics Genealogy Project</a>
+            </li>
+          </ul>
+
+        <h2>&nbsp;<span class="under">その他</span></h2>
+          <ul> 
+            <li>
+              <a href="https://www.jsps.go.jp">日本学術振興会</a>
+            </li> 
+          </ul>      
+        <div id="footer">
+          <br>
+          最終更新：
+           <time id="modify"></time>
+            <script>
+             /* 更新日の取得 */
+            const last = new Date(document.lastModified);
+            const year = last.getFullYear();
+            const month = last.getMonth() + 1;
+            const date = last.getDate();
+            /* 日付を書き換える */
+            const target = document.getElementById('modify');
+            target.textContent = year + '-' + month + '-' + date;
+            </script>
+          </div>
+    </div>
+  </body>
+</html>
