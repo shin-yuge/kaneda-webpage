@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+      <meta charset="UTF-8">
+      <link rel="stylesheet" href="css/style.css">
+      <script type="text/javascript" src="javascript/common.js"></script>
+      <title>金田伸(Shin Kaneda)</title>
+      <meta name="description" content="キーワード:極小曲面;極大曲面;向き付け不可能曲面">
+  </head>
+
+  <body>
+    <div id="container">
+      <header>
+      <h1>金田伸(Shin Kaneda)</h1>
+      <nav class="header-menu">
+        <script type="text/javascript">
+          //
+          menu();
+          // -->
+          </script>
+      </nav>
+      </header>
+        <h2>&nbsp;<span class="under">基本情報</span></h2>
+          <ul>
+            <li>氏名 : 金田伸 (Shin Kaneda)</li>
+            <li>所属01 : 広島大学 大学院先進理工系科学研究科 先進理工系科学専攻 数学プログラム　博士課程後期</li>
+            <li>所属02 : <a href = "https://www.yuge.ac.jp">弓削商船高等専門学校</a> <a href = "https://www.yuge.ac.jp/subject/sougou">総合教育科</a> 助教</li>
+          </ul>
+          <img src="figs/klein.png" alt="klein" align="right" height="220" width="220">
+          <img src="figs/moeb.png" alt="moebius" align="right" height="220" width="220">
+
+          <h2>&nbsp;<span class="under">コンテンツ</span></h2>
+          <ul>
+            <li><a href="my-info.html">自己紹介</a></li>
+            <li><a href="my-talk.html">講演</a></li>
+            <li><a href="my-paper.html">論文・プレプリント</a></li>
+            <li><a href="my-graphics.html">グラフィックス</a></li>
+            <li><a href="my-class.html">担当授業</a></li>
+            <li><a href="my-talk.html">スケジュール</a></li>
+            <li><a href="my-job.html">委員等</a></li>
+            <li><a href="my-link.html">リンク</a></li>
+        </ul>
+        <div id="footer">
+          <br>
+          最終更新：
+           <time id="modify"></time>
+            <script>
+             /* 更新日の取得 */
+            const last = new Date(document.lastModified);
+            const year = last.getFullYear();
+            const month = last.getMonth() + 1;
+            const date = last.getDate();
+            /* 日付を書き換える */
+            const target = document.getElementById('modify');
+            target.textContent = year + '-' + month + '-' + date;
+            </script>
+          </div>
+    </div>
+  </body>
+</html>
