@@ -8,7 +8,7 @@ function menu(){
     html += '<li class="mlist"><a class="m-item" href="my-graphics.html">グラフィックス</a></li>';
     html += '<li class="mlist"><a class="m-item" href="my-class.html">担当授業</a></li>';
     html += '<li class="mlist"><a class="m-item" href="my-schedule.html">スケジュール</a></li>';
-    html += '<li class="mlist"><a class="m-item" href="my-job.html">委員等</a></li>';
+    html += '<li class="mlist"><a class="m-item" href="my-job.html">仕事関係</a></li>';
     html += '<li class="mlist"><a class="m-item" href="my-link.html">リンク</a></li>';
     html += '</ul>';
     document.write(html);
