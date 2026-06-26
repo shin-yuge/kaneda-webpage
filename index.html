@@ -1,59 +1,73 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="ja">
-  <head>
-      <meta charset="UTF-8">
-      <link rel="stylesheet" href="css/style.css">
-      <script type="text/javascript" src="javascript/common.js"></script>
-      <title>金田伸(Shin Kaneda)</title>
-      <meta name="description" content="キーワード:極小曲面;極大曲面;向き付け不可能曲面">
-  </head>
-
-  <body>
-    <div id="container">
-      <header>
-      <h1>金田伸(Shin Kaneda)</h1>
-      <nav class="header-menu">
-        <script type="text/javascript">
-          //
-          menu();
-          // -->
-          </script>
-      </nav>
-      </header>
-        <h2>&nbsp;<span class="under">基本情報</span></h2>
-          <ul>
-            <li>氏名 : 金田伸 (Shin Kaneda)</li>
-            <li>所属 : <a href = "https://www.yuge.ac.jp">弓削商船高等専門学校</a> <a href = "https://www.yuge.ac.jp/subject/sougou">総合教育科</a> 助教 <a href ="my-trip.html" style ="color: #fffeee; text-decoration: none;">旅館・ホテル</a></li>
-          </ul>
-          <img src="figs/klein.png" alt="klein" align="right" height="220" width="220">
-          <img src="figs/moeb.png" alt="moebius" align="right" height="220" width="220">
-
-          <h2>&nbsp;<span class="under">コンテンツ</span></h2>
-          <ul>
-            <li><a href="my-info.html">自己紹介</a></li>
-            <li><a href="my-talk.html">講演</a></li>
-            <li><a href="my-paper.html">論文・プレプリント</a></li>
-            <li><a href="my-graphics.html">グラフィックス</a></li>
-            <li><a href="my-class.html">担当授業</a></li>
-            <li><a href="my-schedule.html">スケジュール</a></li>
-            <li><a href="my-job.html">仕事関係</a></li>
-            <li><a href="my-link.html">リンク</a></li>
-        </ul>
-        <div id="footer">
-          <br>
-          最終更新：
-           <time id="modify"></time>
-            <script>
-             /* 更新日の取得 */
-            const last = new Date(document.lastModified);
-            const year = last.getFullYear();
-            const month = last.getMonth() + 1;
-            const date = last.getDate();
-            /* 日付を書き換える */
-            const target = document.getElementById('modify');
-            target.textContent = year + '-' + month + '-' + date;
-            </script>
-          </div>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="author" content="Shin Kaneda">
+  <title>ホーム — 金田伸</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Noto+Serif+JP:wght@300;400&display=swap" rel="stylesheet">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js?config=TeX-MML-AM_CHTML" async></script>
+</head>
+<body>
+<div id="wrap">
+  <header>
+    <div class="h-name">
+      <div class="ja">金田　伸</div>
+      <div class="en">Shin Kaneda</div>
+      <div class="role">弓削商船高等専門学校<br>創造工学科　助教</div>
     </div>
-  </body>
+    <nav>
+      <a href="index.html" class="active">ホーム</a>
+      <a href="profile.html">自己紹介</a>
+      <a href="papers.html">論文</a>
+      <a href="talks.html">講演</a>
+      <a href="graphics.html">グラフィックス</a>
+      <a href="class.html">担当授業</a>
+      <a href="schedule.html">スケジュール</a>
+      <a href="job.html">仕事関係</a>
+      <a href="links.html">リンク</a>
+    </nav>
+  </header>
+  <div id="body">
+    <aside id="sidebar">
+      <div class="field-block">
+        <div class="left-label">研究分野</div>
+        <ul class="kw-list"><li>曲面論</li></ul>
+      </div>
+      <div class="field-block">
+        <div class="left-label">キーワード</div>
+        <ul class="kw-list">
+          <li>Weierstrass 表現公式</li>
+          <li>極小曲面</li>
+          <li>極大曲面</li>
+          <li>向き付け不可能曲面</li>
+        </ul>
+      </div>
+    </aside>
+    <main>
+      <div class="hero-imgs">
+        <div class="hero-img-wrap">
+          <img src="figs/moeb.png" alt="極大メービウス帯">
+        </div>
+        <div class="hero-img-wrap">
+          <img src="figs/klein.png" alt="極大クラインの壺">
+        </div>
+      </div>
+    </main>
+  </div>
+  <footer>
+    <span>&copy; Shin Kaneda</span>
+    <span>最終更新：<time id="last-modified"></time></span>
+  </footer>
+</div>
+<script>
+  var last = new Date(document.lastModified);
+  document.getElementById('last-modified').textContent =
+    last.getFullYear() + '.' +
+    String(last.getMonth()+1).padStart(2,'0') + '.' +
+    String(last.getDate()).padStart(2,'0');
+</script>
+</body>
 </html>

@@ -1,57 +1,89 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="ja">
-  <head>
-      <meta charset="UTF-8">
-      <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
-      <title>高種数の向き付け不可能な極小曲面01(López-Martín)</title>
-      <meta name="description" content="キーワード:極小曲面;極大曲面;向き付け不可能曲面">
-      <link rel="stylesheet" href="css/style.css">
-      <link rel="stylesheet" href="css/style-gra.css">
-      <script type="text/javascript" src="javascript/common.js"></script>
-  </head>
-
-  <body>
-    <div id="container">
-      <header>
-        <h1><font size = 6>高種数の向き付け不可能な極小曲面01(López-Martín)</font></h1>
-        <nav class="header-menu">
-          <script type="text/javascript">
-            //
-            menu();
-            // -->
-            </script>
-        </nav>
-        </header>
-          <h2>&nbsp;<span class="under">Weierstrass data (Double cover)</span></h2>
-            <p>\[\overline{M}=\left\{(z,w)\in(\mathbb{C}\cup\{\infty\})^2 | w^{k+1}=\frac{z(z-r)}{rz+1}\right\}, \quad k \in \mathbb{Z}_{>0}, \quad r \in \mathbb{R}\backslash\{\pm 1\},\] <br>
-                \[M=\overline{M}\backslash\{(0,0),(\infty,\infty)\}, \quad g = w^{k}\dfrac{z-1}{z+1}, \quad \eta = i \frac{(z+1)^2}{z^2w^k}dz.\]
-            </p>
-            <p align="center">各\(k \in \mathbb{Z}_{>0}\)に対して\(f\)を\(M\)上一価にする\(r\)が唯一つ定まる.</p> 
-            
-        <h2>&nbsp;<span class="under">グラフィックス</span></h2>
-          <div align="center">
-            <ul class="graphics-box">
-              <li><img src="figs/klein.png" height=30% width=30%></li>  
-              <li align="center">\(k=1, \quad r \approx -0.392973\)</li>  
-              <li><img src="figs/min-nonori-01-genus03-r.png" height=30% width=30%></li>
-              <li align="center">\(k=2, \quad r \approx -0.487634\)</li>
-            </ul>
-         </div>
-          <div id="footer">
-            <br>
-            最終更新：
-             <time id="modify"></time>
-              <script>
-               /* 更新日の取得 */
-              const last = new Date(document.lastModified);
-              const year = last.getFullYear();
-              const month = last.getMonth() + 1;
-              const date = last.getDate();
-              /* 日付を書き換える */
-              const target = document.getElementById('modify');
-              target.textContent = year + '-' + month + '-' + date;
-              </script>
-            </div>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="author" content="Shin Kaneda">
+  <title>高種数の向き付け不可能な極小曲面 01（López-Martín） — 金田伸</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Noto+Serif+JP:wght@300;400&display=swap" rel="stylesheet">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js?config=TeX-MML-AM_CHTML" async></script>
+</head>
+<body>
+<div id="wrap">
+  <header>
+    <div class="h-name">
+      <div class="ja">金田　伸</div>
+      <div class="en">Shin Kaneda</div>
+      <div class="role">弓削商船高等専門学校<br>創造工学科　助教</div>
+    </div>
+    <nav>
+      <a href="index.html">ホーム</a>
+      <a href="profile.html">自己紹介</a>
+      <a href="papers.html">論文</a>
+      <a href="talks.html">講演</a>
+      <a href="graphics.html" class="active">グラフィックス</a>
+      <a href="class.html">担当授業</a>
+      <a href="schedule.html">スケジュール</a>
+      <a href="job.html">仕事関係</a>
+      <a href="links.html">リンク</a>
+    </nav>
+  </header>
+  <div id="body">
+    <aside id="sidebar">
+      <div class="field-block">
+        <div class="left-label">研究分野</div>
+        <ul class="kw-list"><li>曲面論</li></ul>
       </div>
-  </body>
+      <div class="field-block">
+        <div class="left-label">キーワード</div>
+        <ul class="kw-list">
+          <li>Weierstrass 表現公式</li>
+          <li>極小曲面</li>
+          <li>極大曲面</li>
+          <li>向き付け不可能曲面</li>
+        </ul>
+      </div>
+    </aside>
+    <main>
+      <a class="gfx-back" href="graphics.html">グラフィックスに戻る</a>
+      <div class="gfx-sub-title">高種数の向き付け不可能な極小曲面 01<br><small style="font-size:1rem;font-style:normal;letter-spacing:0.04em;">López-Martín</small></div>
+      <div class="data-block">
+        <div class="data-label">Weierstrass data (Double cover)</div>
+        <div class="data-formula">
+          \[\overline{M} = \left\{(z,w)\in(\mathbb{C}\cup\{\infty\})^2 \;\middle|\; w^{k+1} = \frac{z(z-r)}{rz+1}\right\}, \quad k \in \mathbb{Z}_{>0},\quad r \in \mathbb{R}\setminus\{\pm 1\},\]
+          \[M = \overline{M}\setminus\{(0,0),(\infty,\infty)\}, \quad g = w^{k}\,\frac{z-1}{z+1}, \quad \eta = i\,\frac{(z+1)^2}{z^2 w^k}\,dz.\]
+        </div>
+        <p class="data-note">各 \(k \in \mathbb{Z}_{>0}\) に対して \(f\) を \(M\) 上一価にする \(r\) が唯一つ定まる.</p>
+      </div>
+      <div class="data-block">
+        <div class="data-label">グラフィックス</div>
+        </div>
+        <div class="fig-grid">
+          <div class="fig-item">
+            <img src="figs/klein.png" alt="k=1">
+            <div class="cap">\(k=1,\quad r \approx -0.392973\)</div>
+          </div>
+          <div class="fig-item">
+            <img src="figs/min-nonori-01-genus03-r.png" alt="k=2">
+            <div class="cap">\(k=2,\quad r \approx -0.487634\)</div>
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>
+  <footer>
+    <span>&copy; Shin Kaneda</span>
+    <span>最終更新：<time id="last-modified"></time></span>
+  </footer>
+</div>
+<script>
+  var last = new Date(document.lastModified);
+  document.getElementById('last-modified').textContent =
+    last.getFullYear() + '.' +
+    String(last.getMonth()+1).padStart(2,'0') + '.' +
+    String(last.getDate()).padStart(2,'0');
+</script>
+</body>
 </html>

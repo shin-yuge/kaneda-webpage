@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="金田伸のグラフィックス">
+  <meta name="author" content="Shin Kaneda">
+  <title>グラフィックス — 金田伸</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Noto+Serif+JP:wght@300;400&display=swap" rel="stylesheet">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js?config=TeX-MML-AM_CHTML" async></script>
+</head>
+<body>
+<div id="wrap">
+  <header>
+    <div class="h-name">
+      <div class="ja">金田　伸</div>
+      <div class="en">Shin Kaneda</div>
+      <div class="role">弓削商船高等専門学校<br>創造工学科　助教</div>
+    </div>
+    <nav>
+      <a href="index.html" class="">ホーム</a>
+      <a href="profile.html" class="">自己紹介</a>
+      <a href="papers.html" class="">論文</a>
+      <a href="talks.html" class="">講演</a>
+      <a href="graphics.html" class="active">グラフィックス</a>
+      <a href="class.html" class="">担当授業</a>
+      <a href="schedule.html" class="">スケジュール</a>
+      <a href="job.html" class="">仕事関係</a>
+      <a href="links.html" class="">リンク</a>
+    </nav>
+  </header>
+  <div id="body">
+    <aside id="sidebar">
+      <div class="field-block">
+        <div class="left-label">研究分野</div>
+        <ul class="kw-list"><li>曲面論</li></ul>
+      </div>
+      <div class="field-block">
+        <div class="left-label">キーワード</div>
+        <ul class="kw-list">
+          <li>Weierstrass 表現公式</li>
+          <li>極小曲面</li>
+          <li>極大曲面</li>
+          <li>向き付け不可能曲面</li>
+        </ul>
+      </div>
+    </aside>
+    <main>
+      <div class="page-title">グラフィックス</div>
+      <div class="section-block">
+        <div class="section-label">極小曲面 in ℝ³</div>
+        <div class="gfx-formula">\(f = \mathrm{Re} \displaystyle\int (1-g^2,\, i(1+g^2),\, 2g)\,\eta : M \to \mathbb{R}^3\)</div>
+        <ul class="gfx-list">
+          <li><a href="min-catenoid.html">懸垂面</a></li>
+          <li><a href="min-helicoid.html">常螺旋面</a></li>
+          <li><a href="min-moeb-meeks.html">Möbiusの帯（Meeks）</a></li>
+          <li><a href="min-moeb-oliveira.html">Möbiusの帯（Oliveira）</a></li>
+          <li><a href="min-moeb-mw.html">Möbiusの帯（Meeks-Weber）</a></li>
+          <li><a href="min-klein.html">Kleinの壺型（López）</a></li>
+          <li><a href="min-nonori-hg-01.html">高種数の向き付け不可能な極小曲面 01（López-Martín）</a></li>
+        </ul>
+      </div>
+      <div class="section-block">
+        <div class="section-label">謝辞</div>
+        <p class="gfx-note">グラフィックスは <a href="https://www.wolfram.com/mathematica/">Mathematica</a> と <a href="http://www.javaview.de">JavaView</a> を用いて作成いたしました。グラフィックスの作成法に関しましては学生時代より指導教員である <a href="https://home.hiroshima-u.ac.jp/fujimori/index-j.html">藤森祥一</a> 氏から教わりました。3Dモデルは <a href="https://www.sagemath.org">SageMath</a> を用いて作成いたしました。SageMath の使用方法は <a href="https://mathematicians.korea.ac.kr/sdyang/">Seong-Deog Yang</a> 氏と Wonjoo Lee 氏から有益なご意見をいただきました。ここに記して感謝の意を表します。</p>
+      </div>
+    </main>
+  </div>
+  <footer>
+    <span>&copy; Shin Kaneda</span>
+    <span>最終更新：<time id="last-modified"></time></span>
+  </footer>
+</div>
+<script>
+  var last = new Date(document.lastModified);
+  document.getElementById('last-modified').textContent =
+    last.getFullYear() + '.' +
+    String(last.getMonth()+1).padStart(2,'0') + '.' +
+    String(last.getDate()).padStart(2,'0');
+</script>
+</body>
+</html>

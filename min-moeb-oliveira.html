@@ -1,57 +1,91 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="ja">
-  <head>
-      <meta charset="UTF-8">
-      <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
-      <title>Moebiusの帯(Oliveira)</title>
-      <meta name="description" content="キーワード:極小曲面;極大曲面;向き付け不可能曲面">
-      <link rel="stylesheet" href="css/style.css">
-      <script type="text/javascript" src="javascript/common.js"></script>
-  </head>
-
-  <body>
-    <div id="container">
-      <header>
-        <h1>Moebiusの帯(Oliveira)</h1>
-        <nav class="header-menu">
-          <script type="text/javascript">
-            //
-            menu();
-            // -->
-            </script>
-        </nav>
-        </header>
-          <h2>&nbsp;<span class="under">Weierstrass data (Double cover)</span></h2>
-           <p>\(M=\mathbb{C}\backslash\{0\}, \quad g = \dfrac{z^{2m}(z+1)}{z-1},\quad \eta = i\dfrac{(z-1)^2}{z^{2(m+1)}}dz, \quad (m \in \mathbb{Z}_{>0}).\)</p>
-
-        <h2>&nbsp;<span class="under">グラフィックス</span></h2>
-          <div class="image-box">
-            <ul class="image-box gr-box">
-              <li><img src="figs/moeb.png"></li>
-              <li><img src="figs/moeb-mo-04.png"></li>
-              <li><img src="figs/moeb-mo-08.png"></li>
-            </ul>
-            <ul class="image-box gr-box">
-              <li>\(m=1\)</li>
-              <li>\(m=4\)</li>
-              <li>\(m=8\)</li>
-            </ul>
-          </div>
-          <div id="footer">
-            <br>
-            最終更新：
-             <time id="modify"></time>
-              <script>
-               /* 更新日の取得 */
-              const last = new Date(document.lastModified);
-              const year = last.getFullYear();
-              const month = last.getMonth() + 1;
-              const date = last.getDate();
-              /* 日付を書き換える */
-              const target = document.getElementById('modify');
-              target.textContent = year + '-' + month + '-' + date;
-              </script>
-            </div>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="author" content="Shin Kaneda">
+  <title>Möbiusの帯（Oliveira） — 金田伸</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Noto+Serif+JP:wght@300;400&display=swap" rel="stylesheet">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js?config=TeX-MML-AM_CHTML" async></script>
+</head>
+<body>
+<div id="wrap">
+  <header>
+    <div class="h-name">
+      <div class="ja">金田　伸</div>
+      <div class="en">Shin Kaneda</div>
+      <div class="role">弓削商船高等専門学校<br>創造工学科　助教</div>
     </div>
-  </body>
+    <nav>
+      <a href="index.html">ホーム</a>
+      <a href="profile.html">自己紹介</a>
+      <a href="papers.html">論文</a>
+      <a href="talks.html">講演</a>
+      <a href="graphics.html" class="active">グラフィックス</a>
+      <a href="class.html">担当授業</a>
+      <a href="schedule.html">スケジュール</a>
+      <a href="job.html">仕事関係</a>
+      <a href="links.html">リンク</a>
+    </nav>
+  </header>
+  <div id="body">
+    <aside id="sidebar">
+      <div class="field-block">
+        <div class="left-label">研究分野</div>
+        <ul class="kw-list"><li>曲面論</li></ul>
+      </div>
+      <div class="field-block">
+        <div class="left-label">キーワード</div>
+        <ul class="kw-list">
+          <li>Weierstrass 表現公式</li>
+          <li>極小曲面</li>
+          <li>極大曲面</li>
+          <li>向き付け不可能曲面</li>
+        </ul>
+      </div>
+    </aside>
+    <main>
+      <a class="gfx-back" href="graphics.html">グラフィックスに戻る</a>
+      <div class="gfx-sub-title">Möbiusの帯（Oliveira）</div>
+      <div class="data-block">
+        <div class="data-label">Weierstrass data (Double cover)</div>
+        <div class="data-formula">
+          \(M = \mathbb{C} \setminus \{0\}, \quad g = \dfrac{z^{2m}(z+1)}{z-1}, \quad \eta = i\,\dfrac{(z-1)^2}{z^{2(m+1)}}\,dz, \quad (m \in \mathbb{Z}_{>0}).\)
+        </div>
+      </div>
+      <div class="data-block">
+        <div class="data-label">グラフィックス</div>
+        </div>
+        <div class="fig-grid fig-grid--uniform">
+          <div class="fig-item">
+            <div class="fig-img-wrap"><img src="figs/moeb.png" alt="m=1"></div>
+            <div class="cap">\(m=1\)</div>
+          </div>
+          <div class="fig-item">
+            <div class="fig-img-wrap"><img src="figs/moeb-mo-04.png" alt="m=4"></div>
+            <div class="cap">\(m=4\)</div>
+          </div>
+          <div class="fig-item">
+            <div class="fig-img-wrap"><img src="figs/moeb-mo-08.png" alt="m=8"></div>
+            <div class="cap">\(m=8\)</div>
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>
+  <footer>
+    <span>&copy; Shin Kaneda</span>
+    <span>最終更新：<time id="last-modified"></time></span>
+  </footer>
+</div>
+<script>
+  var last = new Date(document.lastModified);
+  document.getElementById('last-modified').textContent =
+    last.getFullYear() + '.' +
+    String(last.getMonth()+1).padStart(2,'0') + '.' +
+    String(last.getDate()).padStart(2,'0');
+</script>
+</body>
 </html>

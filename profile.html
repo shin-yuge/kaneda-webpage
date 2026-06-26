@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="金田伸の自己紹介">
+  <meta name="author" content="Shin Kaneda">
+  <title>自己紹介 — 金田伸</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Noto+Serif+JP:wght@300;400&display=swap" rel="stylesheet">
+</head>
+<body>
+<div id="wrap">
+  <header>
+    <div class="h-name">
+      <div class="ja">金田　伸</div>
+      <div class="en">Shin Kaneda</div>
+      <div class="role">弓削商船高等専門学校<br>創造工学科　助教</div>
+    </div>
+    <nav>
+      <a href="index.html" class="">ホーム</a>
+      <a href="profile.html" class="active">自己紹介</a>
+      <a href="papers.html" class="">論文</a>
+      <a href="talks.html" class="">講演</a>
+      <a href="graphics.html" class="">グラフィックス</a>
+      <a href="class.html" class="">担当授業</a>
+      <a href="schedule.html" class="">スケジュール</a>
+      <a href="job.html" class="">仕事関係</a>
+      <a href="links.html" class="">リンク</a>
+    </nav>
+  </header>
+  <div id="body">
+    <aside id="sidebar">
+      <div class="field-block">
+        <div class="left-label">研究分野</div>
+        <ul class="kw-list"><li>曲面論</li></ul>
+      </div>
+      <div class="field-block">
+        <div class="left-label">キーワード</div>
+        <ul class="kw-list">
+          <li>Weierstrass 表現公式</li>
+          <li>極小曲面</li>
+          <li>極大曲面</li>
+          <li>向き付け不可能曲面</li>
+        </ul>
+      </div>
+    </aside>
+    <main>
+      <div class="page-title">自己紹介</div>
+      <div class="section-block">
+        <div class="section-label">基本情報</div>
+        <div class="info-row"><span class="info-key">氏名</span><span class="info-val">金田 伸（Shin Kaneda）</span></div>
+        <div class="info-row"><span class="info-key">所属</span><span class="info-val"><a href="https://www.yuge.ac.jp">弓削商船高等専門学校</a>　<a href="https://www.yuge.ac.jp/subject/mech/teacher#gsc.tab=0">創造工学科</a>　助教</span></div>
+        <div class="info-row"><span class="info-key">生年月日</span><span class="info-val">1996年（平成8年）1月23日</span></div>
+      </div>
+      <div class="section-block">
+        <div class="section-label">職歴</div>
+        <ul class="timeline">
+          <li><span class="tl-date">2022年11月–<br>2026年3月</span><span class="tl-body"><a href="https://www.yuge.ac.jp">弓削商船高等専門学校</a>　<a href="https://www.yuge.ac.jp/subject/sougou">総合教育科</a>　助教</span></li>
+          <li><span class="tl-date">2026年4月–現在</span><span class="tl-body"><a href="https://www.yuge.ac.jp">弓削商船高等専門学校</a>　<a href="https://www.yuge.ac.jp/subject/mech/teacher#gsc.tab=0">創造工学科</a>　助教</span></li>
+        </ul>
+      </div>
+      <div class="section-block">
+        <div class="section-label">学歴</div>
+        <ul class="timeline">
+          <li><span class="tl-date">2014年3月</span><span class="tl-body">広島県立福山誠之館高等学校　卒業</span></li>
+          <li><span class="tl-date">2018年3月</span><span class="tl-body">岡山大学　理学部　数学科　卒業</span></li>
+          <li><span class="tl-date">2020年3月</span><span class="tl-body">岡山大学　大学院自然科学研究科<br>数理物理科学専攻　博士課程前期　修了</span></li>
+          <li><span class="tl-date">2023年3月</span><span class="tl-body">広島大学　大学院先進理工系科学研究科<br>先進理工系科学専攻　数学プログラム　博士課程後期　修了</span></li>
+        </ul>
+      </div>
+      <div class="section-block">
+        <div class="section-label">連絡先</div>
+        <div class="info-row" style="border-top:1px solid #f0ede8;">
+          <span class="info-key">E-mail</span>
+          <span class="info-val"><img src="figs/mail-yuge.png" alt="メールアドレス" style="height:1.2em;vertical-align:middle;"></span>
+        </div>
+      </div>
+      <div class="section-block">
+        <div class="section-label">その他</div>
+        <a class="ext-link" href="https://researchmap.jp/shinkaneda">researchmap</a>
+      </div>
+    </main>
+  </div>
+  <footer>
+    <span>&copy; Shin Kaneda</span>
+    <span>最終更新：<time id="last-modified"></time></span>
+  </footer>
+</div>
+<script>
+  var last = new Date(document.lastModified);
+  document.getElementById('last-modified').textContent =
+    last.getFullYear() + '.' +
+    String(last.getMonth()+1).padStart(2,'0') + '.' +
+    String(last.getDate()).padStart(2,'0');
+</script>
+</body>
+</html>

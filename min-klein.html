@@ -1,53 +1,84 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="ja">
-  <head>
-      <meta charset="UTF-8">
-      <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
-      <title>Kleinの壺型(López)</title>
-      <meta name="description" content="キーワード:極小曲面;極大曲面;向き付け不可能曲面">
-      <link rel="stylesheet" href="css/style.css">
-      <script type="text/javascript" src="javascript/common.js"></script>
-  </head>
-
-  <body>
-    <div id="container">
-      <header>
-        <h1>Kleinの壺型(López)</h1>
-        <nav class="header-menu">
-          <script type="text/javascript">
-            //
-            menu();
-            // -->
-            </script>
-        </nav>
-        </header>
-          <h2>&nbsp;<span class="under">Weierstrass data (Double cover)</span></h2>
-            <p>\[\overline{M}=\left\{(z,w)\in(\mathbb{C}\cup\{\infty\})^2 | w^{2}=\frac{z(z-r)}{rz+1}\right\}, \quad r \in \mathbb{R}\backslash\{\pm 1\},\] <br>
-                \[M=\overline{M}\backslash\{(0,0),(\infty,\infty)\}, \quad g = w\dfrac{z-1}{z+1}, \quad \eta = i \frac{(z+1)^2}{z^2w}dz.\]
-            </p>
-            <p align="center">\(r\approx -0.392973\)で\(f\)は\(M\)上一価になる.</p> 
-            
-        <h2>&nbsp;<span class="under">グラフィックス</span></h2>
-        <div class="image-box">
-          <ul class="image-box">
-            <li list-style: none;><img src="figs/klein.png" alt="min-klein"  height="360" width="360"></li>
-          </ul>
-        </div>
-          <div id="footer">
-            <br>
-            最終更新：
-             <time id="modify"></time>
-              <script>
-               /* 更新日の取得 */
-              const last = new Date(document.lastModified);
-              const year = last.getFullYear();
-              const month = last.getMonth() + 1;
-              const date = last.getDate();
-              /* 日付を書き換える */
-              const target = document.getElementById('modify');
-              target.textContent = year + '-' + month + '-' + date;
-              </script>
-            </div>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="author" content="Shin Kaneda">
+  <title>Kleinの壺型（López） — 金田伸</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Noto+Serif+JP:wght@300;400&display=swap" rel="stylesheet">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js?config=TeX-MML-AM_CHTML" async></script>
+</head>
+<body>
+<div id="wrap">
+  <header>
+    <div class="h-name">
+      <div class="ja">金田　伸</div>
+      <div class="en">Shin Kaneda</div>
+      <div class="role">弓削商船高等専門学校<br>創造工学科　助教</div>
+    </div>
+    <nav>
+      <a href="index.html">ホーム</a>
+      <a href="profile.html">自己紹介</a>
+      <a href="papers.html">論文</a>
+      <a href="talks.html">講演</a>
+      <a href="graphics.html" class="active">グラフィックス</a>
+      <a href="class.html">担当授業</a>
+      <a href="schedule.html">スケジュール</a>
+      <a href="job.html">仕事関係</a>
+      <a href="links.html">リンク</a>
+    </nav>
+  </header>
+  <div id="body">
+    <aside id="sidebar">
+      <div class="field-block">
+        <div class="left-label">研究分野</div>
+        <ul class="kw-list"><li>曲面論</li></ul>
       </div>
-  </body>
+      <div class="field-block">
+        <div class="left-label">キーワード</div>
+        <ul class="kw-list">
+          <li>Weierstrass 表現公式</li>
+          <li>極小曲面</li>
+          <li>極大曲面</li>
+          <li>向き付け不可能曲面</li>
+        </ul>
+      </div>
+    </aside>
+    <main>
+      <a class="gfx-back" href="graphics.html">グラフィックスに戻る</a>
+      <div class="gfx-sub-title">Kleinの壺型（López）</div>
+      <div class="data-block">
+        <div class="data-label">Weierstrass data (Double cover)</div>
+        <div class="data-formula">
+          \[\overline{M} = \left\{(z,w)\in(\mathbb{C}\cup\{\infty\})^2 \;\middle|\; w^{2} = \frac{z(z-r)}{rz+1}\right\}, \quad r \in \mathbb{R}\setminus\{\pm 1\},\]
+          \[M = \overline{M}\setminus\{(0,0),(\infty,\infty)\}, \quad g = w\,\frac{z-1}{z+1}, \quad \eta = i\,\frac{(z+1)^2}{z^2 w}\,dz.\]
+        </div>
+        <p class="data-note">\(r \approx -0.392973\) で \(f\) は \(M\) 上一価になる.</p>
+      </div>
+      <div class="data-block">
+        <div class="data-label">グラフィックス</div>
+        </div>
+        <div class="fig-grid">
+          <div class="fig-item">
+            <img src="figs/klein.png" alt="Kleinの壺型 (López)">
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>
+  <footer>
+    <span>&copy; Shin Kaneda</span>
+    <span>最終更新：<time id="last-modified"></time></span>
+  </footer>
+</div>
+<script>
+  var last = new Date(document.lastModified);
+  document.getElementById('last-modified').textContent =
+    last.getFullYear() + '.' +
+    String(last.getMonth()+1).padStart(2,'0') + '.' +
+    String(last.getDate()).padStart(2,'0');
+</script>
+</body>
 </html>

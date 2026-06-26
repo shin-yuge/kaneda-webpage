@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="金田伸の論文・プレプリント一覧">
+  <meta name="author" content="Shin Kaneda">
+  <title>論文・プレプリント — 金田伸</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Noto+Serif+JP:wght@300;400&display=swap" rel="stylesheet">
+</head>
+<body>
+<div id="wrap">
+  <header>
+    <div class="h-name">
+      <div class="ja">金田　伸</div>
+      <div class="en">Shin Kaneda</div>
+      <div class="role">弓削商船高等専門学校<br>創造工学科　助教</div>
+    </div>
+    <nav>
+      <a href="index.html" class="">ホーム</a>
+      <a href="profile.html" class="">自己紹介</a>
+      <a href="papers.html" class="active">論文</a>
+      <a href="talks.html" class="">講演</a>
+      <a href="graphics.html" class="">グラフィックス</a>
+      <a href="class.html" class="">担当授業</a>
+      <a href="schedule.html" class="">スケジュール</a>
+      <a href="job.html" class="">仕事関係</a>
+      <a href="links.html" class="">リンク</a>
+    </nav>
+  </header>
+  <div id="body">
+    <aside id="sidebar">
+      <div class="field-block">
+        <div class="left-label">研究分野</div>
+        <ul class="kw-list"><li>曲面論</li></ul>
+      </div>
+      <div class="field-block">
+        <div class="left-label">キーワード</div>
+        <ul class="kw-list">
+          <li>Weierstrass 表現公式</li>
+          <li>極小曲面</li>
+          <li>極大曲面</li>
+          <li>向き付け不可能曲面</li>
+        </ul>
+      </div>
+    </aside>
+    <main>
+      <div class="page-title">論文・プレプリント</div>
+      <div class="paper-section">
+        <div class="section-label">プレプリント</div>
+        <p style="font-size:0.82rem;color:var(--t-text3);padding:0.5rem 0;">（現在なし）</p>
+      </div>
+      <div class="paper-section">
+        <div class="section-label">論文</div>
+        <div class="paper-subsection-label">数学</div>
+        <div class="paper-item"><span class="paper-num">1.</span>Shin Kaneda,<br><em>"Some new examples of nonorientable maximal surfaces in the Lorentz-Minkowski 3-space"</em>,<br><div class="paper-venue"><a href="http://www.math.sci.hiroshima-u.ac.jp/hmj/">Hiroshima Mathematical Journal</a>, <strong>53</strong> (2023), 311–334.</div></div>
+        <div class="paper-item"><span class="paper-num">2.</span>Shoichi Fujimori and Shin Kaneda,<br><em>"Higher genus nonorientable maximal surfaces in the Lorentz Minkowski 3-space"</em>,<br><div class="paper-venue"><a href="http://www.math.tohoku.ac.jp/tmj/">Tohoku Mathematical Journal</a>, <strong>75</strong> (2023), 1–14. <a href="https://arxiv.org/abs/2106.13941">(arXiv:2106.13941)</a></div></div>
+        <div class="paper-item"><span class="paper-num">3.</span>Shin Kaneda,<br><em>"Minimal surfaces containing an epitrochoid as a geodesic"</em>,<br><div class="paper-venue"><a href="http://www.math.kobe-u.ac.jp/jmsj/kjm/">Kobe Journal of Mathematics</a>, <strong>39</strong> (2022), 81–88. <a href="https://arxiv.org/abs/2209.07786">(arXiv:2209.07786)</a></div></div>
+        <div class="paper-subsection-label" style="margin-top:1.2rem;">教育</div>
+        <div class="paper-item"><span class="paper-num">1.</span>牧山隆洋, 壺内勇希, 金田伸, 吉田広平,<br>「ホイヘンスのサイクロイド振り子時計を用いた教育実践」,<br><div class="paper-venue"><a href="https://sites.google.com/view/jseht/">技術史教育学会誌</a>, <strong>26</strong> (2025), 21–26.</div></div>
+      </div>
+      <div class="paper-section">
+        <div class="section-label">その他</div>
+        <div class="paper-item"><span class="paper-num">1.</span>金田伸,<br>「3次元Euclid空間の実射影平面型完備極小曲面の具体例とそのグラフィックスについて」,<br><div class="paper-venue"><a href="https://www.yuge.ac.jp/school-guide/school_introduction/guidbook/bulletin/vol47#gsc.tab=0">弓削商船高等専門学校年次報告 第47号</a>,  22–24.</div></div>
+        <div class="paper-item"><span class="paper-num">2.</span>金田伸,<br>「3次元Lorentz-Minkowski空間のMöbiusの帯型極大曲面とその特異点について」,<br><div class="paper-venue"><a href="https://www.yuge.ac.jp/school-guide/school_introduction/guidbook/bulletin/vol46#gsc.tab=0">弓削商船高等専門学校紀要 第46号</a>, 40–43.</div></div>
+      </div>
+    </main>
+  </div>
+  <footer>
+    <span>&copy; Shin Kaneda</span>
+    <span>最終更新：<time id="last-modified"></time></span>
+  </footer>
+</div>
+<script>
+  var last = new Date(document.lastModified);
+  document.getElementById('last-modified').textContent =
+    last.getFullYear() + '.' +
+    String(last.getMonth()+1).padStart(2,'0') + '.' +
+    String(last.getDate()).padStart(2,'0');
+</script>
+</body>
+</html>

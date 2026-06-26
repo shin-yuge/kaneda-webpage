@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="author" content="Shin Kaneda">
+  <title>スケジュール 2022年度 — 金田伸</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Noto+Serif+JP:wght@300;400&display=swap" rel="stylesheet">
+</head>
+<body>
+<div id="wrap">
+  <header>
+    <div class="h-name">
+      <div class="ja">金田　伸</div>
+      <div class="en">Shin Kaneda</div>
+      <div class="role">弓削商船高等専門学校<br>創造工学科　助教</div>
+    </div>
+    <nav>
+      <a href="index.html">ホーム</a>
+      <a href="profile.html">自己紹介</a>
+      <a href="papers.html">論文</a>
+      <a href="talks.html">講演</a>
+      <a href="graphics.html">グラフィックス</a>
+      <a href="class.html">担当授業</a>
+      <a href="schedule.html" class="active">スケジュール</a>
+      <a href="job.html">仕事関係</a>
+      <a href="links.html">リンク</a>
+    </nav>
+  </header>
+  <div id="body">
+    <aside id="sidebar">
+      <div class="field-block">
+        <div class="left-label">研究分野</div>
+        <ul class="kw-list"><li>曲面論</li></ul>
+      </div>
+      <div class="field-block">
+        <div class="left-label">キーワード</div>
+        <ul class="kw-list">
+          <li>Weierstrass 表現公式</li>
+          <li>極小曲面</li>
+          <li>極大曲面</li>
+          <li>向き付け不可能曲面</li>
+        </ul>
+      </div>
+    </aside>
+    <main>
+      <div class="page-title">スケジュール — 2022年度</div>
+
+      <div class="section-block">
+        <div class="section-label">後期時間割</div>
+        <p class="class-tag" style="margin-bottom:0.8rem;">S：商船学科　M：電子機械工学科　I：情報工学科</p>
+        <div class="timetable-wrap">
+          <table class="timetable">
+            <thead>
+              <tr><th></th><th>月</th><th>火</th><th>水</th><th>木</th><th>金</th></tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td class="period-cell">朝<br><small>8:40–8:50</small></td>
+                <td></td><td></td><td></td><td></td><td></td>
+              </tr>
+              <tr>
+                <td class="period-cell">1コマ<br><small>8:50–10:20</small></td>
+                <td></td><td></td><td></td><td></td>
+                <td class="course-cell">数学特論<small>S3</small></td>
+              </tr>
+              <tr>
+                <td class="period-cell">2コマ<br><small>10:30–12:00</small></td>
+                <td></td><td></td><td></td><td></td>
+                <td class="course-cell">数学特論<small>M3</small></td>
+              </tr>
+              <tr>
+                <td class="period-cell">3コマ<br><small>13:20–14:50</small></td>
+                <td></td><td></td><td></td><td></td>
+                <td class="course-cell">数学特論<small>I3</small></td>
+              </tr>
+              <tr>
+                <td class="period-cell">4コマ<br><small>15:00–16:30</small></td>
+                <td></td><td></td><td></td><td></td><td></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="section-block">
+        <div class="sch-section">
+          <div class="sch-cat">研究集会</div>
+          <div class="sch-item">2022年9月13日（火）–16日（金）　<a href="https://www.hokudai.ac.jp">北海道大学</a><br>日本数学会2022年度秋季総合分科会</div>
+          <div class="sch-item">2022年12月24日（土）–28日（水）　<a href="https://www.hiroshima-u.ac.jp">広島大学</a><br>The 7th Japan-China Geometry Conference</div>
+        </div>
+        <div class="sch-section">
+          <div class="sch-cat">部活動</div>
+          <div class="sch-item">2023年1月14日（土）　<a href="https://niihamanishi-h.esnet.ed.jp">愛媛県立新居浜西高等学校</a><br>令和4年度愛媛県高等学校バスケットボール新人大会東予地区予選会</div>
+          <div class="sch-item">2023年3月18日（土）–19日（日）　<a href="https://www.niihama-nct.ac.jp">新居浜工業高等専門学校</a><br>第34回四国地区高等専門学校春季バスケットボール大会</div>
+        </div>
+        <div class="sch-section">
+          <div class="sch-cat">学内研修</div>
+          <div class="sch-item">2023年1月27日（金）　アセンブリホール　自死防止研修</div>
+        </div>
+      </div>
+    </main>
+  </div>
+  <footer>
+    <span>&copy; Shin Kaneda</span>
+    <span>最終更新：<time id="last-modified"></time></span>
+  </footer>
+</div>
+<script>
+  var last = new Date(document.lastModified);
+  document.getElementById('last-modified').textContent =
+    last.getFullYear() + '.' +
+    String(last.getMonth()+1).padStart(2,'0') + '.' +
+    String(last.getDate()).padStart(2,'0');
+</script>
+</body>
+</html>

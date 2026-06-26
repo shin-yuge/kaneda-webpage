@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="金田伸の仕事関係">
+  <meta name="author" content="Shin Kaneda">
+  <title>仕事関係 — 金田伸</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Noto+Serif+JP:wght@300;400&display=swap" rel="stylesheet">
+</head>
+<body>
+<div id="wrap">
+  <header>
+    <div class="h-name">
+      <div class="ja">金田　伸</div>
+      <div class="en">Shin Kaneda</div>
+      <div class="role">弓削商船高等専門学校<br>創造工学科　助教</div>
+    </div>
+    <nav>
+      <a href="index.html" class="">ホーム</a>
+      <a href="profile.html" class="">自己紹介</a>
+      <a href="papers.html" class="">論文</a>
+      <a href="talks.html" class="">講演</a>
+      <a href="graphics.html" class="">グラフィックス</a>
+      <a href="class.html" class="">担当授業</a>
+      <a href="schedule.html" class="">スケジュール</a>
+      <a href="job.html" class="active">仕事関係</a>
+      <a href="links.html" class="">リンク</a>
+    </nav>
+  </header>
+  <div id="body">
+    <aside id="sidebar">
+      <div class="field-block">
+        <div class="left-label">研究分野</div>
+        <ul class="kw-list"><li>曲面論</li></ul>
+      </div>
+      <div class="field-block">
+        <div class="left-label">キーワード</div>
+        <ul class="kw-list">
+          <li>Weierstrass 表現公式</li>
+          <li>極小曲面</li>
+          <li>極大曲面</li>
+          <li>向き付け不可能曲面</li>
+        </ul>
+      </div>
+    </aside>
+    <main>
+      <div class="page-title">仕事関係</div>
+      <div class="section-block"><div class="section-label">2026年度</div>
+        <ul class="job-list">
+          <li class="job-main">主事補：寮務主事補</li>
+          <li>学生相談室員</li>
+          <li>部活動：将棋部（顧問）、バスケットボール部（副顧問）</li>
+          <li>厚生補導委員会</li><li>寮務委員会</li><li>初年次教育支援室委員</li>
+        </ul>
+      </div>
+      <div class="section-block"><div class="section-label">2025年度</div>
+        <ul class="job-list">
+          <li class="job-main">学級担任：商船学科2年次生</li>
+          <li class="job-main">主事補：寮務主事補</li>
+          <li>部活動：将棋部（顧問）、バスケットボール部（副顧問）</li>
+          <li>厚生補導委員会</li><li>寮務委員会</li><li>初年次教育支援室委員</li>
+          <li>情報処理教育センター運営委員</li><li>情報ネットワーク管理専門部会委員</li>
+        </ul>
+      </div>
+      <div class="section-block"><div class="section-label">2024年度</div>
+        <ul class="job-list">
+          <li class="job-main">主事補：学生主事補</li>
+          <li>部活動：バスケットボール部（副顧問）、将棋部（副顧問）</li>
+          <li>厚生補導委員会</li><li>寮務委員会</li><li>初年次教育支援室委員</li>
+          <li>情報処理教育センター運営委員</li><li>情報ネットワーク管理専門部会委員</li>
+        </ul>
+      </div>
+      <div class="section-block"><div class="section-label">2023年度</div>
+        <ul class="job-list">
+          <li class="job-main">学級担任：電子機械工学科1年次生</li>
+          <li>部活動：バスケットボール部（副顧問）、将棋部（副顧問）</li>
+          <li>厚生補導委員会</li><li>学級担任委員会</li><li>初年次教育支援室</li>
+          <li>情報処理教育センター運営委員</li><li>情報ネットワーク管理専門部会委員</li>
+        </ul>
+      </div>
+      <div class="section-block"><div class="section-label">2022年度</div>
+        <ul class="job-list"><li>部活動：男子バスケットボール部（副顧問）</li></ul>
+      </div>
+    </main>
+  </div>
+  <footer>
+    <span>&copy; Shin Kaneda</span>
+    <span>最終更新：<time id="last-modified"></time></span>
+  </footer>
+</div>
+<script>
+  var last = new Date(document.lastModified);
+  document.getElementById('last-modified').textContent =
+    last.getFullYear() + '.' +
+    String(last.getMonth()+1).padStart(2,'0') + '.' +
+    String(last.getDate()).padStart(2,'0');
+</script>
+</body>
+</html>

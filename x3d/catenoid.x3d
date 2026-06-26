@@ -1,0 +1,3710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE X3D PUBLIC "ISO//Web3D//DTD X3D 3.3//EN" "http://www.web3d.org/specifications/x3d-3.3.dtd">
+<X3D profile='Interchange' version='3.3' xmlns:xsd='http://www.w3.org/2001/XMLSchema-instance' xsd:noNamespaceSchemaLocation='http://www.web3d.org/specifications/x3d-3.3.xsd'>
+	<head>
+	<!-- All "meta" from this section tou will found in <Scene> node as MetadataString nodes. -->
+	</head>
+	<Scene>
+		<Group>
+			<Shape DEF='_IDX_0'>
+				<Appearance DEF='Material_1_IDX_1'>
+					<Material diffuseColor='0.400144 0.112683 0.588106'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-6.085707 0.000000 -3.555556 -5.968772 -1.187263 -3.555556 -7.379812 -1.467936 -4.000000 -7.524391 0.000000 -4.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_1'>
+				<Appearance DEF='Material_2_IDX_2'>
+					<Material diffuseColor='0.290949 0.153515 0.699363'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-4.948790 -0.000000 -3.111111 -4.853700 -0.965461 -3.111111 -5.968772 -1.187263 -3.555556 -6.085707 0.000000 -3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_2'>
+				<Appearance DEF='Material_3_IDX_3'>
+					<Material diffuseColor='0.249251 0.255576 0.779581'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-4.057265 -0.000000 -2.666667 -3.979306 -0.791533 -2.666667 -4.853700 -0.965461 -3.111111 -4.948790 -0.000000 -3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_3'>
+				<Appearance DEF='Material_4_IDX_4'>
+					<Material diffuseColor='0.246529 0.375178 0.814578'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-3.366925 0.000000 -2.222222 -3.302230 -0.656854 -2.222222 -3.979306 -0.791533 -2.666667 -4.057265 -0.000000 -2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_4'>
+				<Appearance DEF='Material_5_IDX_5'>
+					<Material diffuseColor='0.266122 0.486664 0.802529'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.843538 -0.000000 -1.777778 -2.788900 -0.554747 -1.777778 -3.302230 -0.656854 -2.222222 -3.366925 0.000000 -2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_5'>
+				<Appearance DEF='Material_6_IDX_6'>
+					<Material diffuseColor='0.301497 0.574585 0.746651'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.461151 -0.000000 -1.333333 -2.413861 -0.480147 -1.333333 -2.788900 -0.554747 -1.777778 -2.843538 -0.000000 -1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_6'>
+				<Appearance DEF='Material_7_IDX_7'>
+					<Material diffuseColor='0.348355 0.640163 0.666575'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.200804 0.000000 -0.888889 -2.158516 -0.429356 -0.888889 -2.413861 -0.480147 -1.333333 -2.461151 -0.000000 -1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_7'>
+				<Appearance DEF='Material_8_IDX_8'>
+					<Material diffuseColor='0.406721 0.686486 0.575445'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.049586 -0.000000 -0.444444 -2.010204 -0.399854 -0.444444 -2.158516 -0.429356 -0.888889 -2.200804 0.000000 -0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_8'>
+				<Appearance DEF='Material_9_IDX_9'>
+					<Material diffuseColor='0.476273 0.717444 0.484966'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.000000 0.000000 -0.000000 -1.961571 -0.390181 -0.000000 -2.010204 -0.399854 -0.444444 -2.049586 -0.000000 -0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_9'>
+				<Appearance DEF='Material_10_IDX_10'>
+					<Material diffuseColor='0.400144 0.112683 0.588106'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-5.968772 -1.187263 -3.555556 -5.622460 -2.328899 -3.555556 -6.951631 -2.879460 -4.000000 -7.379812 -1.467936 -4.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_10'>
+				<Appearance DEF='Material_11_IDX_11'>
+					<Material diffuseColor='0.290949 0.153515 0.699363'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-4.853700 -0.965461 -3.111111 -4.572086 -1.893820 -3.111111 -5.622460 -2.328899 -3.555556 -5.968772 -1.187263 -3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_11'>
+				<Appearance DEF='Material_12_IDX_12'>
+					<Material diffuseColor='0.249251 0.255576 0.779581'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-3.979306 -0.791533 -2.666667 -3.748424 -1.552648 -2.666667 -4.572086 -1.893820 -3.111111 -4.853700 -0.965461 -3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_12'>
+				<Appearance DEF='Material_13_IDX_13'>
+					<Material diffuseColor='0.246529 0.375178 0.814578'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-3.302230 -0.656854 -2.222222 -3.110633 -1.288466 -2.222222 -3.748424 -1.552648 -2.666667 -3.979306 -0.791533 -2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_13'>
+				<Appearance DEF='Material_14_IDX_14'>
+					<Material diffuseColor='0.266122 0.486664 0.802529'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.788900 -0.554747 -1.777778 -2.627086 -1.088175 -1.777778 -3.110633 -1.288466 -2.222222 -3.302230 -0.656854 -2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_14'>
+				<Appearance DEF='Material_15_IDX_15'>
+					<Material diffuseColor='0.301497 0.574585 0.746651'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.413861 -0.480147 -1.333333 -2.273807 -0.941842 -1.333333 -2.627086 -1.088175 -1.777778 -2.788900 -0.554747 -1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_15'>
+				<Appearance DEF='Material_16_IDX_16'>
+					<Material diffuseColor='0.348355 0.640163 0.666575'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.158516 -0.429356 -0.888889 -2.033278 -0.842211 -0.888889 -2.273807 -0.941842 -1.333333 -2.413861 -0.480147 -1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_16'>
+				<Appearance DEF='Material_17_IDX_17'>
+					<Material diffuseColor='0.406721 0.686486 0.575445'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.010204 -0.399854 -0.444444 -1.893571 -0.784343 -0.444444 -2.033278 -0.842211 -0.888889 -2.158516 -0.429356 -0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_17'>
+				<Appearance DEF='Material_18_IDX_18'>
+					<Material diffuseColor='0.476273 0.717444 0.484966'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.961571 -0.390181 -0.000000 -1.847759 -0.765367 -0.000000 -1.893571 -0.784343 -0.444444 -2.010204 -0.399854 -0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_18'>
+				<Appearance DEF='Material_19_IDX_19'>
+					<Material diffuseColor='0.400144 0.112683 0.588106'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-5.622460 -2.328899 -3.555556 -5.060081 -3.381038 -3.555556 -6.256303 -4.180328 -4.000000 -6.951631 -2.879460 -4.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_19'>
+				<Appearance DEF='Material_20_IDX_20'>
+					<Material diffuseColor='0.290949 0.153515 0.699363'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-4.572086 -1.893820 -3.111111 -4.114769 -2.749400 -3.111111 -5.060081 -3.381038 -3.555556 -5.622460 -2.328899 -3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_20'>
+				<Appearance DEF='Material_21_IDX_21'>
+					<Material diffuseColor='0.249251 0.255576 0.779581'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-3.748424 -1.552648 -2.666667 -3.373492 -2.254096 -2.666667 -4.114769 -2.749400 -3.111111 -4.572086 -1.893820 -3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_21'>
+				<Appearance DEF='Material_22_IDX_22'>
+					<Material diffuseColor='0.246529 0.375178 0.814578'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-3.110633 -1.288466 -2.222222 -2.799496 -1.870563 -2.222222 -3.373492 -2.254096 -2.666667 -3.748424 -1.552648 -2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_22'>
+				<Appearance DEF='Material_23_IDX_23'>
+					<Material diffuseColor='0.266122 0.486664 0.802529'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.627086 -1.088175 -1.777778 -2.364315 -1.579785 -1.777778 -2.799496 -1.870563 -2.222222 -3.110633 -1.288466 -2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_23'>
+				<Appearance DEF='Material_24_IDX_24'>
+					<Material diffuseColor='0.301497 0.574585 0.746651'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.273807 -0.941842 -1.333333 -2.046372 -1.367342 -1.333333 -2.364315 -1.579785 -1.777778 -2.627086 -1.088175 -1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_24'>
+				<Appearance DEF='Material_25_IDX_25'>
+					<Material diffuseColor='0.348355 0.640163 0.666575'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.033278 -0.842211 -0.888889 -1.829902 -1.222701 -0.888889 -2.046372 -1.367342 -1.333333 -2.273807 -0.941842 -1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_25'>
+				<Appearance DEF='Material_26_IDX_26'>
+					<Material diffuseColor='0.406721 0.686486 0.575445'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.893571 -0.784343 -0.444444 -1.704169 -1.138689 -0.444444 -1.829902 -1.222701 -0.888889 -2.033278 -0.842211 -0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_26'>
+				<Appearance DEF='Material_27_IDX_27'>
+					<Material diffuseColor='0.476273 0.717444 0.484966'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.847759 -0.765367 -0.000000 -1.662939 -1.111140 -0.000000 -1.704169 -1.138689 -0.444444 -1.893571 -0.784343 -0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_27'>
+				<Appearance DEF='Material_28_IDX_28'>
+					<Material diffuseColor='0.400144 0.112683 0.588106'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-5.060081 -3.381038 -3.555556 -4.303245 -4.303245 -3.555556 -5.320548 -5.320548 -4.000000 -6.256303 -4.180328 -4.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_28'>
+				<Appearance DEF='Material_29_IDX_29'>
+					<Material diffuseColor='0.290949 0.153515 0.699363'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-4.114769 -2.749400 -3.111111 -3.499323 -3.499323 -3.111111 -4.303245 -4.303245 -3.555556 -5.060081 -3.381038 -3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_29'>
+				<Appearance DEF='Material_30_IDX_30'>
+					<Material diffuseColor='0.249251 0.255576 0.779581'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-3.373492 -2.254096 -2.666667 -2.868920 -2.868920 -2.666667 -3.499323 -3.499323 -3.111111 -4.114769 -2.749400 -3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_30'>
+				<Appearance DEF='Material_31_IDX_31'>
+					<Material diffuseColor='0.246529 0.375178 0.814578'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.799496 -1.870563 -2.222222 -2.380775 -2.380775 -2.222222 -2.868920 -2.868920 -2.666667 -3.373492 -2.254096 -2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_31'>
+				<Appearance DEF='Material_32_IDX_32'>
+					<Material diffuseColor='0.266122 0.486664 0.802529'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.364315 -1.579785 -1.777778 -2.010685 -2.010685 -1.777778 -2.380775 -2.380775 -2.222222 -2.799496 -1.870563 -2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_32'>
+				<Appearance DEF='Material_33_IDX_33'>
+					<Material diffuseColor='0.301497 0.574585 0.746651'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.046372 -1.367342 -1.333333 -1.740297 -1.740297 -1.333333 -2.010685 -2.010685 -1.777778 -2.364315 -1.579785 -1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_33'>
+				<Appearance DEF='Material_34_IDX_34'>
+					<Material diffuseColor='0.348355 0.640163 0.666575'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.829902 -1.222701 -0.888889 -1.556203 -1.556203 -0.888889 -1.740297 -1.740297 -1.333333 -2.046372 -1.367342 -1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_34'>
+				<Appearance DEF='Material_35_IDX_35'>
+					<Material diffuseColor='0.406721 0.686486 0.575445'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.704169 -1.138689 -0.444444 -1.449276 -1.449276 -0.444444 -1.556203 -1.556203 -0.888889 -1.829902 -1.222701 -0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_35'>
+				<Appearance DEF='Material_36_IDX_36'>
+					<Material diffuseColor='0.476273 0.717444 0.484966'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.662939 -1.111140 -0.000000 -1.414214 -1.414214 -0.000000 -1.449276 -1.449276 -0.444444 -1.704169 -1.138689 -0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_36'>
+				<Appearance USE='Material_1_IDX_1'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-4.303245 -4.303245 -3.555556 -3.381038 -5.060081 -3.555556 -4.180328 -6.256303 -4.000000 -5.320548 -5.320548 -4.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_37'>
+				<Appearance USE='Material_2_IDX_2'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-3.499323 -3.499323 -3.111111 -2.749400 -4.114769 -3.111111 -3.381038 -5.060081 -3.555556 -4.303245 -4.303245 -3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_38'>
+				<Appearance USE='Material_3_IDX_3'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.868920 -2.868920 -2.666667 -2.254096 -3.373492 -2.666667 -2.749400 -4.114769 -3.111111 -3.499323 -3.499323 -3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_39'>
+				<Appearance USE='Material_4_IDX_4'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.380775 -2.380775 -2.222222 -1.870563 -2.799496 -2.222222 -2.254096 -3.373492 -2.666667 -2.868920 -2.868920 -2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_40'>
+				<Appearance USE='Material_5_IDX_5'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.010685 -2.010685 -1.777778 -1.579785 -2.364315 -1.777778 -1.870563 -2.799496 -2.222222 -2.380775 -2.380775 -2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_41'>
+				<Appearance USE='Material_6_IDX_6'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.740297 -1.740297 -1.333333 -1.367342 -2.046372 -1.333333 -1.579785 -2.364315 -1.777778 -2.010685 -2.010685 -1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_42'>
+				<Appearance USE='Material_7_IDX_7'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.556203 -1.556203 -0.888889 -1.222701 -1.829902 -0.888889 -1.367342 -2.046372 -1.333333 -1.740297 -1.740297 -1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_43'>
+				<Appearance USE='Material_8_IDX_8'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.449276 -1.449276 -0.444444 -1.138689 -1.704169 -0.444444 -1.222701 -1.829902 -0.888889 -1.556203 -1.556203 -0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_44'>
+				<Appearance USE='Material_9_IDX_9'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.414214 -1.414214 -0.000000 -1.111140 -1.662939 -0.000000 -1.138689 -1.704169 -0.444444 -1.449276 -1.449276 -0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_45'>
+				<Appearance USE='Material_10_IDX_10'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-3.381038 -5.060081 -3.555556 -2.328899 -5.622460 -3.555556 -2.879460 -6.951631 -4.000000 -4.180328 -6.256303 -4.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_46'>
+				<Appearance USE='Material_11_IDX_11'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.749400 -4.114769 -3.111111 -1.893820 -4.572086 -3.111111 -2.328899 -5.622460 -3.555556 -3.381038 -5.060081 -3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_47'>
+				<Appearance USE='Material_12_IDX_12'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.254096 -3.373492 -2.666667 -1.552648 -3.748424 -2.666667 -1.893820 -4.572086 -3.111111 -2.749400 -4.114769 -3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_48'>
+				<Appearance USE='Material_13_IDX_13'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.870563 -2.799496 -2.222222 -1.288466 -3.110633 -2.222222 -1.552648 -3.748424 -2.666667 -2.254096 -3.373492 -2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_49'>
+				<Appearance USE='Material_14_IDX_14'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.579785 -2.364315 -1.777778 -1.088175 -2.627086 -1.777778 -1.288466 -3.110633 -2.222222 -1.870563 -2.799496 -2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_50'>
+				<Appearance USE='Material_15_IDX_15'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.367342 -2.046372 -1.333333 -0.941842 -2.273807 -1.333333 -1.088175 -2.627086 -1.777778 -1.579785 -2.364315 -1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_51'>
+				<Appearance USE='Material_16_IDX_16'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.222701 -1.829902 -0.888889 -0.842211 -2.033278 -0.888889 -0.941842 -2.273807 -1.333333 -1.367342 -2.046372 -1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_52'>
+				<Appearance USE='Material_17_IDX_17'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.138689 -1.704169 -0.444444 -0.784343 -1.893571 -0.444444 -0.842211 -2.033278 -0.888889 -1.222701 -1.829902 -0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_53'>
+				<Appearance USE='Material_18_IDX_18'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.111140 -1.662939 -0.000000 -0.765367 -1.847759 -0.000000 -0.784343 -1.893571 -0.444444 -1.138689 -1.704169 -0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_54'>
+				<Appearance USE='Material_19_IDX_19'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.328899 -5.622460 -3.555556 -1.187263 -5.968772 -3.555556 -1.467936 -7.379812 -4.000000 -2.879460 -6.951631 -4.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_55'>
+				<Appearance USE='Material_20_IDX_20'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.893820 -4.572086 -3.111111 -0.965461 -4.853700 -3.111111 -1.187263 -5.968772 -3.555556 -2.328899 -5.622460 -3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_56'>
+				<Appearance USE='Material_21_IDX_21'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.552648 -3.748424 -2.666667 -0.791533 -3.979306 -2.666667 -0.965461 -4.853700 -3.111111 -1.893820 -4.572086 -3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_57'>
+				<Appearance USE='Material_22_IDX_22'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.288466 -3.110633 -2.222222 -0.656854 -3.302230 -2.222222 -0.791533 -3.979306 -2.666667 -1.552648 -3.748424 -2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_58'>
+				<Appearance USE='Material_23_IDX_23'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.088175 -2.627086 -1.777778 -0.554747 -2.788900 -1.777778 -0.656854 -3.302230 -2.222222 -1.288466 -3.110633 -2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_59'>
+				<Appearance USE='Material_24_IDX_24'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.941842 -2.273807 -1.333333 -0.480147 -2.413861 -1.333333 -0.554747 -2.788900 -1.777778 -1.088175 -2.627086 -1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_60'>
+				<Appearance USE='Material_25_IDX_25'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.842211 -2.033278 -0.888889 -0.429356 -2.158516 -0.888889 -0.480147 -2.413861 -1.333333 -0.941842 -2.273807 -1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_61'>
+				<Appearance USE='Material_26_IDX_26'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.784343 -1.893571 -0.444444 -0.399854 -2.010204 -0.444444 -0.429356 -2.158516 -0.888889 -0.842211 -2.033278 -0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_62'>
+				<Appearance USE='Material_27_IDX_27'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.765367 -1.847759 -0.000000 -0.390181 -1.961571 -0.000000 -0.399854 -2.010204 -0.444444 -0.784343 -1.893571 -0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_63'>
+				<Appearance USE='Material_28_IDX_28'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.187263 -5.968772 -3.555556 -0.000000 -6.085707 -3.555556 -0.000000 -7.524391 -4.000000 -1.467936 -7.379812 -4.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_64'>
+				<Appearance USE='Material_29_IDX_29'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.965461 -4.853700 -3.111111 -0.000000 -4.948790 -3.111111 -0.000000 -6.085707 -3.555556 -1.187263 -5.968772 -3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_65'>
+				<Appearance USE='Material_30_IDX_30'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.791533 -3.979306 -2.666667 -0.000000 -4.057265 -2.666667 -0.000000 -4.948790 -3.111111 -0.965461 -4.853700 -3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_66'>
+				<Appearance USE='Material_31_IDX_31'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.656854 -3.302230 -2.222222 -0.000000 -3.366925 -2.222222 -0.000000 -4.057265 -2.666667 -0.791533 -3.979306 -2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_67'>
+				<Appearance USE='Material_32_IDX_32'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.554747 -2.788900 -1.777778 0.000000 -2.843538 -1.777778 -0.000000 -3.366925 -2.222222 -0.656854 -3.302230 -2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_68'>
+				<Appearance USE='Material_33_IDX_33'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.480147 -2.413861 -1.333333 -0.000000 -2.461151 -1.333333 0.000000 -2.843538 -1.777778 -0.554747 -2.788900 -1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_69'>
+				<Appearance USE='Material_34_IDX_34'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.429356 -2.158516 -0.888889 -0.000000 -2.200804 -0.888889 -0.000000 -2.461151 -1.333333 -0.480147 -2.413861 -1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_70'>
+				<Appearance USE='Material_35_IDX_35'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.399854 -2.010204 -0.444444 -0.000000 -2.049586 -0.444444 -0.000000 -2.200804 -0.888889 -0.429356 -2.158516 -0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_71'>
+				<Appearance USE='Material_36_IDX_36'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.390181 -1.961571 -0.000000 0.000000 -2.000000 -0.000000 -0.000000 -2.049586 -0.444444 -0.399854 -2.010204 -0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_72'>
+				<Appearance USE='Material_9_IDX_9'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.049586 0.000000 -0.444444 -2.010204 0.399854 -0.444444 -1.961571 0.390181 -0.000000 -2.000000 -0.000000 -0.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_73'>
+				<Appearance USE='Material_8_IDX_8'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.200804 -0.000000 -0.888889 -2.158516 0.429356 -0.888889 -2.010204 0.399854 -0.444444 -2.049586 0.000000 -0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_74'>
+				<Appearance USE='Material_7_IDX_7'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.461151 0.000000 -1.333333 -2.413861 0.480147 -1.333333 -2.158516 0.429356 -0.888889 -2.200804 -0.000000 -0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_75'>
+				<Appearance USE='Material_6_IDX_6'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.843538 0.000000 -1.777778 -2.788900 0.554747 -1.777778 -2.413861 0.480147 -1.333333 -2.461151 0.000000 -1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_76'>
+				<Appearance USE='Material_5_IDX_5'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-3.366925 -0.000000 -2.222222 -3.302230 0.656854 -2.222222 -2.788900 0.554747 -1.777778 -2.843538 0.000000 -1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_77'>
+				<Appearance USE='Material_4_IDX_4'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-4.057265 0.000000 -2.666667 -3.979306 0.791533 -2.666667 -3.302230 0.656854 -2.222222 -3.366925 -0.000000 -2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_78'>
+				<Appearance USE='Material_3_IDX_3'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-4.948790 0.000000 -3.111111 -4.853700 0.965461 -3.111111 -3.979306 0.791533 -2.666667 -4.057265 0.000000 -2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_79'>
+				<Appearance DEF='Material_37_IDX_37'>
+					<Material diffuseColor='0.290949 0.153515 0.699363'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-6.085707 -0.000000 -3.555556 -5.968772 1.187263 -3.555556 -4.853700 0.965461 -3.111111 -4.948790 0.000000 -3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_80'>
+				<Appearance USE='Material_1_IDX_1'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-7.524391 -0.000000 -4.000000 -7.379812 1.467936 -4.000000 -5.968772 1.187263 -3.555556 -6.085707 -0.000000 -3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_81'>
+				<Appearance USE='Material_18_IDX_18'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.010204 0.399854 -0.444444 -1.893571 0.784343 -0.444444 -1.847759 0.765367 -0.000000 -1.961571 0.390181 -0.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_82'>
+				<Appearance USE='Material_17_IDX_17'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.158516 0.429356 -0.888889 -2.033278 0.842211 -0.888889 -1.893571 0.784343 -0.444444 -2.010204 0.399854 -0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_83'>
+				<Appearance USE='Material_16_IDX_16'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.413861 0.480147 -1.333333 -2.273807 0.941842 -1.333333 -2.033278 0.842211 -0.888889 -2.158516 0.429356 -0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_84'>
+				<Appearance USE='Material_15_IDX_15'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.788900 0.554747 -1.777778 -2.627086 1.088175 -1.777778 -2.273807 0.941842 -1.333333 -2.413861 0.480147 -1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_85'>
+				<Appearance USE='Material_14_IDX_14'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-3.302230 0.656854 -2.222222 -3.110633 1.288466 -2.222222 -2.627086 1.088175 -1.777778 -2.788900 0.554747 -1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_86'>
+				<Appearance USE='Material_13_IDX_13'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-3.979306 0.791533 -2.666667 -3.748424 1.552648 -2.666667 -3.110633 1.288466 -2.222222 -3.302230 0.656854 -2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_87'>
+				<Appearance DEF='Material_38_IDX_38'>
+					<Material diffuseColor='0.249251 0.255576 0.779581'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-4.853700 0.965461 -3.111111 -4.572086 1.893820 -3.111111 -3.748424 1.552648 -2.666667 -3.979306 0.791533 -2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_88'>
+				<Appearance DEF='Material_39_IDX_39'>
+					<Material diffuseColor='0.290949 0.153515 0.699363'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-5.968772 1.187263 -3.555556 -5.622460 2.328899 -3.555556 -4.572086 1.893820 -3.111111 -4.853700 0.965461 -3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_89'>
+				<Appearance DEF='Material_40_IDX_40'>
+					<Material diffuseColor='0.400144 0.112683 0.588106'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-7.379812 1.467936 -4.000000 -6.951631 2.879460 -4.000000 -5.622460 2.328899 -3.555556 -5.968772 1.187263 -3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_90'>
+				<Appearance USE='Material_27_IDX_27'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.893571 0.784343 -0.444444 -1.704169 1.138689 -0.444444 -1.662939 1.111140 -0.000000 -1.847759 0.765367 -0.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_91'>
+				<Appearance USE='Material_26_IDX_26'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.033278 0.842211 -0.888889 -1.829902 1.222701 -0.888889 -1.704169 1.138689 -0.444444 -1.893571 0.784343 -0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_92'>
+				<Appearance DEF='Material_41_IDX_41'>
+					<Material diffuseColor='0.348355 0.640163 0.666575'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.273807 0.941842 -1.333333 -2.046372 1.367342 -1.333333 -1.829902 1.222701 -0.888889 -2.033278 0.842211 -0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_93'>
+				<Appearance USE='Material_24_IDX_24'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.627086 1.088175 -1.777778 -2.364315 1.579785 -1.777778 -2.046372 1.367342 -1.333333 -2.273807 0.941842 -1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_94'>
+				<Appearance USE='Material_23_IDX_23'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-3.110633 1.288466 -2.222222 -2.799496 1.870563 -2.222222 -2.364315 1.579785 -1.777778 -2.627086 1.088175 -1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_95'>
+				<Appearance USE='Material_22_IDX_22'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-3.748424 1.552648 -2.666667 -3.373492 2.254096 -2.666667 -2.799496 1.870563 -2.222222 -3.110633 1.288466 -2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_96'>
+				<Appearance USE='Material_21_IDX_21'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-4.572086 1.893820 -3.111111 -4.114769 2.749400 -3.111111 -3.373492 2.254096 -2.666667 -3.748424 1.552648 -2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_97'>
+				<Appearance USE='Material_20_IDX_20'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-5.622460 2.328899 -3.555556 -5.060081 3.381038 -3.555556 -4.114769 2.749400 -3.111111 -4.572086 1.893820 -3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_98'>
+				<Appearance USE='Material_19_IDX_19'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-6.951631 2.879460 -4.000000 -6.256303 4.180328 -4.000000 -5.060081 3.381038 -3.555556 -5.622460 2.328899 -3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_99'>
+				<Appearance USE='Material_36_IDX_36'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.704169 1.138689 -0.444444 -1.449276 1.449276 -0.444444 -1.414214 1.414214 -0.000000 -1.662939 1.111140 -0.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_100'>
+				<Appearance USE='Material_35_IDX_35'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.829902 1.222701 -0.888889 -1.556203 1.556203 -0.888889 -1.449276 1.449276 -0.444444 -1.704169 1.138689 -0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_101'>
+				<Appearance USE='Material_34_IDX_34'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.046372 1.367342 -1.333333 -1.740297 1.740297 -1.333333 -1.556203 1.556203 -0.888889 -1.829902 1.222701 -0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_102'>
+				<Appearance USE='Material_33_IDX_33'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.364315 1.579785 -1.777778 -2.010685 2.010685 -1.777778 -1.740297 1.740297 -1.333333 -2.046372 1.367342 -1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_103'>
+				<Appearance USE='Material_32_IDX_32'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.799496 1.870563 -2.222222 -2.380775 2.380775 -2.222222 -2.010685 2.010685 -1.777778 -2.364315 1.579785 -1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_104'>
+				<Appearance DEF='Material_42_IDX_42'>
+					<Material diffuseColor='0.246529 0.375178 0.814578'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-3.373492 2.254096 -2.666667 -2.868920 2.868920 -2.666667 -2.380775 2.380775 -2.222222 -2.799496 1.870563 -2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_105'>
+				<Appearance USE='Material_30_IDX_30'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-4.114769 2.749400 -3.111111 -3.499323 3.499323 -3.111111 -2.868920 2.868920 -2.666667 -3.373492 2.254096 -2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_106'>
+				<Appearance USE='Material_29_IDX_29'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-5.060081 3.381038 -3.555556 -4.303245 4.303245 -3.555556 -3.499323 3.499323 -3.111111 -4.114769 2.749400 -3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_107'>
+				<Appearance USE='Material_28_IDX_28'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-6.256303 4.180328 -4.000000 -5.320548 5.320548 -4.000000 -4.303245 4.303245 -3.555556 -5.060081 3.381038 -3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_108'>
+				<Appearance USE='Material_9_IDX_9'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.449276 1.449276 -0.444444 -1.138689 1.704169 -0.444444 -1.111140 1.662939 -0.000000 -1.414214 1.414214 -0.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_109'>
+				<Appearance USE='Material_8_IDX_8'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.556203 1.556203 -0.888889 -1.222701 1.829902 -0.888889 -1.138689 1.704169 -0.444444 -1.449276 1.449276 -0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_110'>
+				<Appearance USE='Material_7_IDX_7'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.740297 1.740297 -1.333333 -1.367342 2.046372 -1.333333 -1.222701 1.829902 -0.888889 -1.556203 1.556203 -0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_111'>
+				<Appearance USE='Material_6_IDX_6'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.010685 2.010685 -1.777778 -1.579785 2.364315 -1.777778 -1.367342 2.046372 -1.333333 -1.740297 1.740297 -1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_112'>
+				<Appearance USE='Material_5_IDX_5'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.380775 2.380775 -2.222222 -1.870563 2.799496 -2.222222 -1.579785 2.364315 -1.777778 -2.010685 2.010685 -1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_113'>
+				<Appearance USE='Material_4_IDX_4'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.868920 2.868920 -2.666667 -2.254096 3.373492 -2.666667 -1.870563 2.799496 -2.222222 -2.380775 2.380775 -2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_114'>
+				<Appearance USE='Material_3_IDX_3'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-3.499323 3.499323 -3.111111 -2.749400 4.114769 -3.111111 -2.254096 3.373492 -2.666667 -2.868920 2.868920 -2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_115'>
+				<Appearance USE='Material_37_IDX_37'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-4.303245 4.303245 -3.555556 -3.381038 5.060081 -3.555556 -2.749400 4.114769 -3.111111 -3.499323 3.499323 -3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_116'>
+				<Appearance USE='Material_1_IDX_1'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-5.320548 5.320548 -4.000000 -4.180328 6.256303 -4.000000 -3.381038 5.060081 -3.555556 -4.303245 4.303245 -3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_117'>
+				<Appearance USE='Material_18_IDX_18'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.138689 1.704169 -0.444444 -0.784343 1.893571 -0.444444 -0.765367 1.847759 -0.000000 -1.111140 1.662939 -0.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_118'>
+				<Appearance USE='Material_17_IDX_17'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.222701 1.829902 -0.888889 -0.842211 2.033278 -0.888889 -0.784343 1.893571 -0.444444 -1.138689 1.704169 -0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_119'>
+				<Appearance USE='Material_16_IDX_16'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.367342 2.046372 -1.333333 -0.941842 2.273807 -1.333333 -0.842211 2.033278 -0.888889 -1.222701 1.829902 -0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_120'>
+				<Appearance USE='Material_15_IDX_15'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.579785 2.364315 -1.777778 -1.088175 2.627086 -1.777778 -0.941842 2.273807 -1.333333 -1.367342 2.046372 -1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_121'>
+				<Appearance USE='Material_14_IDX_14'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.870563 2.799496 -2.222222 -1.288466 3.110633 -2.222222 -1.088175 2.627086 -1.777778 -1.579785 2.364315 -1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_122'>
+				<Appearance USE='Material_13_IDX_13'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.254096 3.373492 -2.666667 -1.552648 3.748424 -2.666667 -1.288466 3.110633 -2.222222 -1.870563 2.799496 -2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_123'>
+				<Appearance USE='Material_38_IDX_38'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.749400 4.114769 -3.111111 -1.893820 4.572086 -3.111111 -1.552648 3.748424 -2.666667 -2.254096 3.373492 -2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_124'>
+				<Appearance USE='Material_39_IDX_39'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-3.381038 5.060081 -3.555556 -2.328899 5.622460 -3.555556 -1.893820 4.572086 -3.111111 -2.749400 4.114769 -3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_125'>
+				<Appearance USE='Material_40_IDX_40'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-4.180328 6.256303 -4.000000 -2.879460 6.951631 -4.000000 -2.328899 5.622460 -3.555556 -3.381038 5.060081 -3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_126'>
+				<Appearance USE='Material_27_IDX_27'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.784343 1.893571 -0.444444 -0.399854 2.010204 -0.444444 -0.390181 1.961571 -0.000000 -0.765367 1.847759 -0.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_127'>
+				<Appearance USE='Material_26_IDX_26'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.842211 2.033278 -0.888889 -0.429356 2.158516 -0.888889 -0.399854 2.010204 -0.444444 -0.784343 1.893571 -0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_128'>
+				<Appearance USE='Material_41_IDX_41'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.941842 2.273807 -1.333333 -0.480147 2.413861 -1.333333 -0.429356 2.158516 -0.888889 -0.842211 2.033278 -0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_129'>
+				<Appearance USE='Material_24_IDX_24'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.088175 2.627086 -1.777778 -0.554747 2.788900 -1.777778 -0.480147 2.413861 -1.333333 -0.941842 2.273807 -1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_130'>
+				<Appearance USE='Material_23_IDX_23'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.288466 3.110633 -2.222222 -0.656854 3.302230 -2.222222 -0.554747 2.788900 -1.777778 -1.088175 2.627086 -1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_131'>
+				<Appearance USE='Material_22_IDX_22'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.552648 3.748424 -2.666667 -0.791533 3.979306 -2.666667 -0.656854 3.302230 -2.222222 -1.288466 3.110633 -2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_132'>
+				<Appearance USE='Material_21_IDX_21'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.893820 4.572086 -3.111111 -0.965461 4.853700 -3.111111 -0.791533 3.979306 -2.666667 -1.552648 3.748424 -2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_133'>
+				<Appearance USE='Material_20_IDX_20'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.328899 5.622460 -3.555556 -1.187263 5.968772 -3.555556 -0.965461 4.853700 -3.111111 -1.893820 4.572086 -3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_134'>
+				<Appearance USE='Material_19_IDX_19'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.879460 6.951631 -4.000000 -1.467936 7.379812 -4.000000 -1.187263 5.968772 -3.555556 -2.328899 5.622460 -3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_135'>
+				<Appearance USE='Material_36_IDX_36'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.399854 2.010204 -0.444444 -0.000000 2.049586 -0.444444 0.000000 2.000000 -0.000000 -0.390181 1.961571 -0.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_136'>
+				<Appearance USE='Material_35_IDX_35'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.429356 2.158516 -0.888889 -0.000000 2.200804 -0.888889 -0.000000 2.049586 -0.444444 -0.399854 2.010204 -0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_137'>
+				<Appearance USE='Material_34_IDX_34'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.480147 2.413861 -1.333333 -0.000000 2.461151 -1.333333 -0.000000 2.200804 -0.888889 -0.429356 2.158516 -0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_138'>
+				<Appearance USE='Material_33_IDX_33'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.554747 2.788900 -1.777778 0.000000 2.843538 -1.777778 -0.000000 2.461151 -1.333333 -0.480147 2.413861 -1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_139'>
+				<Appearance USE='Material_32_IDX_32'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.656854 3.302230 -2.222222 -0.000000 3.366925 -2.222222 0.000000 2.843538 -1.777778 -0.554747 2.788900 -1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_140'>
+				<Appearance USE='Material_42_IDX_42'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.791533 3.979306 -2.666667 -0.000000 4.057265 -2.666667 -0.000000 3.366925 -2.222222 -0.656854 3.302230 -2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_141'>
+				<Appearance USE='Material_30_IDX_30'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.965461 4.853700 -3.111111 -0.000000 4.948790 -3.111111 -0.000000 4.057265 -2.666667 -0.791533 3.979306 -2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_142'>
+				<Appearance USE='Material_29_IDX_29'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.187263 5.968772 -3.555556 -0.000000 6.085707 -3.555556 -0.000000 4.948790 -3.111111 -0.965461 4.853700 -3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_143'>
+				<Appearance USE='Material_28_IDX_28'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.467936 7.379812 -4.000000 -0.000000 7.524391 -4.000000 -0.000000 6.085707 -3.555556 -1.187263 5.968772 -3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_144'>
+				<Appearance USE='Material_9_IDX_9'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.049586 -0.000000 -0.444444 2.010204 -0.399854 -0.444444 1.961571 -0.390181 -0.000000 2.000000 0.000000 -0.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_145'>
+				<Appearance USE='Material_8_IDX_8'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.200804 0.000000 -0.888889 2.158516 -0.429356 -0.888889 2.010204 -0.399854 -0.444444 2.049586 -0.000000 -0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_146'>
+				<Appearance USE='Material_7_IDX_7'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.461151 -0.000000 -1.333333 2.413861 -0.480147 -1.333333 2.158516 -0.429356 -0.888889 2.200804 0.000000 -0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_147'>
+				<Appearance USE='Material_6_IDX_6'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.843538 -0.000000 -1.777778 2.788900 -0.554747 -1.777778 2.413861 -0.480147 -1.333333 2.461151 -0.000000 -1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_148'>
+				<Appearance USE='Material_5_IDX_5'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='3.366925 0.000000 -2.222222 3.302230 -0.656854 -2.222222 2.788900 -0.554747 -1.777778 2.843538 -0.000000 -1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_149'>
+				<Appearance USE='Material_4_IDX_4'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='4.057265 -0.000000 -2.666667 3.979306 -0.791533 -2.666667 3.302230 -0.656854 -2.222222 3.366925 0.000000 -2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_150'>
+				<Appearance USE='Material_3_IDX_3'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='4.948790 -0.000000 -3.111111 4.853700 -0.965461 -3.111111 3.979306 -0.791533 -2.666667 4.057265 -0.000000 -2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_151'>
+				<Appearance USE='Material_37_IDX_37'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='6.085707 0.000000 -3.555556 5.968772 -1.187263 -3.555556 4.853700 -0.965461 -3.111111 4.948790 -0.000000 -3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_152'>
+				<Appearance USE='Material_1_IDX_1'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='7.524391 0.000000 -4.000000 7.379812 -1.467936 -4.000000 5.968772 -1.187263 -3.555556 6.085707 0.000000 -3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_153'>
+				<Appearance USE='Material_18_IDX_18'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.010204 -0.399854 -0.444444 1.893571 -0.784343 -0.444444 1.847759 -0.765367 -0.000000 1.961571 -0.390181 -0.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_154'>
+				<Appearance USE='Material_17_IDX_17'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.158516 -0.429356 -0.888889 2.033278 -0.842211 -0.888889 1.893571 -0.784343 -0.444444 2.010204 -0.399854 -0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_155'>
+				<Appearance USE='Material_16_IDX_16'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.413861 -0.480147 -1.333333 2.273807 -0.941842 -1.333333 2.033278 -0.842211 -0.888889 2.158516 -0.429356 -0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_156'>
+				<Appearance USE='Material_15_IDX_15'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.788900 -0.554747 -1.777778 2.627086 -1.088175 -1.777778 2.273807 -0.941842 -1.333333 2.413861 -0.480147 -1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_157'>
+				<Appearance USE='Material_14_IDX_14'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='3.302230 -0.656854 -2.222222 3.110633 -1.288466 -2.222222 2.627086 -1.088175 -1.777778 2.788900 -0.554747 -1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_158'>
+				<Appearance USE='Material_13_IDX_13'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='3.979306 -0.791533 -2.666667 3.748424 -1.552648 -2.666667 3.110633 -1.288466 -2.222222 3.302230 -0.656854 -2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_159'>
+				<Appearance USE='Material_38_IDX_38'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='4.853700 -0.965461 -3.111111 4.572086 -1.893820 -3.111111 3.748424 -1.552648 -2.666667 3.979306 -0.791533 -2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_160'>
+				<Appearance USE='Material_39_IDX_39'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='5.968772 -1.187263 -3.555556 5.622460 -2.328899 -3.555556 4.572086 -1.893820 -3.111111 4.853700 -0.965461 -3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_161'>
+				<Appearance USE='Material_40_IDX_40'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='7.379812 -1.467936 -4.000000 6.951631 -2.879460 -4.000000 5.622460 -2.328899 -3.555556 5.968772 -1.187263 -3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_162'>
+				<Appearance USE='Material_27_IDX_27'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.893571 -0.784343 -0.444444 1.704169 -1.138689 -0.444444 1.662939 -1.111140 -0.000000 1.847759 -0.765367 -0.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_163'>
+				<Appearance USE='Material_26_IDX_26'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.033278 -0.842211 -0.888889 1.829902 -1.222701 -0.888889 1.704169 -1.138689 -0.444444 1.893571 -0.784343 -0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_164'>
+				<Appearance USE='Material_41_IDX_41'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.273807 -0.941842 -1.333333 2.046372 -1.367342 -1.333333 1.829902 -1.222701 -0.888889 2.033278 -0.842211 -0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_165'>
+				<Appearance USE='Material_24_IDX_24'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.627086 -1.088175 -1.777778 2.364315 -1.579785 -1.777778 2.046372 -1.367342 -1.333333 2.273807 -0.941842 -1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_166'>
+				<Appearance USE='Material_23_IDX_23'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='3.110633 -1.288466 -2.222222 2.799496 -1.870563 -2.222222 2.364315 -1.579785 -1.777778 2.627086 -1.088175 -1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_167'>
+				<Appearance USE='Material_22_IDX_22'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='3.748424 -1.552648 -2.666667 3.373492 -2.254096 -2.666667 2.799496 -1.870563 -2.222222 3.110633 -1.288466 -2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_168'>
+				<Appearance USE='Material_21_IDX_21'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='4.572086 -1.893820 -3.111111 4.114769 -2.749400 -3.111111 3.373492 -2.254096 -2.666667 3.748424 -1.552648 -2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_169'>
+				<Appearance USE='Material_20_IDX_20'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='5.622460 -2.328899 -3.555556 5.060081 -3.381038 -3.555556 4.114769 -2.749400 -3.111111 4.572086 -1.893820 -3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_170'>
+				<Appearance USE='Material_19_IDX_19'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='6.951631 -2.879460 -4.000000 6.256303 -4.180328 -4.000000 5.060081 -3.381038 -3.555556 5.622460 -2.328899 -3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_171'>
+				<Appearance USE='Material_36_IDX_36'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.704169 -1.138689 -0.444444 1.449276 -1.449276 -0.444444 1.414214 -1.414214 -0.000000 1.662939 -1.111140 -0.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_172'>
+				<Appearance USE='Material_35_IDX_35'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.829902 -1.222701 -0.888889 1.556203 -1.556203 -0.888889 1.449276 -1.449276 -0.444444 1.704169 -1.138689 -0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_173'>
+				<Appearance USE='Material_34_IDX_34'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.046372 -1.367342 -1.333333 1.740297 -1.740297 -1.333333 1.556203 -1.556203 -0.888889 1.829902 -1.222701 -0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_174'>
+				<Appearance USE='Material_33_IDX_33'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.364315 -1.579785 -1.777778 2.010685 -2.010685 -1.777778 1.740297 -1.740297 -1.333333 2.046372 -1.367342 -1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_175'>
+				<Appearance USE='Material_32_IDX_32'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.799496 -1.870563 -2.222222 2.380775 -2.380775 -2.222222 2.010685 -2.010685 -1.777778 2.364315 -1.579785 -1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_176'>
+				<Appearance USE='Material_42_IDX_42'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='3.373492 -2.254096 -2.666667 2.868920 -2.868920 -2.666667 2.380775 -2.380775 -2.222222 2.799496 -1.870563 -2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_177'>
+				<Appearance USE='Material_30_IDX_30'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='4.114769 -2.749400 -3.111111 3.499323 -3.499323 -3.111111 2.868920 -2.868920 -2.666667 3.373492 -2.254096 -2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_178'>
+				<Appearance USE='Material_29_IDX_29'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='5.060081 -3.381038 -3.555556 4.303245 -4.303245 -3.555556 3.499323 -3.499323 -3.111111 4.114769 -2.749400 -3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_179'>
+				<Appearance USE='Material_28_IDX_28'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='6.256303 -4.180328 -4.000000 5.320548 -5.320548 -4.000000 4.303245 -4.303245 -3.555556 5.060081 -3.381038 -3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_180'>
+				<Appearance USE='Material_9_IDX_9'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.449276 -1.449276 -0.444444 1.138689 -1.704169 -0.444444 1.111140 -1.662939 -0.000000 1.414214 -1.414214 -0.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_181'>
+				<Appearance USE='Material_8_IDX_8'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.556203 -1.556203 -0.888889 1.222701 -1.829902 -0.888889 1.138689 -1.704169 -0.444444 1.449276 -1.449276 -0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_182'>
+				<Appearance USE='Material_7_IDX_7'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.740297 -1.740297 -1.333333 1.367342 -2.046372 -1.333333 1.222701 -1.829902 -0.888889 1.556203 -1.556203 -0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_183'>
+				<Appearance USE='Material_6_IDX_6'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.010685 -2.010685 -1.777778 1.579785 -2.364315 -1.777778 1.367342 -2.046372 -1.333333 1.740297 -1.740297 -1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_184'>
+				<Appearance USE='Material_5_IDX_5'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.380775 -2.380775 -2.222222 1.870563 -2.799496 -2.222222 1.579785 -2.364315 -1.777778 2.010685 -2.010685 -1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_185'>
+				<Appearance USE='Material_4_IDX_4'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.868920 -2.868920 -2.666667 2.254096 -3.373492 -2.666667 1.870563 -2.799496 -2.222222 2.380775 -2.380775 -2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_186'>
+				<Appearance USE='Material_3_IDX_3'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='3.499323 -3.499323 -3.111111 2.749400 -4.114769 -3.111111 2.254096 -3.373492 -2.666667 2.868920 -2.868920 -2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_187'>
+				<Appearance USE='Material_37_IDX_37'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='4.303245 -4.303245 -3.555556 3.381038 -5.060081 -3.555556 2.749400 -4.114769 -3.111111 3.499323 -3.499323 -3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_188'>
+				<Appearance USE='Material_1_IDX_1'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='5.320548 -5.320548 -4.000000 4.180328 -6.256303 -4.000000 3.381038 -5.060081 -3.555556 4.303245 -4.303245 -3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_189'>
+				<Appearance USE='Material_18_IDX_18'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.138689 -1.704169 -0.444444 0.784343 -1.893571 -0.444444 0.765367 -1.847759 -0.000000 1.111140 -1.662939 -0.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_190'>
+				<Appearance USE='Material_17_IDX_17'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.222701 -1.829902 -0.888889 0.842211 -2.033278 -0.888889 0.784343 -1.893571 -0.444444 1.138689 -1.704169 -0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_191'>
+				<Appearance USE='Material_16_IDX_16'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.367342 -2.046372 -1.333333 0.941842 -2.273807 -1.333333 0.842211 -2.033278 -0.888889 1.222701 -1.829902 -0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_192'>
+				<Appearance USE='Material_15_IDX_15'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.579785 -2.364315 -1.777778 1.088175 -2.627086 -1.777778 0.941842 -2.273807 -1.333333 1.367342 -2.046372 -1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_193'>
+				<Appearance USE='Material_14_IDX_14'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.870563 -2.799496 -2.222222 1.288466 -3.110633 -2.222222 1.088175 -2.627086 -1.777778 1.579785 -2.364315 -1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_194'>
+				<Appearance USE='Material_13_IDX_13'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.254096 -3.373492 -2.666667 1.552648 -3.748424 -2.666667 1.288466 -3.110633 -2.222222 1.870563 -2.799496 -2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_195'>
+				<Appearance USE='Material_38_IDX_38'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.749400 -4.114769 -3.111111 1.893820 -4.572086 -3.111111 1.552648 -3.748424 -2.666667 2.254096 -3.373492 -2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_196'>
+				<Appearance USE='Material_39_IDX_39'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='3.381038 -5.060081 -3.555556 2.328899 -5.622460 -3.555556 1.893820 -4.572086 -3.111111 2.749400 -4.114769 -3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_197'>
+				<Appearance USE='Material_40_IDX_40'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='4.180328 -6.256303 -4.000000 2.879460 -6.951631 -4.000000 2.328899 -5.622460 -3.555556 3.381038 -5.060081 -3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_198'>
+				<Appearance USE='Material_27_IDX_27'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.784343 -1.893571 -0.444444 0.399854 -2.010204 -0.444444 0.390181 -1.961571 -0.000000 0.765367 -1.847759 -0.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_199'>
+				<Appearance USE='Material_26_IDX_26'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.842211 -2.033278 -0.888889 0.429356 -2.158516 -0.888889 0.399854 -2.010204 -0.444444 0.784343 -1.893571 -0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_200'>
+				<Appearance USE='Material_41_IDX_41'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.941842 -2.273807 -1.333333 0.480147 -2.413861 -1.333333 0.429356 -2.158516 -0.888889 0.842211 -2.033278 -0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_201'>
+				<Appearance USE='Material_24_IDX_24'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.088175 -2.627086 -1.777778 0.554747 -2.788900 -1.777778 0.480147 -2.413861 -1.333333 0.941842 -2.273807 -1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_202'>
+				<Appearance USE='Material_23_IDX_23'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.288466 -3.110633 -2.222222 0.656854 -3.302230 -2.222222 0.554747 -2.788900 -1.777778 1.088175 -2.627086 -1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_203'>
+				<Appearance USE='Material_22_IDX_22'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.552648 -3.748424 -2.666667 0.791533 -3.979306 -2.666667 0.656854 -3.302230 -2.222222 1.288466 -3.110633 -2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_204'>
+				<Appearance USE='Material_21_IDX_21'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.893820 -4.572086 -3.111111 0.965461 -4.853700 -3.111111 0.791533 -3.979306 -2.666667 1.552648 -3.748424 -2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_205'>
+				<Appearance USE='Material_20_IDX_20'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.328899 -5.622460 -3.555556 1.187263 -5.968772 -3.555556 0.965461 -4.853700 -3.111111 1.893820 -4.572086 -3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_206'>
+				<Appearance USE='Material_19_IDX_19'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.879460 -6.951631 -4.000000 1.467936 -7.379812 -4.000000 1.187263 -5.968772 -3.555556 2.328899 -5.622460 -3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_207'>
+				<Appearance USE='Material_36_IDX_36'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.399854 -2.010204 -0.444444 0.000000 -2.049586 -0.444444 -0.000000 -2.000000 -0.000000 0.390181 -1.961571 -0.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_208'>
+				<Appearance USE='Material_35_IDX_35'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.429356 -2.158516 -0.888889 0.000000 -2.200804 -0.888889 0.000000 -2.049586 -0.444444 0.399854 -2.010204 -0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_209'>
+				<Appearance USE='Material_34_IDX_34'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.480147 -2.413861 -1.333333 0.000000 -2.461151 -1.333333 0.000000 -2.200804 -0.888889 0.429356 -2.158516 -0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_210'>
+				<Appearance USE='Material_33_IDX_33'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.554747 -2.788900 -1.777778 -0.000000 -2.843538 -1.777778 0.000000 -2.461151 -1.333333 0.480147 -2.413861 -1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_211'>
+				<Appearance USE='Material_32_IDX_32'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.656854 -3.302230 -2.222222 0.000000 -3.366925 -2.222222 -0.000000 -2.843538 -1.777778 0.554747 -2.788900 -1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_212'>
+				<Appearance USE='Material_42_IDX_42'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.791533 -3.979306 -2.666667 0.000000 -4.057265 -2.666667 0.000000 -3.366925 -2.222222 0.656854 -3.302230 -2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_213'>
+				<Appearance USE='Material_30_IDX_30'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.965461 -4.853700 -3.111111 0.000000 -4.948790 -3.111111 0.000000 -4.057265 -2.666667 0.791533 -3.979306 -2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_214'>
+				<Appearance USE='Material_29_IDX_29'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.187263 -5.968772 -3.555556 0.000000 -6.085707 -3.555556 0.000000 -4.948790 -3.111111 0.965461 -4.853700 -3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_215'>
+				<Appearance USE='Material_28_IDX_28'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.467936 -7.379812 -4.000000 0.000000 -7.524391 -4.000000 0.000000 -6.085707 -3.555556 1.187263 -5.968772 -3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_216'>
+				<Appearance USE='Material_1_IDX_1'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='6.085707 -0.000000 -3.555556 5.968772 1.187263 -3.555556 7.379812 1.467936 -4.000000 7.524391 -0.000000 -4.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_217'>
+				<Appearance USE='Material_2_IDX_2'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='4.948790 0.000000 -3.111111 4.853700 0.965461 -3.111111 5.968772 1.187263 -3.555556 6.085707 -0.000000 -3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_218'>
+				<Appearance USE='Material_3_IDX_3'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='4.057265 0.000000 -2.666667 3.979306 0.791533 -2.666667 4.853700 0.965461 -3.111111 4.948790 0.000000 -3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_219'>
+				<Appearance USE='Material_4_IDX_4'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='3.366925 -0.000000 -2.222222 3.302230 0.656854 -2.222222 3.979306 0.791533 -2.666667 4.057265 0.000000 -2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_220'>
+				<Appearance USE='Material_5_IDX_5'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.843538 0.000000 -1.777778 2.788900 0.554747 -1.777778 3.302230 0.656854 -2.222222 3.366925 -0.000000 -2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_221'>
+				<Appearance USE='Material_6_IDX_6'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.461151 0.000000 -1.333333 2.413861 0.480147 -1.333333 2.788900 0.554747 -1.777778 2.843538 0.000000 -1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_222'>
+				<Appearance USE='Material_7_IDX_7'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.200804 -0.000000 -0.888889 2.158516 0.429356 -0.888889 2.413861 0.480147 -1.333333 2.461151 0.000000 -1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_223'>
+				<Appearance USE='Material_8_IDX_8'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.049586 0.000000 -0.444444 2.010204 0.399854 -0.444444 2.158516 0.429356 -0.888889 2.200804 -0.000000 -0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_224'>
+				<Appearance USE='Material_9_IDX_9'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.000000 -0.000000 -0.000000 1.961571 0.390181 -0.000000 2.010204 0.399854 -0.444444 2.049586 0.000000 -0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_225'>
+				<Appearance USE='Material_10_IDX_10'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='5.968772 1.187263 -3.555556 5.622460 2.328899 -3.555556 6.951631 2.879460 -4.000000 7.379812 1.467936 -4.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_226'>
+				<Appearance USE='Material_11_IDX_11'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='4.853700 0.965461 -3.111111 4.572086 1.893820 -3.111111 5.622460 2.328899 -3.555556 5.968772 1.187263 -3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_227'>
+				<Appearance USE='Material_12_IDX_12'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='3.979306 0.791533 -2.666667 3.748424 1.552648 -2.666667 4.572086 1.893820 -3.111111 4.853700 0.965461 -3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_228'>
+				<Appearance USE='Material_13_IDX_13'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='3.302230 0.656854 -2.222222 3.110633 1.288466 -2.222222 3.748424 1.552648 -2.666667 3.979306 0.791533 -2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_229'>
+				<Appearance USE='Material_14_IDX_14'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.788900 0.554747 -1.777778 2.627086 1.088175 -1.777778 3.110633 1.288466 -2.222222 3.302230 0.656854 -2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_230'>
+				<Appearance USE='Material_15_IDX_15'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.413861 0.480147 -1.333333 2.273807 0.941842 -1.333333 2.627086 1.088175 -1.777778 2.788900 0.554747 -1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_231'>
+				<Appearance USE='Material_16_IDX_16'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.158516 0.429356 -0.888889 2.033278 0.842211 -0.888889 2.273807 0.941842 -1.333333 2.413861 0.480147 -1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_232'>
+				<Appearance USE='Material_17_IDX_17'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.010204 0.399854 -0.444444 1.893571 0.784343 -0.444444 2.033278 0.842211 -0.888889 2.158516 0.429356 -0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_233'>
+				<Appearance USE='Material_18_IDX_18'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.961571 0.390181 -0.000000 1.847759 0.765367 -0.000000 1.893571 0.784343 -0.444444 2.010204 0.399854 -0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_234'>
+				<Appearance USE='Material_19_IDX_19'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='5.622460 2.328899 -3.555556 5.060081 3.381038 -3.555556 6.256303 4.180328 -4.000000 6.951631 2.879460 -4.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_235'>
+				<Appearance USE='Material_20_IDX_20'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='4.572086 1.893820 -3.111111 4.114769 2.749400 -3.111111 5.060081 3.381038 -3.555556 5.622460 2.328899 -3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_236'>
+				<Appearance USE='Material_21_IDX_21'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='3.748424 1.552648 -2.666667 3.373492 2.254096 -2.666667 4.114769 2.749400 -3.111111 4.572086 1.893820 -3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_237'>
+				<Appearance USE='Material_22_IDX_22'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='3.110633 1.288466 -2.222222 2.799496 1.870563 -2.222222 3.373492 2.254096 -2.666667 3.748424 1.552648 -2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_238'>
+				<Appearance USE='Material_23_IDX_23'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.627086 1.088175 -1.777778 2.364315 1.579785 -1.777778 2.799496 1.870563 -2.222222 3.110633 1.288466 -2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_239'>
+				<Appearance USE='Material_24_IDX_24'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.273807 0.941842 -1.333333 2.046372 1.367342 -1.333333 2.364315 1.579785 -1.777778 2.627086 1.088175 -1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_240'>
+				<Appearance USE='Material_25_IDX_25'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.033278 0.842211 -0.888889 1.829902 1.222701 -0.888889 2.046372 1.367342 -1.333333 2.273807 0.941842 -1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_241'>
+				<Appearance USE='Material_26_IDX_26'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.893571 0.784343 -0.444444 1.704169 1.138689 -0.444444 1.829902 1.222701 -0.888889 2.033278 0.842211 -0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_242'>
+				<Appearance USE='Material_27_IDX_27'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.847759 0.765367 -0.000000 1.662939 1.111140 -0.000000 1.704169 1.138689 -0.444444 1.893571 0.784343 -0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_243'>
+				<Appearance USE='Material_28_IDX_28'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='5.060081 3.381038 -3.555556 4.303245 4.303245 -3.555556 5.320548 5.320548 -4.000000 6.256303 4.180328 -4.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_244'>
+				<Appearance USE='Material_29_IDX_29'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='4.114769 2.749400 -3.111111 3.499323 3.499323 -3.111111 4.303245 4.303245 -3.555556 5.060081 3.381038 -3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_245'>
+				<Appearance USE='Material_30_IDX_30'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='3.373492 2.254096 -2.666667 2.868920 2.868920 -2.666667 3.499323 3.499323 -3.111111 4.114769 2.749400 -3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_246'>
+				<Appearance USE='Material_31_IDX_31'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.799496 1.870563 -2.222222 2.380775 2.380775 -2.222222 2.868920 2.868920 -2.666667 3.373492 2.254096 -2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_247'>
+				<Appearance USE='Material_32_IDX_32'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.364315 1.579785 -1.777778 2.010685 2.010685 -1.777778 2.380775 2.380775 -2.222222 2.799496 1.870563 -2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_248'>
+				<Appearance USE='Material_33_IDX_33'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.046372 1.367342 -1.333333 1.740297 1.740297 -1.333333 2.010685 2.010685 -1.777778 2.364315 1.579785 -1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_249'>
+				<Appearance USE='Material_34_IDX_34'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.829902 1.222701 -0.888889 1.556203 1.556203 -0.888889 1.740297 1.740297 -1.333333 2.046372 1.367342 -1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_250'>
+				<Appearance USE='Material_35_IDX_35'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.704169 1.138689 -0.444444 1.449276 1.449276 -0.444444 1.556203 1.556203 -0.888889 1.829902 1.222701 -0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_251'>
+				<Appearance USE='Material_36_IDX_36'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.662939 1.111140 -0.000000 1.414214 1.414214 -0.000000 1.449276 1.449276 -0.444444 1.704169 1.138689 -0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_252'>
+				<Appearance USE='Material_1_IDX_1'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='4.303245 4.303245 -3.555556 3.381038 5.060081 -3.555556 4.180328 6.256303 -4.000000 5.320548 5.320548 -4.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_253'>
+				<Appearance USE='Material_2_IDX_2'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='3.499323 3.499323 -3.111111 2.749400 4.114769 -3.111111 3.381038 5.060081 -3.555556 4.303245 4.303245 -3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_254'>
+				<Appearance USE='Material_3_IDX_3'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.868920 2.868920 -2.666667 2.254096 3.373492 -2.666667 2.749400 4.114769 -3.111111 3.499323 3.499323 -3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_255'>
+				<Appearance USE='Material_4_IDX_4'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.380775 2.380775 -2.222222 1.870563 2.799496 -2.222222 2.254096 3.373492 -2.666667 2.868920 2.868920 -2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_256'>
+				<Appearance USE='Material_5_IDX_5'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.010685 2.010685 -1.777778 1.579785 2.364315 -1.777778 1.870563 2.799496 -2.222222 2.380775 2.380775 -2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_257'>
+				<Appearance USE='Material_6_IDX_6'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.740297 1.740297 -1.333333 1.367342 2.046372 -1.333333 1.579785 2.364315 -1.777778 2.010685 2.010685 -1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_258'>
+				<Appearance USE='Material_7_IDX_7'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.556203 1.556203 -0.888889 1.222701 1.829902 -0.888889 1.367342 2.046372 -1.333333 1.740297 1.740297 -1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_259'>
+				<Appearance USE='Material_8_IDX_8'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.449276 1.449276 -0.444444 1.138689 1.704169 -0.444444 1.222701 1.829902 -0.888889 1.556203 1.556203 -0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_260'>
+				<Appearance USE='Material_9_IDX_9'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.414214 1.414214 -0.000000 1.111140 1.662939 -0.000000 1.138689 1.704169 -0.444444 1.449276 1.449276 -0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_261'>
+				<Appearance USE='Material_10_IDX_10'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='3.381038 5.060081 -3.555556 2.328899 5.622460 -3.555556 2.879460 6.951631 -4.000000 4.180328 6.256303 -4.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_262'>
+				<Appearance USE='Material_11_IDX_11'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.749400 4.114769 -3.111111 1.893820 4.572086 -3.111111 2.328899 5.622460 -3.555556 3.381038 5.060081 -3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_263'>
+				<Appearance USE='Material_12_IDX_12'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.254096 3.373492 -2.666667 1.552648 3.748424 -2.666667 1.893820 4.572086 -3.111111 2.749400 4.114769 -3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_264'>
+				<Appearance USE='Material_13_IDX_13'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.870563 2.799496 -2.222222 1.288466 3.110633 -2.222222 1.552648 3.748424 -2.666667 2.254096 3.373492 -2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_265'>
+				<Appearance USE='Material_14_IDX_14'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.579785 2.364315 -1.777778 1.088175 2.627086 -1.777778 1.288466 3.110633 -2.222222 1.870563 2.799496 -2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_266'>
+				<Appearance USE='Material_15_IDX_15'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.367342 2.046372 -1.333333 0.941842 2.273807 -1.333333 1.088175 2.627086 -1.777778 1.579785 2.364315 -1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_267'>
+				<Appearance USE='Material_16_IDX_16'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.222701 1.829902 -0.888889 0.842211 2.033278 -0.888889 0.941842 2.273807 -1.333333 1.367342 2.046372 -1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_268'>
+				<Appearance USE='Material_17_IDX_17'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.138689 1.704169 -0.444444 0.784343 1.893571 -0.444444 0.842211 2.033278 -0.888889 1.222701 1.829902 -0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_269'>
+				<Appearance USE='Material_18_IDX_18'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.111140 1.662939 -0.000000 0.765367 1.847759 -0.000000 0.784343 1.893571 -0.444444 1.138689 1.704169 -0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_270'>
+				<Appearance USE='Material_19_IDX_19'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.328899 5.622460 -3.555556 1.187263 5.968772 -3.555556 1.467936 7.379812 -4.000000 2.879460 6.951631 -4.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_271'>
+				<Appearance USE='Material_20_IDX_20'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.893820 4.572086 -3.111111 0.965461 4.853700 -3.111111 1.187263 5.968772 -3.555556 2.328899 5.622460 -3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_272'>
+				<Appearance USE='Material_21_IDX_21'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.552648 3.748424 -2.666667 0.791533 3.979306 -2.666667 0.965461 4.853700 -3.111111 1.893820 4.572086 -3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_273'>
+				<Appearance USE='Material_22_IDX_22'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.288466 3.110633 -2.222222 0.656854 3.302230 -2.222222 0.791533 3.979306 -2.666667 1.552648 3.748424 -2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_274'>
+				<Appearance USE='Material_23_IDX_23'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.088175 2.627086 -1.777778 0.554747 2.788900 -1.777778 0.656854 3.302230 -2.222222 1.288466 3.110633 -2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_275'>
+				<Appearance USE='Material_24_IDX_24'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.941842 2.273807 -1.333333 0.480147 2.413861 -1.333333 0.554747 2.788900 -1.777778 1.088175 2.627086 -1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_276'>
+				<Appearance USE='Material_25_IDX_25'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.842211 2.033278 -0.888889 0.429356 2.158516 -0.888889 0.480147 2.413861 -1.333333 0.941842 2.273807 -1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_277'>
+				<Appearance USE='Material_26_IDX_26'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.784343 1.893571 -0.444444 0.399854 2.010204 -0.444444 0.429356 2.158516 -0.888889 0.842211 2.033278 -0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_278'>
+				<Appearance USE='Material_27_IDX_27'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.765367 1.847759 -0.000000 0.390181 1.961571 -0.000000 0.399854 2.010204 -0.444444 0.784343 1.893571 -0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_279'>
+				<Appearance USE='Material_28_IDX_28'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.187263 5.968772 -3.555556 0.000000 6.085707 -3.555556 0.000000 7.524391 -4.000000 1.467936 7.379812 -4.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_280'>
+				<Appearance USE='Material_29_IDX_29'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.965461 4.853700 -3.111111 0.000000 4.948790 -3.111111 0.000000 6.085707 -3.555556 1.187263 5.968772 -3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_281'>
+				<Appearance USE='Material_30_IDX_30'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.791533 3.979306 -2.666667 0.000000 4.057265 -2.666667 0.000000 4.948790 -3.111111 0.965461 4.853700 -3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_282'>
+				<Appearance USE='Material_31_IDX_31'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.656854 3.302230 -2.222222 0.000000 3.366925 -2.222222 0.000000 4.057265 -2.666667 0.791533 3.979306 -2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_283'>
+				<Appearance USE='Material_32_IDX_32'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.554747 2.788900 -1.777778 -0.000000 2.843538 -1.777778 0.000000 3.366925 -2.222222 0.656854 3.302230 -2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_284'>
+				<Appearance USE='Material_33_IDX_33'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.480147 2.413861 -1.333333 0.000000 2.461151 -1.333333 -0.000000 2.843538 -1.777778 0.554747 2.788900 -1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_285'>
+				<Appearance USE='Material_34_IDX_34'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.429356 2.158516 -0.888889 0.000000 2.200804 -0.888889 0.000000 2.461151 -1.333333 0.480147 2.413861 -1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_286'>
+				<Appearance USE='Material_35_IDX_35'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.399854 2.010204 -0.444444 0.000000 2.049586 -0.444444 0.000000 2.200804 -0.888889 0.429356 2.158516 -0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_287'>
+				<Appearance USE='Material_36_IDX_36'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.390181 1.961571 -0.000000 -0.000000 2.000000 -0.000000 0.000000 2.049586 -0.444444 0.399854 2.010204 -0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_288'>
+				<Appearance DEF='Material_43_IDX_43'>
+					<Material diffuseColor='0.555299 0.736052 0.404196'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.049586 -0.000000 0.444444 -2.010204 -0.399854 0.444444 -1.961571 -0.390181 0.000000 -2.000000 0.000000 0.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_289'>
+				<Appearance DEF='Material_44_IDX_44'>
+					<Material diffuseColor='0.640113 0.743342 0.338781'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.200804 0.000000 0.888889 -2.158516 -0.429356 0.888889 -2.010204 -0.399854 0.444444 -2.049586 -0.000000 0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_290'>
+				<Appearance DEF='Material_45_IDX_45'>
+					<Material diffuseColor='0.724929 0.737828 0.290647'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.461151 -0.000000 1.333333 -2.413861 -0.480147 1.333333 -2.158516 -0.429356 0.888889 -2.200804 0.000000 0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_291'>
+				<Appearance DEF='Material_46_IDX_46'>
+					<Material diffuseColor='0.802212 0.715559 0.258133'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.843538 -0.000000 1.777778 -2.788900 -0.554747 1.777778 -2.413861 -0.480147 1.333333 -2.461151 -0.000000 1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_292'>
+				<Appearance DEF='Material_47_IDX_47'>
+					<Material diffuseColor='0.863512 0.670771 0.236564'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-3.366925 0.000000 2.222222 -3.302230 -0.656854 2.222222 -2.788900 -0.554747 1.777778 -2.843538 -0.000000 1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_293'>
+				<Appearance DEF='Material_48_IDX_48'>
+					<Material diffuseColor='0.896847 0.592598 0.218767'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-4.057265 -0.000000 2.666667 -3.979306 -0.791533 2.666667 -3.302230 -0.656854 2.222222 -3.366925 0.000000 2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_294'>
+				<Appearance DEF='Material_49_IDX_49'>
+					<Material diffuseColor='0.902444 0.482600 0.197465'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-4.948790 -0.000000 3.111111 -4.853700 -0.965461 3.111111 -3.979306 -0.791533 2.666667 -4.057265 -0.000000 2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_295'>
+				<Appearance DEF='Material_50_IDX_50'>
+					<Material diffuseColor='0.886356 0.346793 0.170992'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-6.085707 0.000000 3.555556 -5.968772 -1.187263 3.555556 -4.853700 -0.965461 3.111111 -4.948790 -0.000000 3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_296'>
+				<Appearance DEF='Material_51_IDX_51'>
+					<Material diffuseColor='0.866580 0.203151 0.144729'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-7.524391 0.000000 4.000000 -7.379812 -1.467936 4.000000 -5.968772 -1.187263 3.555556 -6.085707 0.000000 3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_297'>
+				<Appearance DEF='Material_52_IDX_52'>
+					<Material diffuseColor='0.555299 0.736052 0.404196'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.010204 -0.399854 0.444444 -1.893571 -0.784343 0.444444 -1.847759 -0.765367 0.000000 -1.961571 -0.390181 0.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_298'>
+				<Appearance DEF='Material_53_IDX_53'>
+					<Material diffuseColor='0.640113 0.743342 0.338781'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.158516 -0.429356 0.888889 -2.033278 -0.842211 0.888889 -1.893571 -0.784343 0.444444 -2.010204 -0.399854 0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_299'>
+				<Appearance DEF='Material_54_IDX_54'>
+					<Material diffuseColor='0.724929 0.737828 0.290647'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.413861 -0.480147 1.333333 -2.273807 -0.941842 1.333333 -2.033278 -0.842211 0.888889 -2.158516 -0.429356 0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_300'>
+				<Appearance DEF='Material_55_IDX_55'>
+					<Material diffuseColor='0.802212 0.715559 0.258133'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.788900 -0.554747 1.777778 -2.627086 -1.088175 1.777778 -2.273807 -0.941842 1.333333 -2.413861 -0.480147 1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_301'>
+				<Appearance DEF='Material_56_IDX_56'>
+					<Material diffuseColor='0.863512 0.670771 0.236564'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-3.302230 -0.656854 2.222222 -3.110633 -1.288466 2.222222 -2.627086 -1.088175 1.777778 -2.788900 -0.554747 1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_302'>
+				<Appearance DEF='Material_57_IDX_57'>
+					<Material diffuseColor='0.896847 0.592598 0.218767'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-3.979306 -0.791533 2.666667 -3.748424 -1.552648 2.666667 -3.110633 -1.288466 2.222222 -3.302230 -0.656854 2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_303'>
+				<Appearance DEF='Material_58_IDX_58'>
+					<Material diffuseColor='0.902444 0.482600 0.197465'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-4.853700 -0.965461 3.111111 -4.572086 -1.893820 3.111111 -3.748424 -1.552648 2.666667 -3.979306 -0.791533 2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_304'>
+				<Appearance DEF='Material_59_IDX_59'>
+					<Material diffuseColor='0.886356 0.346793 0.170992'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-5.968772 -1.187263 3.555556 -5.622460 -2.328899 3.555556 -4.572086 -1.893820 3.111111 -4.853700 -0.965461 3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_305'>
+				<Appearance DEF='Material_60_IDX_60'>
+					<Material diffuseColor='0.866580 0.203151 0.144729'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-7.379812 -1.467936 4.000000 -6.951631 -2.879460 4.000000 -5.622460 -2.328899 3.555556 -5.968772 -1.187263 3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_306'>
+				<Appearance USE='Material_52_IDX_52'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.893571 -0.784343 0.444444 -1.704169 -1.138689 0.444444 -1.662939 -1.111140 0.000000 -1.847759 -0.765367 0.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_307'>
+				<Appearance DEF='Material_61_IDX_61'>
+					<Material diffuseColor='0.640113 0.743342 0.338781'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.033278 -0.842211 0.888889 -1.829902 -1.222701 0.888889 -1.704169 -1.138689 0.444444 -1.893571 -0.784343 0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_308'>
+				<Appearance DEF='Material_62_IDX_62'>
+					<Material diffuseColor='0.724929 0.737828 0.290647'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.273807 -0.941842 1.333333 -2.046372 -1.367342 1.333333 -1.829902 -1.222701 0.888889 -2.033278 -0.842211 0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_309'>
+				<Appearance DEF='Material_63_IDX_63'>
+					<Material diffuseColor='0.802212 0.715559 0.258133'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.627086 -1.088175 1.777778 -2.364315 -1.579785 1.777778 -2.046372 -1.367342 1.333333 -2.273807 -0.941842 1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_310'>
+				<Appearance DEF='Material_64_IDX_64'>
+					<Material diffuseColor='0.863512 0.670771 0.236564'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-3.110633 -1.288466 2.222222 -2.799496 -1.870563 2.222222 -2.364315 -1.579785 1.777778 -2.627086 -1.088175 1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_311'>
+				<Appearance DEF='Material_65_IDX_65'>
+					<Material diffuseColor='0.896847 0.592598 0.218767'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-3.748424 -1.552648 2.666667 -3.373492 -2.254096 2.666667 -2.799496 -1.870563 2.222222 -3.110633 -1.288466 2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_312'>
+				<Appearance DEF='Material_66_IDX_66'>
+					<Material diffuseColor='0.902444 0.482600 0.197465'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-4.572086 -1.893820 3.111111 -4.114769 -2.749400 3.111111 -3.373492 -2.254096 2.666667 -3.748424 -1.552648 2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_313'>
+				<Appearance DEF='Material_67_IDX_67'>
+					<Material diffuseColor='0.886356 0.346793 0.170992'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-5.622460 -2.328899 3.555556 -5.060081 -3.381038 3.555556 -4.114769 -2.749400 3.111111 -4.572086 -1.893820 3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_314'>
+				<Appearance DEF='Material_68_IDX_68'>
+					<Material diffuseColor='0.866580 0.203151 0.144729'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-6.951631 -2.879460 4.000000 -6.256303 -4.180328 4.000000 -5.060081 -3.381038 3.555556 -5.622460 -2.328899 3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_315'>
+				<Appearance DEF='Material_69_IDX_69'>
+					<Material diffuseColor='0.555299 0.736052 0.404196'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.704169 -1.138689 0.444444 -1.449276 -1.449276 0.444444 -1.414214 -1.414214 0.000000 -1.662939 -1.111140 0.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_316'>
+				<Appearance DEF='Material_70_IDX_70'>
+					<Material diffuseColor='0.640113 0.743342 0.338781'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.829902 -1.222701 0.888889 -1.556203 -1.556203 0.888889 -1.449276 -1.449276 0.444444 -1.704169 -1.138689 0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_317'>
+				<Appearance DEF='Material_71_IDX_71'>
+					<Material diffuseColor='0.724929 0.737828 0.290647'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.046372 -1.367342 1.333333 -1.740297 -1.740297 1.333333 -1.556203 -1.556203 0.888889 -1.829902 -1.222701 0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_318'>
+				<Appearance DEF='Material_72_IDX_72'>
+					<Material diffuseColor='0.802212 0.715559 0.258133'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.364315 -1.579785 1.777778 -2.010685 -2.010685 1.777778 -1.740297 -1.740297 1.333333 -2.046372 -1.367342 1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_319'>
+				<Appearance DEF='Material_73_IDX_73'>
+					<Material diffuseColor='0.863512 0.670771 0.236564'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.799496 -1.870563 2.222222 -2.380775 -2.380775 2.222222 -2.010685 -2.010685 1.777778 -2.364315 -1.579785 1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_320'>
+				<Appearance DEF='Material_74_IDX_74'>
+					<Material diffuseColor='0.896847 0.592598 0.218767'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-3.373492 -2.254096 2.666667 -2.868920 -2.868920 2.666667 -2.380775 -2.380775 2.222222 -2.799496 -1.870563 2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_321'>
+				<Appearance DEF='Material_75_IDX_75'>
+					<Material diffuseColor='0.902444 0.482600 0.197465'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-4.114769 -2.749400 3.111111 -3.499323 -3.499323 3.111111 -2.868920 -2.868920 2.666667 -3.373492 -2.254096 2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_322'>
+				<Appearance DEF='Material_76_IDX_76'>
+					<Material diffuseColor='0.886356 0.346793 0.170992'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-5.060081 -3.381038 3.555556 -4.303245 -4.303245 3.555556 -3.499323 -3.499323 3.111111 -4.114769 -2.749400 3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_323'>
+				<Appearance DEF='Material_77_IDX_77'>
+					<Material diffuseColor='0.866580 0.203151 0.144729'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-6.256303 -4.180328 4.000000 -5.320548 -5.320548 4.000000 -4.303245 -4.303245 3.555556 -5.060081 -3.381038 3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_324'>
+				<Appearance USE='Material_43_IDX_43'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.449276 -1.449276 0.444444 -1.138689 -1.704169 0.444444 -1.111140 -1.662939 0.000000 -1.414214 -1.414214 0.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_325'>
+				<Appearance USE='Material_44_IDX_44'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.556203 -1.556203 0.888889 -1.222701 -1.829902 0.888889 -1.138689 -1.704169 0.444444 -1.449276 -1.449276 0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_326'>
+				<Appearance USE='Material_45_IDX_45'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.740297 -1.740297 1.333333 -1.367342 -2.046372 1.333333 -1.222701 -1.829902 0.888889 -1.556203 -1.556203 0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_327'>
+				<Appearance USE='Material_46_IDX_46'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.010685 -2.010685 1.777778 -1.579785 -2.364315 1.777778 -1.367342 -2.046372 1.333333 -1.740297 -1.740297 1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_328'>
+				<Appearance USE='Material_47_IDX_47'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.380775 -2.380775 2.222222 -1.870563 -2.799496 2.222222 -1.579785 -2.364315 1.777778 -2.010685 -2.010685 1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_329'>
+				<Appearance USE='Material_48_IDX_48'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.868920 -2.868920 2.666667 -2.254096 -3.373492 2.666667 -1.870563 -2.799496 2.222222 -2.380775 -2.380775 2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_330'>
+				<Appearance USE='Material_49_IDX_49'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-3.499323 -3.499323 3.111111 -2.749400 -4.114769 3.111111 -2.254096 -3.373492 2.666667 -2.868920 -2.868920 2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_331'>
+				<Appearance USE='Material_50_IDX_50'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-4.303245 -4.303245 3.555556 -3.381038 -5.060081 3.555556 -2.749400 -4.114769 3.111111 -3.499323 -3.499323 3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_332'>
+				<Appearance USE='Material_51_IDX_51'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-5.320548 -5.320548 4.000000 -4.180328 -6.256303 4.000000 -3.381038 -5.060081 3.555556 -4.303245 -4.303245 3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_333'>
+				<Appearance USE='Material_52_IDX_52'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.138689 -1.704169 0.444444 -0.784343 -1.893571 0.444444 -0.765367 -1.847759 0.000000 -1.111140 -1.662939 0.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_334'>
+				<Appearance USE='Material_53_IDX_53'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.222701 -1.829902 0.888889 -0.842211 -2.033278 0.888889 -0.784343 -1.893571 0.444444 -1.138689 -1.704169 0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_335'>
+				<Appearance USE='Material_54_IDX_54'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.367342 -2.046372 1.333333 -0.941842 -2.273807 1.333333 -0.842211 -2.033278 0.888889 -1.222701 -1.829902 0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_336'>
+				<Appearance USE='Material_55_IDX_55'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.579785 -2.364315 1.777778 -1.088175 -2.627086 1.777778 -0.941842 -2.273807 1.333333 -1.367342 -2.046372 1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_337'>
+				<Appearance USE='Material_56_IDX_56'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.870563 -2.799496 2.222222 -1.288466 -3.110633 2.222222 -1.088175 -2.627086 1.777778 -1.579785 -2.364315 1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_338'>
+				<Appearance USE='Material_57_IDX_57'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.254096 -3.373492 2.666667 -1.552648 -3.748424 2.666667 -1.288466 -3.110633 2.222222 -1.870563 -2.799496 2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_339'>
+				<Appearance USE='Material_58_IDX_58'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.749400 -4.114769 3.111111 -1.893820 -4.572086 3.111111 -1.552648 -3.748424 2.666667 -2.254096 -3.373492 2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_340'>
+				<Appearance USE='Material_59_IDX_59'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-3.381038 -5.060081 3.555556 -2.328899 -5.622460 3.555556 -1.893820 -4.572086 3.111111 -2.749400 -4.114769 3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_341'>
+				<Appearance USE='Material_60_IDX_60'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-4.180328 -6.256303 4.000000 -2.879460 -6.951631 4.000000 -2.328899 -5.622460 3.555556 -3.381038 -5.060081 3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_342'>
+				<Appearance USE='Material_52_IDX_52'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.784343 -1.893571 0.444444 -0.399854 -2.010204 0.444444 -0.390181 -1.961571 0.000000 -0.765367 -1.847759 0.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_343'>
+				<Appearance USE='Material_61_IDX_61'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.842211 -2.033278 0.888889 -0.429356 -2.158516 0.888889 -0.399854 -2.010204 0.444444 -0.784343 -1.893571 0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_344'>
+				<Appearance USE='Material_62_IDX_62'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.941842 -2.273807 1.333333 -0.480147 -2.413861 1.333333 -0.429356 -2.158516 0.888889 -0.842211 -2.033278 0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_345'>
+				<Appearance USE='Material_63_IDX_63'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.088175 -2.627086 1.777778 -0.554747 -2.788900 1.777778 -0.480147 -2.413861 1.333333 -0.941842 -2.273807 1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_346'>
+				<Appearance USE='Material_64_IDX_64'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.288466 -3.110633 2.222222 -0.656854 -3.302230 2.222222 -0.554747 -2.788900 1.777778 -1.088175 -2.627086 1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_347'>
+				<Appearance USE='Material_65_IDX_65'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.552648 -3.748424 2.666667 -0.791533 -3.979306 2.666667 -0.656854 -3.302230 2.222222 -1.288466 -3.110633 2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_348'>
+				<Appearance USE='Material_66_IDX_66'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.893820 -4.572086 3.111111 -0.965461 -4.853700 3.111111 -0.791533 -3.979306 2.666667 -1.552648 -3.748424 2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_349'>
+				<Appearance USE='Material_67_IDX_67'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.328899 -5.622460 3.555556 -1.187263 -5.968772 3.555556 -0.965461 -4.853700 3.111111 -1.893820 -4.572086 3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_350'>
+				<Appearance USE='Material_68_IDX_68'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.879460 -6.951631 4.000000 -1.467936 -7.379812 4.000000 -1.187263 -5.968772 3.555556 -2.328899 -5.622460 3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_351'>
+				<Appearance USE='Material_69_IDX_69'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.399854 -2.010204 0.444444 -0.000000 -2.049586 0.444444 0.000000 -2.000000 0.000000 -0.390181 -1.961571 0.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_352'>
+				<Appearance USE='Material_70_IDX_70'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.429356 -2.158516 0.888889 -0.000000 -2.200804 0.888889 -0.000000 -2.049586 0.444444 -0.399854 -2.010204 0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_353'>
+				<Appearance USE='Material_71_IDX_71'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.480147 -2.413861 1.333333 -0.000000 -2.461151 1.333333 -0.000000 -2.200804 0.888889 -0.429356 -2.158516 0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_354'>
+				<Appearance USE='Material_72_IDX_72'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.554747 -2.788900 1.777778 0.000000 -2.843538 1.777778 -0.000000 -2.461151 1.333333 -0.480147 -2.413861 1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_355'>
+				<Appearance USE='Material_73_IDX_73'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.656854 -3.302230 2.222222 -0.000000 -3.366925 2.222222 0.000000 -2.843538 1.777778 -0.554747 -2.788900 1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_356'>
+				<Appearance USE='Material_74_IDX_74'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.791533 -3.979306 2.666667 -0.000000 -4.057265 2.666667 -0.000000 -3.366925 2.222222 -0.656854 -3.302230 2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_357'>
+				<Appearance USE='Material_75_IDX_75'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.965461 -4.853700 3.111111 -0.000000 -4.948790 3.111111 -0.000000 -4.057265 2.666667 -0.791533 -3.979306 2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_358'>
+				<Appearance USE='Material_76_IDX_76'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.187263 -5.968772 3.555556 -0.000000 -6.085707 3.555556 -0.000000 -4.948790 3.111111 -0.965461 -4.853700 3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_359'>
+				<Appearance USE='Material_77_IDX_77'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.467936 -7.379812 4.000000 -0.000000 -7.524391 4.000000 -0.000000 -6.085707 3.555556 -1.187263 -5.968772 3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_360'>
+				<Appearance USE='Material_51_IDX_51'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-6.085707 -0.000000 3.555556 -5.968772 1.187263 3.555556 -7.379812 1.467936 4.000000 -7.524391 -0.000000 4.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_361'>
+				<Appearance DEF='Material_78_IDX_78'>
+					<Material diffuseColor='0.886356 0.346793 0.170992'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-4.948790 0.000000 3.111111 -4.853700 0.965461 3.111111 -5.968772 1.187263 3.555556 -6.085707 -0.000000 3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_362'>
+				<Appearance USE='Material_49_IDX_49'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-4.057265 0.000000 2.666667 -3.979306 0.791533 2.666667 -4.853700 0.965461 3.111111 -4.948790 0.000000 3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_363'>
+				<Appearance USE='Material_48_IDX_48'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-3.366925 -0.000000 2.222222 -3.302230 0.656854 2.222222 -3.979306 0.791533 2.666667 -4.057265 0.000000 2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_364'>
+				<Appearance USE='Material_47_IDX_47'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.843538 0.000000 1.777778 -2.788900 0.554747 1.777778 -3.302230 0.656854 2.222222 -3.366925 -0.000000 2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_365'>
+				<Appearance USE='Material_46_IDX_46'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.461151 0.000000 1.333333 -2.413861 0.480147 1.333333 -2.788900 0.554747 1.777778 -2.843538 0.000000 1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_366'>
+				<Appearance USE='Material_45_IDX_45'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.200804 -0.000000 0.888889 -2.158516 0.429356 0.888889 -2.413861 0.480147 1.333333 -2.461151 0.000000 1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_367'>
+				<Appearance USE='Material_44_IDX_44'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.049586 0.000000 0.444444 -2.010204 0.399854 0.444444 -2.158516 0.429356 0.888889 -2.200804 -0.000000 0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_368'>
+				<Appearance USE='Material_43_IDX_43'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.000000 -0.000000 0.000000 -1.961571 0.390181 0.000000 -2.010204 0.399854 0.444444 -2.049586 0.000000 0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_369'>
+				<Appearance USE='Material_60_IDX_60'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-5.968772 1.187263 3.555556 -5.622460 2.328899 3.555556 -6.951631 2.879460 4.000000 -7.379812 1.467936 4.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_370'>
+				<Appearance USE='Material_59_IDX_59'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-4.853700 0.965461 3.111111 -4.572086 1.893820 3.111111 -5.622460 2.328899 3.555556 -5.968772 1.187263 3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_371'>
+				<Appearance DEF='Material_79_IDX_79'>
+					<Material diffuseColor='0.902444 0.482600 0.197465'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-3.979306 0.791533 2.666667 -3.748424 1.552648 2.666667 -4.572086 1.893820 3.111111 -4.853700 0.965461 3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_372'>
+				<Appearance USE='Material_57_IDX_57'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-3.302230 0.656854 2.222222 -3.110633 1.288466 2.222222 -3.748424 1.552648 2.666667 -3.979306 0.791533 2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_373'>
+				<Appearance USE='Material_56_IDX_56'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.788900 0.554747 1.777778 -2.627086 1.088175 1.777778 -3.110633 1.288466 2.222222 -3.302230 0.656854 2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_374'>
+				<Appearance USE='Material_55_IDX_55'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.413861 0.480147 1.333333 -2.273807 0.941842 1.333333 -2.627086 1.088175 1.777778 -2.788900 0.554747 1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_375'>
+				<Appearance USE='Material_54_IDX_54'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.158516 0.429356 0.888889 -2.033278 0.842211 0.888889 -2.273807 0.941842 1.333333 -2.413861 0.480147 1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_376'>
+				<Appearance DEF='Material_80_IDX_80'>
+					<Material diffuseColor='0.640113 0.743342 0.338781'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.010204 0.399854 0.444444 -1.893571 0.784343 0.444444 -2.033278 0.842211 0.888889 -2.158516 0.429356 0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_377'>
+				<Appearance USE='Material_52_IDX_52'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.961571 0.390181 0.000000 -1.847759 0.765367 0.000000 -1.893571 0.784343 0.444444 -2.010204 0.399854 0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_378'>
+				<Appearance USE='Material_68_IDX_68'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-5.622460 2.328899 3.555556 -5.060081 3.381038 3.555556 -6.256303 4.180328 4.000000 -6.951631 2.879460 4.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_379'>
+				<Appearance USE='Material_67_IDX_67'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-4.572086 1.893820 3.111111 -4.114769 2.749400 3.111111 -5.060081 3.381038 3.555556 -5.622460 2.328899 3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_380'>
+				<Appearance USE='Material_66_IDX_66'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-3.748424 1.552648 2.666667 -3.373492 2.254096 2.666667 -4.114769 2.749400 3.111111 -4.572086 1.893820 3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_381'>
+				<Appearance USE='Material_65_IDX_65'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-3.110633 1.288466 2.222222 -2.799496 1.870563 2.222222 -3.373492 2.254096 2.666667 -3.748424 1.552648 2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_382'>
+				<Appearance USE='Material_64_IDX_64'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.627086 1.088175 1.777778 -2.364315 1.579785 1.777778 -2.799496 1.870563 2.222222 -3.110633 1.288466 2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_383'>
+				<Appearance USE='Material_63_IDX_63'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.273807 0.941842 1.333333 -2.046372 1.367342 1.333333 -2.364315 1.579785 1.777778 -2.627086 1.088175 1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_384'>
+				<Appearance DEF='Material_81_IDX_81'>
+					<Material diffuseColor='0.724929 0.737828 0.290647'/>
+					
+				</Appearance>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.033278 0.842211 0.888889 -1.829902 1.222701 0.888889 -2.046372 1.367342 1.333333 -2.273807 0.941842 1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_385'>
+				<Appearance USE='Material_61_IDX_61'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.893571 0.784343 0.444444 -1.704169 1.138689 0.444444 -1.829902 1.222701 0.888889 -2.033278 0.842211 0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_386'>
+				<Appearance USE='Material_52_IDX_52'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.847759 0.765367 0.000000 -1.662939 1.111140 0.000000 -1.704169 1.138689 0.444444 -1.893571 0.784343 0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_387'>
+				<Appearance USE='Material_77_IDX_77'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-5.060081 3.381038 3.555556 -4.303245 4.303245 3.555556 -5.320548 5.320548 4.000000 -6.256303 4.180328 4.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_388'>
+				<Appearance USE='Material_76_IDX_76'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-4.114769 2.749400 3.111111 -3.499323 3.499323 3.111111 -4.303245 4.303245 3.555556 -5.060081 3.381038 3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_389'>
+				<Appearance USE='Material_75_IDX_75'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-3.373492 2.254096 2.666667 -2.868920 2.868920 2.666667 -3.499323 3.499323 3.111111 -4.114769 2.749400 3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_390'>
+				<Appearance USE='Material_74_IDX_74'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.799496 1.870563 2.222222 -2.380775 2.380775 2.222222 -2.868920 2.868920 2.666667 -3.373492 2.254096 2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_391'>
+				<Appearance USE='Material_73_IDX_73'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.364315 1.579785 1.777778 -2.010685 2.010685 1.777778 -2.380775 2.380775 2.222222 -2.799496 1.870563 2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_392'>
+				<Appearance USE='Material_72_IDX_72'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.046372 1.367342 1.333333 -1.740297 1.740297 1.333333 -2.010685 2.010685 1.777778 -2.364315 1.579785 1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_393'>
+				<Appearance USE='Material_71_IDX_71'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.829902 1.222701 0.888889 -1.556203 1.556203 0.888889 -1.740297 1.740297 1.333333 -2.046372 1.367342 1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_394'>
+				<Appearance USE='Material_70_IDX_70'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.704169 1.138689 0.444444 -1.449276 1.449276 0.444444 -1.556203 1.556203 0.888889 -1.829902 1.222701 0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_395'>
+				<Appearance USE='Material_69_IDX_69'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.662939 1.111140 0.000000 -1.414214 1.414214 0.000000 -1.449276 1.449276 0.444444 -1.704169 1.138689 0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_396'>
+				<Appearance USE='Material_51_IDX_51'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-4.303245 4.303245 3.555556 -3.381038 5.060081 3.555556 -4.180328 6.256303 4.000000 -5.320548 5.320548 4.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_397'>
+				<Appearance USE='Material_78_IDX_78'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-3.499323 3.499323 3.111111 -2.749400 4.114769 3.111111 -3.381038 5.060081 3.555556 -4.303245 4.303245 3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_398'>
+				<Appearance USE='Material_49_IDX_49'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.868920 2.868920 2.666667 -2.254096 3.373492 2.666667 -2.749400 4.114769 3.111111 -3.499323 3.499323 3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_399'>
+				<Appearance USE='Material_48_IDX_48'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.380775 2.380775 2.222222 -1.870563 2.799496 2.222222 -2.254096 3.373492 2.666667 -2.868920 2.868920 2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_400'>
+				<Appearance USE='Material_47_IDX_47'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.010685 2.010685 1.777778 -1.579785 2.364315 1.777778 -1.870563 2.799496 2.222222 -2.380775 2.380775 2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_401'>
+				<Appearance USE='Material_46_IDX_46'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.740297 1.740297 1.333333 -1.367342 2.046372 1.333333 -1.579785 2.364315 1.777778 -2.010685 2.010685 1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_402'>
+				<Appearance USE='Material_45_IDX_45'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.556203 1.556203 0.888889 -1.222701 1.829902 0.888889 -1.367342 2.046372 1.333333 -1.740297 1.740297 1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_403'>
+				<Appearance USE='Material_44_IDX_44'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.449276 1.449276 0.444444 -1.138689 1.704169 0.444444 -1.222701 1.829902 0.888889 -1.556203 1.556203 0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_404'>
+				<Appearance USE='Material_43_IDX_43'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.414214 1.414214 0.000000 -1.111140 1.662939 0.000000 -1.138689 1.704169 0.444444 -1.449276 1.449276 0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_405'>
+				<Appearance USE='Material_60_IDX_60'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-3.381038 5.060081 3.555556 -2.328899 5.622460 3.555556 -2.879460 6.951631 4.000000 -4.180328 6.256303 4.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_406'>
+				<Appearance USE='Material_59_IDX_59'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.749400 4.114769 3.111111 -1.893820 4.572086 3.111111 -2.328899 5.622460 3.555556 -3.381038 5.060081 3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_407'>
+				<Appearance USE='Material_79_IDX_79'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.254096 3.373492 2.666667 -1.552648 3.748424 2.666667 -1.893820 4.572086 3.111111 -2.749400 4.114769 3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_408'>
+				<Appearance USE='Material_57_IDX_57'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.870563 2.799496 2.222222 -1.288466 3.110633 2.222222 -1.552648 3.748424 2.666667 -2.254096 3.373492 2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_409'>
+				<Appearance USE='Material_56_IDX_56'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.579785 2.364315 1.777778 -1.088175 2.627086 1.777778 -1.288466 3.110633 2.222222 -1.870563 2.799496 2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_410'>
+				<Appearance USE='Material_55_IDX_55'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.367342 2.046372 1.333333 -0.941842 2.273807 1.333333 -1.088175 2.627086 1.777778 -1.579785 2.364315 1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_411'>
+				<Appearance USE='Material_54_IDX_54'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.222701 1.829902 0.888889 -0.842211 2.033278 0.888889 -0.941842 2.273807 1.333333 -1.367342 2.046372 1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_412'>
+				<Appearance USE='Material_80_IDX_80'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.138689 1.704169 0.444444 -0.784343 1.893571 0.444444 -0.842211 2.033278 0.888889 -1.222701 1.829902 0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_413'>
+				<Appearance USE='Material_52_IDX_52'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.111140 1.662939 0.000000 -0.765367 1.847759 0.000000 -0.784343 1.893571 0.444444 -1.138689 1.704169 0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_414'>
+				<Appearance USE='Material_68_IDX_68'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-2.328899 5.622460 3.555556 -1.187263 5.968772 3.555556 -1.467936 7.379812 4.000000 -2.879460 6.951631 4.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_415'>
+				<Appearance USE='Material_67_IDX_67'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.893820 4.572086 3.111111 -0.965461 4.853700 3.111111 -1.187263 5.968772 3.555556 -2.328899 5.622460 3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_416'>
+				<Appearance USE='Material_66_IDX_66'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.552648 3.748424 2.666667 -0.791533 3.979306 2.666667 -0.965461 4.853700 3.111111 -1.893820 4.572086 3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_417'>
+				<Appearance USE='Material_65_IDX_65'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.288466 3.110633 2.222222 -0.656854 3.302230 2.222222 -0.791533 3.979306 2.666667 -1.552648 3.748424 2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_418'>
+				<Appearance USE='Material_64_IDX_64'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.088175 2.627086 1.777778 -0.554747 2.788900 1.777778 -0.656854 3.302230 2.222222 -1.288466 3.110633 2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_419'>
+				<Appearance USE='Material_63_IDX_63'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.941842 2.273807 1.333333 -0.480147 2.413861 1.333333 -0.554747 2.788900 1.777778 -1.088175 2.627086 1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_420'>
+				<Appearance USE='Material_81_IDX_81'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.842211 2.033278 0.888889 -0.429356 2.158516 0.888889 -0.480147 2.413861 1.333333 -0.941842 2.273807 1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_421'>
+				<Appearance USE='Material_61_IDX_61'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.784343 1.893571 0.444444 -0.399854 2.010204 0.444444 -0.429356 2.158516 0.888889 -0.842211 2.033278 0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_422'>
+				<Appearance USE='Material_52_IDX_52'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.765367 1.847759 0.000000 -0.390181 1.961571 0.000000 -0.399854 2.010204 0.444444 -0.784343 1.893571 0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_423'>
+				<Appearance USE='Material_77_IDX_77'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-1.187263 5.968772 3.555556 -0.000000 6.085707 3.555556 -0.000000 7.524391 4.000000 -1.467936 7.379812 4.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_424'>
+				<Appearance USE='Material_76_IDX_76'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.965461 4.853700 3.111111 -0.000000 4.948790 3.111111 -0.000000 6.085707 3.555556 -1.187263 5.968772 3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_425'>
+				<Appearance USE='Material_75_IDX_75'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.791533 3.979306 2.666667 -0.000000 4.057265 2.666667 -0.000000 4.948790 3.111111 -0.965461 4.853700 3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_426'>
+				<Appearance USE='Material_74_IDX_74'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.656854 3.302230 2.222222 -0.000000 3.366925 2.222222 -0.000000 4.057265 2.666667 -0.791533 3.979306 2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_427'>
+				<Appearance USE='Material_73_IDX_73'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.554747 2.788900 1.777778 0.000000 2.843538 1.777778 -0.000000 3.366925 2.222222 -0.656854 3.302230 2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_428'>
+				<Appearance USE='Material_72_IDX_72'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.480147 2.413861 1.333333 -0.000000 2.461151 1.333333 0.000000 2.843538 1.777778 -0.554747 2.788900 1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_429'>
+				<Appearance USE='Material_71_IDX_71'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.429356 2.158516 0.888889 -0.000000 2.200804 0.888889 -0.000000 2.461151 1.333333 -0.480147 2.413861 1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_430'>
+				<Appearance USE='Material_70_IDX_70'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.399854 2.010204 0.444444 -0.000000 2.049586 0.444444 -0.000000 2.200804 0.888889 -0.429356 2.158516 0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_431'>
+				<Appearance USE='Material_69_IDX_69'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='-0.390181 1.961571 0.000000 0.000000 2.000000 0.000000 -0.000000 2.049586 0.444444 -0.399854 2.010204 0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_432'>
+				<Appearance USE='Material_51_IDX_51'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='6.085707 0.000000 3.555556 5.968772 -1.187263 3.555556 7.379812 -1.467936 4.000000 7.524391 0.000000 4.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_433'>
+				<Appearance USE='Material_78_IDX_78'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='4.948790 -0.000000 3.111111 4.853700 -0.965461 3.111111 5.968772 -1.187263 3.555556 6.085707 0.000000 3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_434'>
+				<Appearance USE='Material_49_IDX_49'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='4.057265 -0.000000 2.666667 3.979306 -0.791533 2.666667 4.853700 -0.965461 3.111111 4.948790 -0.000000 3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_435'>
+				<Appearance USE='Material_48_IDX_48'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='3.366925 0.000000 2.222222 3.302230 -0.656854 2.222222 3.979306 -0.791533 2.666667 4.057265 -0.000000 2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_436'>
+				<Appearance USE='Material_47_IDX_47'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.843538 -0.000000 1.777778 2.788900 -0.554747 1.777778 3.302230 -0.656854 2.222222 3.366925 0.000000 2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_437'>
+				<Appearance USE='Material_46_IDX_46'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.461151 -0.000000 1.333333 2.413861 -0.480147 1.333333 2.788900 -0.554747 1.777778 2.843538 -0.000000 1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_438'>
+				<Appearance USE='Material_45_IDX_45'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.200804 0.000000 0.888889 2.158516 -0.429356 0.888889 2.413861 -0.480147 1.333333 2.461151 -0.000000 1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_439'>
+				<Appearance USE='Material_44_IDX_44'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.049586 -0.000000 0.444444 2.010204 -0.399854 0.444444 2.158516 -0.429356 0.888889 2.200804 0.000000 0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_440'>
+				<Appearance USE='Material_43_IDX_43'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.000000 0.000000 0.000000 1.961571 -0.390181 0.000000 2.010204 -0.399854 0.444444 2.049586 -0.000000 0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_441'>
+				<Appearance USE='Material_60_IDX_60'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='5.968772 -1.187263 3.555556 5.622460 -2.328899 3.555556 6.951631 -2.879460 4.000000 7.379812 -1.467936 4.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_442'>
+				<Appearance USE='Material_59_IDX_59'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='4.853700 -0.965461 3.111111 4.572086 -1.893820 3.111111 5.622460 -2.328899 3.555556 5.968772 -1.187263 3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_443'>
+				<Appearance USE='Material_79_IDX_79'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='3.979306 -0.791533 2.666667 3.748424 -1.552648 2.666667 4.572086 -1.893820 3.111111 4.853700 -0.965461 3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_444'>
+				<Appearance USE='Material_57_IDX_57'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='3.302230 -0.656854 2.222222 3.110633 -1.288466 2.222222 3.748424 -1.552648 2.666667 3.979306 -0.791533 2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_445'>
+				<Appearance USE='Material_56_IDX_56'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.788900 -0.554747 1.777778 2.627086 -1.088175 1.777778 3.110633 -1.288466 2.222222 3.302230 -0.656854 2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_446'>
+				<Appearance USE='Material_55_IDX_55'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.413861 -0.480147 1.333333 2.273807 -0.941842 1.333333 2.627086 -1.088175 1.777778 2.788900 -0.554747 1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_447'>
+				<Appearance USE='Material_54_IDX_54'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.158516 -0.429356 0.888889 2.033278 -0.842211 0.888889 2.273807 -0.941842 1.333333 2.413861 -0.480147 1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_448'>
+				<Appearance USE='Material_80_IDX_80'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.010204 -0.399854 0.444444 1.893571 -0.784343 0.444444 2.033278 -0.842211 0.888889 2.158516 -0.429356 0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_449'>
+				<Appearance USE='Material_52_IDX_52'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.961571 -0.390181 0.000000 1.847759 -0.765367 0.000000 1.893571 -0.784343 0.444444 2.010204 -0.399854 0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_450'>
+				<Appearance USE='Material_68_IDX_68'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='5.622460 -2.328899 3.555556 5.060081 -3.381038 3.555556 6.256303 -4.180328 4.000000 6.951631 -2.879460 4.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_451'>
+				<Appearance USE='Material_67_IDX_67'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='4.572086 -1.893820 3.111111 4.114769 -2.749400 3.111111 5.060081 -3.381038 3.555556 5.622460 -2.328899 3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_452'>
+				<Appearance USE='Material_66_IDX_66'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='3.748424 -1.552648 2.666667 3.373492 -2.254096 2.666667 4.114769 -2.749400 3.111111 4.572086 -1.893820 3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_453'>
+				<Appearance USE='Material_65_IDX_65'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='3.110633 -1.288466 2.222222 2.799496 -1.870563 2.222222 3.373492 -2.254096 2.666667 3.748424 -1.552648 2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_454'>
+				<Appearance USE='Material_64_IDX_64'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.627086 -1.088175 1.777778 2.364315 -1.579785 1.777778 2.799496 -1.870563 2.222222 3.110633 -1.288466 2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_455'>
+				<Appearance USE='Material_63_IDX_63'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.273807 -0.941842 1.333333 2.046372 -1.367342 1.333333 2.364315 -1.579785 1.777778 2.627086 -1.088175 1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_456'>
+				<Appearance USE='Material_81_IDX_81'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.033278 -0.842211 0.888889 1.829902 -1.222701 0.888889 2.046372 -1.367342 1.333333 2.273807 -0.941842 1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_457'>
+				<Appearance USE='Material_61_IDX_61'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.893571 -0.784343 0.444444 1.704169 -1.138689 0.444444 1.829902 -1.222701 0.888889 2.033278 -0.842211 0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_458'>
+				<Appearance USE='Material_52_IDX_52'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.847759 -0.765367 0.000000 1.662939 -1.111140 0.000000 1.704169 -1.138689 0.444444 1.893571 -0.784343 0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_459'>
+				<Appearance USE='Material_77_IDX_77'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='5.060081 -3.381038 3.555556 4.303245 -4.303245 3.555556 5.320548 -5.320548 4.000000 6.256303 -4.180328 4.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_460'>
+				<Appearance USE='Material_76_IDX_76'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='4.114769 -2.749400 3.111111 3.499323 -3.499323 3.111111 4.303245 -4.303245 3.555556 5.060081 -3.381038 3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_461'>
+				<Appearance USE='Material_75_IDX_75'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='3.373492 -2.254096 2.666667 2.868920 -2.868920 2.666667 3.499323 -3.499323 3.111111 4.114769 -2.749400 3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_462'>
+				<Appearance USE='Material_74_IDX_74'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.799496 -1.870563 2.222222 2.380775 -2.380775 2.222222 2.868920 -2.868920 2.666667 3.373492 -2.254096 2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_463'>
+				<Appearance USE='Material_73_IDX_73'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.364315 -1.579785 1.777778 2.010685 -2.010685 1.777778 2.380775 -2.380775 2.222222 2.799496 -1.870563 2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_464'>
+				<Appearance USE='Material_72_IDX_72'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.046372 -1.367342 1.333333 1.740297 -1.740297 1.333333 2.010685 -2.010685 1.777778 2.364315 -1.579785 1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_465'>
+				<Appearance USE='Material_71_IDX_71'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.829902 -1.222701 0.888889 1.556203 -1.556203 0.888889 1.740297 -1.740297 1.333333 2.046372 -1.367342 1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_466'>
+				<Appearance USE='Material_70_IDX_70'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.704169 -1.138689 0.444444 1.449276 -1.449276 0.444444 1.556203 -1.556203 0.888889 1.829902 -1.222701 0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_467'>
+				<Appearance USE='Material_69_IDX_69'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.662939 -1.111140 0.000000 1.414214 -1.414214 0.000000 1.449276 -1.449276 0.444444 1.704169 -1.138689 0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_468'>
+				<Appearance USE='Material_51_IDX_51'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='4.303245 -4.303245 3.555556 3.381038 -5.060081 3.555556 4.180328 -6.256303 4.000000 5.320548 -5.320548 4.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_469'>
+				<Appearance USE='Material_78_IDX_78'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='3.499323 -3.499323 3.111111 2.749400 -4.114769 3.111111 3.381038 -5.060081 3.555556 4.303245 -4.303245 3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_470'>
+				<Appearance USE='Material_49_IDX_49'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.868920 -2.868920 2.666667 2.254096 -3.373492 2.666667 2.749400 -4.114769 3.111111 3.499323 -3.499323 3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_471'>
+				<Appearance USE='Material_48_IDX_48'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.380775 -2.380775 2.222222 1.870563 -2.799496 2.222222 2.254096 -3.373492 2.666667 2.868920 -2.868920 2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_472'>
+				<Appearance USE='Material_47_IDX_47'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.010685 -2.010685 1.777778 1.579785 -2.364315 1.777778 1.870563 -2.799496 2.222222 2.380775 -2.380775 2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_473'>
+				<Appearance USE='Material_46_IDX_46'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.740297 -1.740297 1.333333 1.367342 -2.046372 1.333333 1.579785 -2.364315 1.777778 2.010685 -2.010685 1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_474'>
+				<Appearance USE='Material_45_IDX_45'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.556203 -1.556203 0.888889 1.222701 -1.829902 0.888889 1.367342 -2.046372 1.333333 1.740297 -1.740297 1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_475'>
+				<Appearance USE='Material_44_IDX_44'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.449276 -1.449276 0.444444 1.138689 -1.704169 0.444444 1.222701 -1.829902 0.888889 1.556203 -1.556203 0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_476'>
+				<Appearance USE='Material_43_IDX_43'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.414214 -1.414214 0.000000 1.111140 -1.662939 0.000000 1.138689 -1.704169 0.444444 1.449276 -1.449276 0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_477'>
+				<Appearance USE='Material_60_IDX_60'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='3.381038 -5.060081 3.555556 2.328899 -5.622460 3.555556 2.879460 -6.951631 4.000000 4.180328 -6.256303 4.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_478'>
+				<Appearance USE='Material_59_IDX_59'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.749400 -4.114769 3.111111 1.893820 -4.572086 3.111111 2.328899 -5.622460 3.555556 3.381038 -5.060081 3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_479'>
+				<Appearance USE='Material_79_IDX_79'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.254096 -3.373492 2.666667 1.552648 -3.748424 2.666667 1.893820 -4.572086 3.111111 2.749400 -4.114769 3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_480'>
+				<Appearance USE='Material_57_IDX_57'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.870563 -2.799496 2.222222 1.288466 -3.110633 2.222222 1.552648 -3.748424 2.666667 2.254096 -3.373492 2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_481'>
+				<Appearance USE='Material_56_IDX_56'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.579785 -2.364315 1.777778 1.088175 -2.627086 1.777778 1.288466 -3.110633 2.222222 1.870563 -2.799496 2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_482'>
+				<Appearance USE='Material_55_IDX_55'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.367342 -2.046372 1.333333 0.941842 -2.273807 1.333333 1.088175 -2.627086 1.777778 1.579785 -2.364315 1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_483'>
+				<Appearance USE='Material_54_IDX_54'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.222701 -1.829902 0.888889 0.842211 -2.033278 0.888889 0.941842 -2.273807 1.333333 1.367342 -2.046372 1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_484'>
+				<Appearance USE='Material_80_IDX_80'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.138689 -1.704169 0.444444 0.784343 -1.893571 0.444444 0.842211 -2.033278 0.888889 1.222701 -1.829902 0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_485'>
+				<Appearance USE='Material_52_IDX_52'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.111140 -1.662939 0.000000 0.765367 -1.847759 0.000000 0.784343 -1.893571 0.444444 1.138689 -1.704169 0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_486'>
+				<Appearance USE='Material_68_IDX_68'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.328899 -5.622460 3.555556 1.187263 -5.968772 3.555556 1.467936 -7.379812 4.000000 2.879460 -6.951631 4.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_487'>
+				<Appearance USE='Material_67_IDX_67'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.893820 -4.572086 3.111111 0.965461 -4.853700 3.111111 1.187263 -5.968772 3.555556 2.328899 -5.622460 3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_488'>
+				<Appearance USE='Material_66_IDX_66'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.552648 -3.748424 2.666667 0.791533 -3.979306 2.666667 0.965461 -4.853700 3.111111 1.893820 -4.572086 3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_489'>
+				<Appearance USE='Material_65_IDX_65'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.288466 -3.110633 2.222222 0.656854 -3.302230 2.222222 0.791533 -3.979306 2.666667 1.552648 -3.748424 2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_490'>
+				<Appearance USE='Material_64_IDX_64'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.088175 -2.627086 1.777778 0.554747 -2.788900 1.777778 0.656854 -3.302230 2.222222 1.288466 -3.110633 2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_491'>
+				<Appearance USE='Material_63_IDX_63'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.941842 -2.273807 1.333333 0.480147 -2.413861 1.333333 0.554747 -2.788900 1.777778 1.088175 -2.627086 1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_492'>
+				<Appearance USE='Material_81_IDX_81'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.842211 -2.033278 0.888889 0.429356 -2.158516 0.888889 0.480147 -2.413861 1.333333 0.941842 -2.273807 1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_493'>
+				<Appearance USE='Material_61_IDX_61'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.784343 -1.893571 0.444444 0.399854 -2.010204 0.444444 0.429356 -2.158516 0.888889 0.842211 -2.033278 0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_494'>
+				<Appearance USE='Material_52_IDX_52'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.765367 -1.847759 0.000000 0.390181 -1.961571 0.000000 0.399854 -2.010204 0.444444 0.784343 -1.893571 0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_495'>
+				<Appearance USE='Material_77_IDX_77'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.187263 -5.968772 3.555556 0.000000 -6.085707 3.555556 0.000000 -7.524391 4.000000 1.467936 -7.379812 4.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_496'>
+				<Appearance USE='Material_76_IDX_76'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.965461 -4.853700 3.111111 0.000000 -4.948790 3.111111 0.000000 -6.085707 3.555556 1.187263 -5.968772 3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_497'>
+				<Appearance USE='Material_75_IDX_75'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.791533 -3.979306 2.666667 0.000000 -4.057265 2.666667 0.000000 -4.948790 3.111111 0.965461 -4.853700 3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_498'>
+				<Appearance USE='Material_74_IDX_74'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.656854 -3.302230 2.222222 0.000000 -3.366925 2.222222 0.000000 -4.057265 2.666667 0.791533 -3.979306 2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_499'>
+				<Appearance USE='Material_73_IDX_73'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.554747 -2.788900 1.777778 -0.000000 -2.843538 1.777778 0.000000 -3.366925 2.222222 0.656854 -3.302230 2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_500'>
+				<Appearance USE='Material_72_IDX_72'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.480147 -2.413861 1.333333 0.000000 -2.461151 1.333333 -0.000000 -2.843538 1.777778 0.554747 -2.788900 1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_501'>
+				<Appearance USE='Material_71_IDX_71'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.429356 -2.158516 0.888889 0.000000 -2.200804 0.888889 0.000000 -2.461151 1.333333 0.480147 -2.413861 1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_502'>
+				<Appearance USE='Material_70_IDX_70'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.399854 -2.010204 0.444444 0.000000 -2.049586 0.444444 0.000000 -2.200804 0.888889 0.429356 -2.158516 0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_503'>
+				<Appearance USE='Material_69_IDX_69'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.390181 -1.961571 0.000000 -0.000000 -2.000000 0.000000 0.000000 -2.049586 0.444444 0.399854 -2.010204 0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_504'>
+				<Appearance USE='Material_43_IDX_43'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.049586 0.000000 0.444444 2.010204 0.399854 0.444444 1.961571 0.390181 0.000000 2.000000 -0.000000 0.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_505'>
+				<Appearance USE='Material_44_IDX_44'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.200804 -0.000000 0.888889 2.158516 0.429356 0.888889 2.010204 0.399854 0.444444 2.049586 0.000000 0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_506'>
+				<Appearance USE='Material_45_IDX_45'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.461151 0.000000 1.333333 2.413861 0.480147 1.333333 2.158516 0.429356 0.888889 2.200804 -0.000000 0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_507'>
+				<Appearance USE='Material_46_IDX_46'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.843538 0.000000 1.777778 2.788900 0.554747 1.777778 2.413861 0.480147 1.333333 2.461151 0.000000 1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_508'>
+				<Appearance USE='Material_47_IDX_47'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='3.366925 -0.000000 2.222222 3.302230 0.656854 2.222222 2.788900 0.554747 1.777778 2.843538 0.000000 1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_509'>
+				<Appearance USE='Material_48_IDX_48'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='4.057265 0.000000 2.666667 3.979306 0.791533 2.666667 3.302230 0.656854 2.222222 3.366925 -0.000000 2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_510'>
+				<Appearance USE='Material_49_IDX_49'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='4.948790 0.000000 3.111111 4.853700 0.965461 3.111111 3.979306 0.791533 2.666667 4.057265 0.000000 2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_511'>
+				<Appearance USE='Material_50_IDX_50'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='6.085707 -0.000000 3.555556 5.968772 1.187263 3.555556 4.853700 0.965461 3.111111 4.948790 0.000000 3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_512'>
+				<Appearance USE='Material_51_IDX_51'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='7.524391 -0.000000 4.000000 7.379812 1.467936 4.000000 5.968772 1.187263 3.555556 6.085707 -0.000000 3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_513'>
+				<Appearance USE='Material_52_IDX_52'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.010204 0.399854 0.444444 1.893571 0.784343 0.444444 1.847759 0.765367 0.000000 1.961571 0.390181 0.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_514'>
+				<Appearance USE='Material_53_IDX_53'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.158516 0.429356 0.888889 2.033278 0.842211 0.888889 1.893571 0.784343 0.444444 2.010204 0.399854 0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_515'>
+				<Appearance USE='Material_54_IDX_54'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.413861 0.480147 1.333333 2.273807 0.941842 1.333333 2.033278 0.842211 0.888889 2.158516 0.429356 0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_516'>
+				<Appearance USE='Material_55_IDX_55'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.788900 0.554747 1.777778 2.627086 1.088175 1.777778 2.273807 0.941842 1.333333 2.413861 0.480147 1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_517'>
+				<Appearance USE='Material_56_IDX_56'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='3.302230 0.656854 2.222222 3.110633 1.288466 2.222222 2.627086 1.088175 1.777778 2.788900 0.554747 1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_518'>
+				<Appearance USE='Material_57_IDX_57'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='3.979306 0.791533 2.666667 3.748424 1.552648 2.666667 3.110633 1.288466 2.222222 3.302230 0.656854 2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_519'>
+				<Appearance USE='Material_58_IDX_58'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='4.853700 0.965461 3.111111 4.572086 1.893820 3.111111 3.748424 1.552648 2.666667 3.979306 0.791533 2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_520'>
+				<Appearance USE='Material_59_IDX_59'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='5.968772 1.187263 3.555556 5.622460 2.328899 3.555556 4.572086 1.893820 3.111111 4.853700 0.965461 3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_521'>
+				<Appearance USE='Material_60_IDX_60'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='7.379812 1.467936 4.000000 6.951631 2.879460 4.000000 5.622460 2.328899 3.555556 5.968772 1.187263 3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_522'>
+				<Appearance USE='Material_52_IDX_52'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.893571 0.784343 0.444444 1.704169 1.138689 0.444444 1.662939 1.111140 0.000000 1.847759 0.765367 0.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_523'>
+				<Appearance USE='Material_61_IDX_61'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.033278 0.842211 0.888889 1.829902 1.222701 0.888889 1.704169 1.138689 0.444444 1.893571 0.784343 0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_524'>
+				<Appearance USE='Material_62_IDX_62'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.273807 0.941842 1.333333 2.046372 1.367342 1.333333 1.829902 1.222701 0.888889 2.033278 0.842211 0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_525'>
+				<Appearance USE='Material_63_IDX_63'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.627086 1.088175 1.777778 2.364315 1.579785 1.777778 2.046372 1.367342 1.333333 2.273807 0.941842 1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_526'>
+				<Appearance USE='Material_64_IDX_64'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='3.110633 1.288466 2.222222 2.799496 1.870563 2.222222 2.364315 1.579785 1.777778 2.627086 1.088175 1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_527'>
+				<Appearance USE='Material_65_IDX_65'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='3.748424 1.552648 2.666667 3.373492 2.254096 2.666667 2.799496 1.870563 2.222222 3.110633 1.288466 2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_528'>
+				<Appearance USE='Material_66_IDX_66'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='4.572086 1.893820 3.111111 4.114769 2.749400 3.111111 3.373492 2.254096 2.666667 3.748424 1.552648 2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_529'>
+				<Appearance USE='Material_67_IDX_67'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='5.622460 2.328899 3.555556 5.060081 3.381038 3.555556 4.114769 2.749400 3.111111 4.572086 1.893820 3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_530'>
+				<Appearance USE='Material_68_IDX_68'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='6.951631 2.879460 4.000000 6.256303 4.180328 4.000000 5.060081 3.381038 3.555556 5.622460 2.328899 3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_531'>
+				<Appearance USE='Material_69_IDX_69'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.704169 1.138689 0.444444 1.449276 1.449276 0.444444 1.414214 1.414214 0.000000 1.662939 1.111140 0.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_532'>
+				<Appearance USE='Material_70_IDX_70'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.829902 1.222701 0.888889 1.556203 1.556203 0.888889 1.449276 1.449276 0.444444 1.704169 1.138689 0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_533'>
+				<Appearance USE='Material_71_IDX_71'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.046372 1.367342 1.333333 1.740297 1.740297 1.333333 1.556203 1.556203 0.888889 1.829902 1.222701 0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_534'>
+				<Appearance USE='Material_72_IDX_72'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.364315 1.579785 1.777778 2.010685 2.010685 1.777778 1.740297 1.740297 1.333333 2.046372 1.367342 1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_535'>
+				<Appearance USE='Material_73_IDX_73'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.799496 1.870563 2.222222 2.380775 2.380775 2.222222 2.010685 2.010685 1.777778 2.364315 1.579785 1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_536'>
+				<Appearance USE='Material_74_IDX_74'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='3.373492 2.254096 2.666667 2.868920 2.868920 2.666667 2.380775 2.380775 2.222222 2.799496 1.870563 2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_537'>
+				<Appearance USE='Material_75_IDX_75'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='4.114769 2.749400 3.111111 3.499323 3.499323 3.111111 2.868920 2.868920 2.666667 3.373492 2.254096 2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_538'>
+				<Appearance USE='Material_76_IDX_76'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='5.060081 3.381038 3.555556 4.303245 4.303245 3.555556 3.499323 3.499323 3.111111 4.114769 2.749400 3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_539'>
+				<Appearance USE='Material_77_IDX_77'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='6.256303 4.180328 4.000000 5.320548 5.320548 4.000000 4.303245 4.303245 3.555556 5.060081 3.381038 3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_540'>
+				<Appearance USE='Material_43_IDX_43'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.449276 1.449276 0.444444 1.138689 1.704169 0.444444 1.111140 1.662939 0.000000 1.414214 1.414214 0.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_541'>
+				<Appearance USE='Material_44_IDX_44'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.556203 1.556203 0.888889 1.222701 1.829902 0.888889 1.138689 1.704169 0.444444 1.449276 1.449276 0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_542'>
+				<Appearance USE='Material_45_IDX_45'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.740297 1.740297 1.333333 1.367342 2.046372 1.333333 1.222701 1.829902 0.888889 1.556203 1.556203 0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_543'>
+				<Appearance USE='Material_46_IDX_46'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.010685 2.010685 1.777778 1.579785 2.364315 1.777778 1.367342 2.046372 1.333333 1.740297 1.740297 1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_544'>
+				<Appearance USE='Material_47_IDX_47'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.380775 2.380775 2.222222 1.870563 2.799496 2.222222 1.579785 2.364315 1.777778 2.010685 2.010685 1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_545'>
+				<Appearance USE='Material_48_IDX_48'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.868920 2.868920 2.666667 2.254096 3.373492 2.666667 1.870563 2.799496 2.222222 2.380775 2.380775 2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_546'>
+				<Appearance USE='Material_49_IDX_49'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='3.499323 3.499323 3.111111 2.749400 4.114769 3.111111 2.254096 3.373492 2.666667 2.868920 2.868920 2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_547'>
+				<Appearance USE='Material_50_IDX_50'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='4.303245 4.303245 3.555556 3.381038 5.060081 3.555556 2.749400 4.114769 3.111111 3.499323 3.499323 3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_548'>
+				<Appearance USE='Material_51_IDX_51'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='5.320548 5.320548 4.000000 4.180328 6.256303 4.000000 3.381038 5.060081 3.555556 4.303245 4.303245 3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_549'>
+				<Appearance USE='Material_52_IDX_52'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.138689 1.704169 0.444444 0.784343 1.893571 0.444444 0.765367 1.847759 0.000000 1.111140 1.662939 0.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_550'>
+				<Appearance USE='Material_53_IDX_53'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.222701 1.829902 0.888889 0.842211 2.033278 0.888889 0.784343 1.893571 0.444444 1.138689 1.704169 0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_551'>
+				<Appearance USE='Material_54_IDX_54'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.367342 2.046372 1.333333 0.941842 2.273807 1.333333 0.842211 2.033278 0.888889 1.222701 1.829902 0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_552'>
+				<Appearance USE='Material_55_IDX_55'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.579785 2.364315 1.777778 1.088175 2.627086 1.777778 0.941842 2.273807 1.333333 1.367342 2.046372 1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_553'>
+				<Appearance USE='Material_56_IDX_56'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.870563 2.799496 2.222222 1.288466 3.110633 2.222222 1.088175 2.627086 1.777778 1.579785 2.364315 1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_554'>
+				<Appearance USE='Material_57_IDX_57'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.254096 3.373492 2.666667 1.552648 3.748424 2.666667 1.288466 3.110633 2.222222 1.870563 2.799496 2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_555'>
+				<Appearance USE='Material_58_IDX_58'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.749400 4.114769 3.111111 1.893820 4.572086 3.111111 1.552648 3.748424 2.666667 2.254096 3.373492 2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_556'>
+				<Appearance USE='Material_59_IDX_59'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='3.381038 5.060081 3.555556 2.328899 5.622460 3.555556 1.893820 4.572086 3.111111 2.749400 4.114769 3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_557'>
+				<Appearance USE='Material_60_IDX_60'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='4.180328 6.256303 4.000000 2.879460 6.951631 4.000000 2.328899 5.622460 3.555556 3.381038 5.060081 3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_558'>
+				<Appearance USE='Material_52_IDX_52'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.784343 1.893571 0.444444 0.399854 2.010204 0.444444 0.390181 1.961571 0.000000 0.765367 1.847759 0.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_559'>
+				<Appearance USE='Material_61_IDX_61'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.842211 2.033278 0.888889 0.429356 2.158516 0.888889 0.399854 2.010204 0.444444 0.784343 1.893571 0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_560'>
+				<Appearance USE='Material_62_IDX_62'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.941842 2.273807 1.333333 0.480147 2.413861 1.333333 0.429356 2.158516 0.888889 0.842211 2.033278 0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_561'>
+				<Appearance USE='Material_63_IDX_63'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.088175 2.627086 1.777778 0.554747 2.788900 1.777778 0.480147 2.413861 1.333333 0.941842 2.273807 1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_562'>
+				<Appearance USE='Material_64_IDX_64'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.288466 3.110633 2.222222 0.656854 3.302230 2.222222 0.554747 2.788900 1.777778 1.088175 2.627086 1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_563'>
+				<Appearance USE='Material_65_IDX_65'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.552648 3.748424 2.666667 0.791533 3.979306 2.666667 0.656854 3.302230 2.222222 1.288466 3.110633 2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_564'>
+				<Appearance USE='Material_66_IDX_66'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.893820 4.572086 3.111111 0.965461 4.853700 3.111111 0.791533 3.979306 2.666667 1.552648 3.748424 2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_565'>
+				<Appearance USE='Material_67_IDX_67'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.328899 5.622460 3.555556 1.187263 5.968772 3.555556 0.965461 4.853700 3.111111 1.893820 4.572086 3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_566'>
+				<Appearance USE='Material_68_IDX_68'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='2.879460 6.951631 4.000000 1.467936 7.379812 4.000000 1.187263 5.968772 3.555556 2.328899 5.622460 3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_567'>
+				<Appearance USE='Material_69_IDX_69'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.399854 2.010204 0.444444 0.000000 2.049586 0.444444 -0.000000 2.000000 0.000000 0.390181 1.961571 0.000000'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_568'>
+				<Appearance USE='Material_70_IDX_70'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.429356 2.158516 0.888889 0.000000 2.200804 0.888889 0.000000 2.049586 0.444444 0.399854 2.010204 0.444444'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_569'>
+				<Appearance USE='Material_71_IDX_71'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.480147 2.413861 1.333333 0.000000 2.461151 1.333333 0.000000 2.200804 0.888889 0.429356 2.158516 0.888889'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_570'>
+				<Appearance USE='Material_72_IDX_72'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.554747 2.788900 1.777778 -0.000000 2.843538 1.777778 0.000000 2.461151 1.333333 0.480147 2.413861 1.333333'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_571'>
+				<Appearance USE='Material_73_IDX_73'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.656854 3.302230 2.222222 0.000000 3.366925 2.222222 -0.000000 2.843538 1.777778 0.554747 2.788900 1.777778'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_572'>
+				<Appearance USE='Material_74_IDX_74'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.791533 3.979306 2.666667 0.000000 4.057265 2.666667 0.000000 3.366925 2.222222 0.656854 3.302230 2.222222'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_573'>
+				<Appearance USE='Material_75_IDX_75'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='0.965461 4.853700 3.111111 0.000000 4.948790 3.111111 0.000000 4.057265 2.666667 0.791533 3.979306 2.666667'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_574'>
+				<Appearance USE='Material_76_IDX_76'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.187263 5.968772 3.555556 0.000000 6.085707 3.555556 0.000000 4.948790 3.111111 0.965461 4.853700 3.111111'/>
+				</IndexedFaceSet>
+			</Shape>
+			<Shape DEF='_IDX_575'>
+				<Appearance USE='Material_77_IDX_77'/>
+				<IndexedFaceSet solid="false" coordIndex='0 1 2 3 -1'>
+					<Coordinate point='1.467936 7.379812 4.000000 0.000000 7.524391 4.000000 0.000000 6.085707 3.555556 1.187263 5.968772 3.555556'/>
+				</IndexedFaceSet>
+			</Shape>
+		</Group>
+	</Scene>
+</X3D>
