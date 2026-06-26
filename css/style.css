@@ -412,15 +412,68 @@ footer span { font-size: 0.72rem; letter-spacing: 0.1em; color: var(--t-text3); 
 
 /* ── レスポンシブ ── */
 @media (max-width: 720px) {
-  header { flex-direction: column; align-items: flex-start; padding: 2rem 1.5rem 0; gap: 1rem; }
-  .h-name .role { padding-bottom: 0; }
-  nav a { padding: 0.5rem 0.6rem; font-size: 0.72rem; }
+  /* ヘッダー：縦積みに */
+  header {
+    grid-template-columns: 1fr;
+  }
+
+  .h-name {
+    padding: 1.5rem 1.5rem 1rem;
+    border-right: none;
+    border-bottom: 1px solid var(--t-border);
+  }
+
+  .h-name .ja { font-size: 1.6rem; }
+  .h-name .role { padding-bottom: 0; white-space: normal; }
+
+  /* ナビ：横スクロール */
+  nav {
+    padding: 0 0.5rem;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+  }
+
+  nav a {
+    padding: 0.7rem 0.6rem;
+    font-size: 0.7rem;
+    flex-shrink: 0;
+  }
+
+  /* ボディ：縦積みに */
   #body { grid-template-columns: 1fr; }
-  #sidebar { border-right: none; border-bottom: 1px solid var(--t-border); padding: 2rem 1.5rem; }
-  main { padding: 2rem 1.5rem; }
+
+  #sidebar {
+    border-right: none;
+    border-bottom: 1px solid var(--t-border);
+    padding: 1.5rem;
+  }
+
+  main { padding: 1.5rem; }
+
+  /* 画像：縦積みに */
   .hero-imgs { flex-direction: column; }
+
+  /* タイムライン */
   .timeline li { grid-template-columns: 1fr; gap: 0.2rem; }
-  footer { flex-direction: column; gap: 0.4rem; padding: 1rem 1.5rem; text-align: center; }
+  .info-row { grid-template-columns: 1fr; gap: 0.1rem; }
+
+  /* 時間割 */
+  .timetable { font-size: 0.7rem; }
+  .timetable th, .timetable td { padding: 0.3rem 0.4rem; }
+
+  /* フッター */
+  footer {
+    flex-direction: column;
+    gap: 0.4rem;
+    padding: 1rem 1.5rem;
+    text-align: center;
+  }
+
+  /* 図グリッド */
+  .fig-grid { flex-direction: column; }
+  .fig-grid--uniform .fig-img-wrap img { height: auto; max-width: 100%; }
 }
 
 /* ── x3dom ビューア ── */
