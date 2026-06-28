@@ -434,6 +434,8 @@ footer span { font-size: 0.72rem; letter-spacing: 0.1em; color: var(--t-text3); 
     -webkit-overflow-scrolling: touch;
     flex-wrap: nowrap;
     justify-content: flex-start;
+    max-width: 100vw;
+    width: 100%;
   }
 
   nav a {
@@ -458,10 +460,21 @@ footer span { font-size: 0.72rem; letter-spacing: 0.1em; color: var(--t-text3); 
   .page-title { font-size: 1.35rem; }
 
   /* 横はみ出し防止 */
-  #wrap { width: 100%; border-left: none; border-right: none; }
+  html, body { overflow-x: hidden; max-width: 100vw; }
+  #wrap { width: 100%; max-width: 100vw; border-left: none; border-right: none; overflow: hidden; }
+  #body, header, main, #sidebar, footer { max-width: 100%; overflow: hidden; }
   main * { max-width: 100%; }
   .data-formula { overflow-x: auto; font-size: 0.78rem; }
   .gfx-formula { overflow-x: auto; }
+
+  /* テキスト折り返し強制 */
+  .gfx-sub-title, .page-title, .data-note, .gfx-note,
+  .x3d-hint, .x3d-caption, .cap, p, li, .section-label,
+  .data-label, .left-label {
+    word-break: break-word;
+    overflow-wrap: break-word;
+    white-space: normal;
+  }
 
   /* 画像：縦積みに */
   .hero-imgs { flex-direction: column; }
