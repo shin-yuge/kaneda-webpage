@@ -509,3 +509,34 @@ footer span { font-size: 0.72rem; letter-spacing: 0.1em; color: var(--t-text3); 
   border-left: 2px solid var(--t-border2);
   text-transform: uppercase;
 }
+
+/* ── グラフィックス サブセクションラベル ── */
+.gfx-subsection-label {
+  font-size: 0.7rem;
+  letter-spacing: 0.14em;
+  color: var(--t-text2);
+  margin-top: 1.4rem;
+  margin-bottom: 0.4rem;
+  padding: 0.35rem 0.8rem;
+  background: var(--t-bg2);
+  border-left: 2px solid var(--t-border2);
+  text-transform: uppercase;
+}
+.gfx-subsection-label:first-of-type { margin-top: 0; }
+
+.x3d-caption {
+  font-size: 0.78rem;
+  color: var(--t-text3);
+  letter-spacing: 0.06em;
+  text-align: center;
+  padding: 0.4rem 0;
+  background: var(--t-bg2);
+  border-top: 1px solid var(--t-border);
+}
+
+/* ── x3dom スマホ対応 ── */
+@media (max-width: 720px) {
+  .x3d-wrap { overflow: hidden; }
+  .x3d-wrap x3d { max-width: 100%; }
+  .data-formula { font-size: 0.78rem; }
+}
