@@ -8,6 +8,8 @@
   <link rel="stylesheet" href="css/style.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Noto+Serif+JP:wght@300;400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://www.x3dom.org/download/x3dom.css">
+  <script src="https://www.x3dom.org/download/x3dom.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js?config=TeX-MML-AM_CHTML" async></script>
 </head>
 <body>
@@ -61,14 +63,32 @@
       <div class="data-block">
         <div class="data-label">グラフィックス</div>
         </div>
+        <div class="x3d-wrap">
+          <x3d width="100%" height="360px" style="border:none;">
+            <scene>
+              <inline url="x3d/lm-hg-02-03-01.x3d"></inline>
+            </scene>
+          </x3d>
+          <p class="x3d-caption">\(k=3,\quad r \approx -0.374404\)</p>
+          <p class="x3d-hint">ドラッグで回転　・　スクロールでズーム　・　Ctrl+ドラッグで移動</p>
+        </div>
+        <div class="x3d-wrap">
+          <x3d width="100%" height="360px" style="border:none;">
+            <scene>
+              <inline url="x3d/lm-hg-02-03-02.x3d"></inline>
+            </scene>
+          </x3d>
+          <p class="x3d-caption">\(k=3,\quad r \approx -2.00824\)</p>
+          <p class="x3d-hint">ドラッグで回転　・　スクロールでズーム　・　Ctrl+ドラッグで移動</p>
+        </div>
         <div class="fig-grid">
           <div class="fig-item">
-            <img src="figs/min-nonori-01-genus03-r.png" alt="k=2">
-            <div class="cap">\(k=2,\quad r \approx -0.487634\)</div>
+            <img src="figs/min-nonori-02-01-genus04-r.png" alt="k=3">
+            <div class="cap">\(k=3,\quad r \approx -0.374404\)</div>
           </div>
           <div class="fig-item">
-            <img src="figs/min-nonori-01-genus04-r.png" alt="k=3">
-            <div class="cap">\(k=3,\quad r \approx -0.530849\)</div>
+            <img src="figs/min-nonori-02-02-genus04-r.png" alt="k=3">
+            <div class="cap">\(k=3,\quad r \approx -2.00824\)</div>
           </div>
         </div>
       </div>
