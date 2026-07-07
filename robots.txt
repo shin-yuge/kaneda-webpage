@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kaneda-yuge.netlify.app/sitemap.xml

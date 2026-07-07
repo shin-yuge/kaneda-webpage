@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="author" content="Shin Kaneda">
-  <title>Kleinの壺型（López） — 金田伸</title>
+  <title>Costa-Hoffman-Meeks surfaces of genus k</title>
   <link rel="stylesheet" href="css/style.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Noto+Serif+JP:wght@300;400&display=swap" rel="stylesheet">
@@ -50,14 +50,15 @@
     </aside>
     <main>
       <a class="gfx-back" href="graphics.html">グラフィックスに戻る</a>
-      <div class="gfx-sub-title">Klein bottle with one end by F. López</div>
+      <div class="gfx-sub-title">Costa–Hoffman–Meeks surfaces of genus k</div>
       <div class="data-block">
-        <div class="data-label">Weierstrass data (Double cover)</div>
+        <div class="data-label">Weierstrass data</div>
         <div class="data-formula">
-          \[\overline{M} = \left\{(z,w)\in(\mathbb{C}\cup\{\infty\})^2 \;\middle|\; w^{2} = \frac{z(z-r)}{rz+1}\right\}, \quad r \in \mathbb{R}\setminus\{\pm 1\},\]
-          \[M = \overline{M}\setminus\{(0,0),(\infty,\infty)\}, \quad g = w\,\frac{z-1}{z+1}, \quad \eta = i\,\frac{(z+1)^2}{z^2 w}\,dz.\]
+          \[\overline{M} = \left\{(z,w)\in(\mathbb{C}\cup\{\infty\})^2 \;\middle|\; w^{k+1} = z^k(z^2-1)\right\}.\]
+          <span style="font-size:0.84rem;color:#6e6c67;">ただし \(k\) は自然数である.</span>
+          \[M = \overline{M}\setminus\{(\infty,\infty),(\pm 1, 0)\}, \quad g = \frac{c}{w}, \quad \eta = i\,\frac{w}{z^2-1}\,dz.\]
         </div>
-        <p class="data-note">\(r \approx -0.392973\) で \(f\) は \(M\) 上一価になる.</p>
+        <p class="data-note">各 \(k\) に対して, \(f\) が \(M\) 上一価になるような \(c\) が定まる.</p>
       </div>
       <div class="data-block">
         <div class="data-label">グラフィックス</div>
@@ -65,14 +66,29 @@
         <div class="x3d-wrap">
           <x3d width="100%" height="360px" style="border:none;">
             <scene>
-              <inline url="x3d/klein.x3d"></inline>
+              <inline url="x3d/chm01.x3d"></inline>
             </scene>
           </x3d>
+          <p class="x3d-caption">\(k=1,\quad c \approx 0.955978\)</p>
+          <p class="x3d-hint">ドラッグで回転　・　スクロールでズーム　・　Ctrl+ドラッグで移動</p>
+        </div>
+        <div class="x3d-wrap">
+          <x3d width="100%" height="360px" style="border:none;">
+            <scene>
+              <inline url="x3d/chm06.x3d"></inline>
+            </scene>
+          </x3d>
+          <p class="x3d-caption">\(k=6,\quad c \approx 0.999113\)</p>
           <p class="x3d-hint">ドラッグで回転　・　スクロールでズーム　・　Ctrl+ドラッグで移動</p>
         </div>
         <div class="fig-grid">
           <div class="fig-item">
-            <img src="figs/klein.png" alt="Kleinの壺型 (López)">
+            <img src="figs/chm-01-r.png" alt="k=1">
+            <div class="cap">\(k=1,\quad c \approx 0.955978\)</div>
+          </div>
+          <div class="fig-item">
+            <img src="figs/chm-06-r-b.png" alt="k=6">
+            <div class="cap">\(k=6,\quad c \approx 0.999113\)</div>
           </div>
         </div>
       </div>

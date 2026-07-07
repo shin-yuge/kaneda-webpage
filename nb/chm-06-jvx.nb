@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       154,          7]
-NotebookDataLength[     43737,       1010]
-NotebookOptionsPosition[     38741,        930]
-NotebookOutlinePosition[     39176,        947]
-CellTagsIndexPosition[     39133,        944]
+NotebookDataLength[     73277,       1626]
+NotebookOptionsPosition[     57246,       1387]
+NotebookOutlinePosition[     63256,       1484]
+CellTagsIndexPosition[     63164,       1479]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -76,7 +76,7 @@ Cell[BoxData[
   3.798373776554344*^9, 3.798373776651213*^9}, {3.7984152438300266`*^9, 
   3.798415244061797*^9}, {3.8800991999088902`*^9, 3.880099200807382*^9}, {
   3.918418939765541*^9, 3.918418941262636*^9}},
- CellLabel->"In[49]:=",ExpressionUUID->"bf417543-fdcd-47a6-93eb-2d883bf609d5"],
+ CellLabel->"In[1]:=",ExpressionUUID->"bf417543-fdcd-47a6-93eb-2d883bf609d5"],
 
 Cell[BoxData[{
  RowBox[{
@@ -121,7 +121,7 @@ Cell[BoxData[{
    3.798368192682495*^9, {3.798371434685685*^9, 3.798371456786216*^9}, {
    3.798371940020431*^9, 3.798371945787071*^9}, {3.7983721541247463`*^9, 
    3.7983721584896*^9}, {3.7983726234304314`*^9, 3.798372639525317*^9}},
- CellLabel->"In[50]:=",ExpressionUUID->"a6ddf5a1-52a6-4fbf-85d1-378502541d5c"],
+ CellLabel->"In[95]:=",ExpressionUUID->"a6ddf5a1-52a6-4fbf-85d1-378502541d5c"],
 
 Cell[BoxData[
  RowBox[{
@@ -198,17 +198,26 @@ Cell[BoxData[{
   3.798367765048874*^9}, {3.798368290328841*^9, 3.798368290934965*^9}, {
   3.7983715116483607`*^9, 3.798371534783433*^9}, {3.798371856842721*^9, 
   3.7983718618823853`*^9}, {3.798372143055017*^9, 3.798372147517066*^9}},
- CellLabel->"In[54]:=",ExpressionUUID->"d2f20f70-0d55-484d-90d4-9a0a16a50dd6"],
+ CellLabel->"In[2]:=",ExpressionUUID->"d2f20f70-0d55-484d-90d4-9a0a16a50dd6"],
+
+Cell[CellGroupData[{
 
 Cell[BoxData[
- RowBox[{
-  RowBox[{"c", "=", 
+ RowBox[{"c", "=", 
+  RowBox[{
    SqrtBox[
     FractionBox[
-     RowBox[{"2", "A1"}], "A2"]]}], ";"}]], "Input",
+     RowBox[{"2", "A1"}], "A2"]], "//", "N"}]}]], "Input",
  CellChangeTimes->{{3.79836776757362*^9, 3.798367786391222*^9}, {
-  3.798367897565097*^9, 3.7983679006314397`*^9}},
- CellLabel->"In[56]:=",ExpressionUUID->"e49391e5-ac0f-45b5-a619-667cef150f13"]
+  3.798367897565097*^9, 3.7983679006314397`*^9}, {3.992384831303776*^9, 
+  3.992384849067873*^9}},
+ CellLabel->"In[4]:=",ExpressionUUID->"e49391e5-ac0f-45b5-a619-667cef150f13"],
+
+Cell[BoxData["0.9991125162666308`"], "Output",
+ CellChangeTimes->{{3.99238484315265*^9, 3.992384849756669*^9}, 
+   3.992384922441115*^9},
+ CellLabel->"Out[4]=",ExpressionUUID->"c19aa9e1-3a3c-496a-aa4f-9a7a8ae4d4c4"]
+}, Open  ]]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -923,13 +932,461 @@ Cell[BoxData["\<\"chm06.x3d\"\>"], "Output",
    3.991468450798149*^9, 3.991538649755135*^9, 3.991538706721122*^9, 
    3.9915387530388536`*^9, 3.99153937415555*^9, 3.991610461175864*^9, 
    3.991610495866703*^9, 3.991610886328968*^9},
- CellLabel->"Out[88]=",ExpressionUUID->"672f1f55-5ec5-4676-8c20-395e80ff400d"]
+ CellLabel->"Out[88]=",ExpressionUUID->"672f1f55-5ec5-4676-8c20-395e80ff400d"],
+
+Cell["\<\
+KeyExistsQ::invrl: 
+   \:5f15\:6570Missing[Nonexistent, \
+PersistentObject[ServiceFramework`$connectionObject
+       s, Local]]\:306f\:6709\:52b9\:306aAssociation\:3067\:3082\:898f\:5247\
+\:306e\:30ea\:30b9\:30c8\:3067\:3082\:3042\:308a\:307e\:305b\:3093\:ff0e\
+\>", "Message",
+ CellChangeTimes->{3.992384827172763*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"41a26a6b-b59b-4944-837f-\
+37994dcc2a9e"],
+
+Cell["\<\
+$Failed::rvalue: 
+   PersistentSymbol[ServiceFramework`$connectionObjects, 
+     PersistenceLocation[Local, 
+      file:///private/var/folders/7b/k170h_4x3z9cbknrp1gd230w0000gn/T/m0000011
+       9381/LocalObjects/Persistence]]\:306b\:306f\:5024\:304c\:5272\:308a\
+\:5f53\:3066\:3089\:308c\:3066\:3044\:307e\:305b\:3093\:ff0e\:5024\:3092\:5909\
+\:66f4\:3059\:308b\:3053\:3068\:306f\:3067\:304d\:307e\:305b\:3093\:ff0e\
+\>", "Message",
+ CellChangeTimes->{3.992384827452351*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"da738ed5-b8bb-4776-acc4-\
+b2cc484f00b3"],
+
+Cell["\<\
+Values::invrl: \:5f15\:6570Missing[Nonexistent, 
+      PersistentObject[ServiceFramework`$connectionObjects, Local]][
+     serviceframework]\:306f\:6709\:52b9\:306aAssociation\:3067\:3082\:898f\
+\:5247\:306e\:30ea\:30b9\:30c8\:3067\:3082\:3042\:308a\:307e\:305b\:3093\:ff0e\
+\>", "Message",
+ CellChangeTimes->{3.992384827514287*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"e2b252b0-cdd9-4926-bf35-\
+849c46972645"],
+
+Cell["\<\
+Keys::invrl: \:5f15\:6570Values[Missing[Nonexistent, 
+       PersistentObject[ServiceFramework`$connectionObjects, Local]][
+      serviceframework]]\:306f\:6709\:52b9\:306aAssociation\:3067\:3082\:898f\
+\:5247\:306e\:30ea\:30b9\:30c8\:3067\:3082\:3042\:308a\:307e\:305b\:3093\:ff0e\
+\>", "Message",
+ CellChangeTimes->{3.99238482756439*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"b9addbd8-db6d-4e1f-b831-\
+5c52097efa20"],
+
+Cell["Complement::heads: \:4f4d\:7f6e2\:30681\:3067\:306e\:982d\:90e8List\
+\:3068Values\:306f\:7b49\:3057\:3044\:3053\:3068\:304c\:60f3\:5b9a\:3055\:308c\
+\:3066\:3044\:307e\:3059\:ff0e", "Message",
+ CellChangeTimes->{3.992384827629734*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"30b4a1fd-47c8-4522-a8f8-\
+ae92b1dd248e"],
+
+Cell["\<\
+KeyValueMap::invak: 
+   \:5f15\:6570Missing[Nonexistent, \
+PersistentObject[ServiceFramework`$connectionObject
+        s, Local]][serviceframework]\:306f\:6709\:52b9\:306aAssociation\:3067\
+\:306f\:3042\:308a\:307e\:305b\:3093\:ff0e\
+\>", "Message",
+ CellChangeTimes->{3.9923848276645*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"1c62d33e-5600-4a64-8eb3-\
+4c4bcf013617"],
+
+Cell["\<\
+Lookup::invrl: \:5f15\:6570Missing[Nonexistent, 
+      PersistentObject[ServiceFramework`$connectionObjects, Local]][
+     serviceframework]\:306f\:6709\:52b9\:306aAssociation\:3067\:3082\:898f\
+\:5247\:306e\:30ea\:30b9\:30c8\:3067\:3082\:3042\:308a\:307e\:305b\:3093\:ff0e\
+\>", "Message",
+ CellChangeTimes->{3.9923848277060137`*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"34d3a364-1fb8-4f6d-b1dc-\
+44301a885888"],
+
+Cell["\<\
+Lookup::invrl: \:5f15\:6570Missing[Nonexistent, 
+      PersistentObject[ServiceFramework`$connectionObjects, Local]][
+     serviceframework]\:306f\:6709\:52b9\:306aAssociation\:3067\:3082\:898f\
+\:5247\:306e\:30ea\:30b9\:30c8\:3067\:3082\:3042\:308a\:307e\:305b\:3093\:ff0e\
+\>", "Message",
+ CellChangeTimes->{3.992384827740428*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"325fbc09-ab16-4436-b80f-\
+4ba911068d6d"],
+
+Cell["\<\
+Lookup::luarg: Lookup[ServiceFramework`Management`PackagePrivate`$connectionOb
+        jects[ServiceFramework`$AuthenticationProvider], LLMKit, 
+      Association[Default -> None]][Default]\:306e\:5f15\:6570\:306e\:6570\
+\:304c\:4e0d\:6b63\:3067\:3059\:ff0e\
+\>", "Message",
+ CellChangeTimes->{3.9923848277711353`*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"4e3947ec-5b18-461a-8e2c-\
+5b9717024aa2"],
+
+Cell["\<\
+Lookup::invrl: \:5f15\:6570Missing[Nonexistent, 
+      PersistentObject[ServiceFramework`$connectionObjects, Local]][
+     serviceframework]\:306f\:6709\:52b9\:306aAssociation\:3067\:3082\:898f\
+\:5247\:306e\:30ea\:30b9\:30c8\:3067\:3082\:3042\:308a\:307e\:305b\:3093\:ff0e\
+\>", "Message",
+ CellChangeTimes->{3.9923848277726994`*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"97ea1153-3ee7-465e-b992-\
+65bccccf2d9c"],
+
+Cell["General::stop: \:3053\:306e\:8a08\:7b97\:4e2d\:306b\:ff0cLookup::invrl\
+\:306e\:3053\:308c\:4ee5\:4e0a\:306e\:51fa\:529b\:306f\:8868\:793a\:3055\:308c\
+\:307e\:305b\:3093\:ff0e", "Message",
+ CellChangeTimes->{3.992384827773712*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"e039b952-2890-4c63-8fc9-\
+78ccc50cc851"],
+
+Cell["\<\
+KeyDrop::invrl: 
+   \:5f15\:6570Lookup[ServiceFramework`Management`PackagePrivate`$\
+connectionObjects[
+      ServiceFramework`$AuthenticationProvider], LLMKit, 
+     Association[Default -> None]]\:306f\:6709\:52b9\:306aAssociation\:3067\
+\:3082\:898f\:5247\:306e\:30ea\:30b9\:30c8\:3067\:3082\:3042\:308a\:307e\:305b\
+\:3093\:ff0e\
+\>", "Message",
+ CellChangeTimes->{3.99238482781583*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"8b477cef-8600-4628-ae87-\
+c5428c3e4be2"],
+
+Cell["\<\
+AbsoluteTime::arg: 
+   \:5f15\:6570Lookup[ServiceFramework`Management`PackagePrivate`$\
+connectionObjects[
+      ServiceFramework`$AuthenticationProvider], LLMKit, 
+     Association[Default -> None]]\:306f\:65e5\:4ed8\:307e\:305f\:306f\:6642\
+\:9593\:5165\:529b\:3068\:3057\:3066\:89e3\:91c8\:3059\:308b\:3053\:3068\:304c\
+\:3067\:304d\:307e\:305b\:3093\:ff0e\
+\>", "Message",
+ CellChangeTimes->{3.992384827855397*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"e90fc206-0717-4aa3-919b-\
+5e5dfbcdb103"],
+
+Cell["AbsoluteTime::str: \:6587\:5b57\:5217Default\:306f\:5f62\:5f0fAutomatic\
+\:306e\:65e5\:4ed8\:3068\:3057\:3066\:89e3\:91c8\:3059\:308b\:3053\:3068\:304c\
+\:3067\:304d\:307e\:305b\:3093\:ff0e", "Message",
+ CellChangeTimes->{3.992384827896667*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"94ba09bb-51d2-4162-8332-\
+ea6a311b46b2"],
+
+Cell["KeyDrop::invrl: \:5f15\:6570Default\:306f\:6709\:52b9\:306aAssociation\
+\:3067\:3082\:898f\:5247\:306e\:30ea\:30b9\:30c8\:3067\:3082\:3042\:308a\:307e\
+\:305b\:3093\:ff0e", "Message",
+ CellChangeTimes->{3.992384827901444*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"e7ff7cc4-efec-41e0-b110-\
+39cba586ec8b"],
+
+Cell["\<\
+Keys::invrl: \:5f15\:6570KeyDrop[Default, 
+     Lookup[ServiceFramework`Management`PackagePrivate`$connectionObjects[
+       ServiceFramework`$AuthenticationProvider], LLMKit, 
+      Association[Default -> None]]]\:306f\:6709\:52b9\:306aAssociation\:3067\
+\:3082\:898f\:5247\:306e\:30ea\:30b9\:30c8\:3067\:3082\:3042\:308a\:307e\:305b\
+\:3093\:ff0e\
+\>", "Message",
+ CellChangeTimes->{3.9923848279035177`*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"cccaf328-1948-427b-ada2-\
+ed50acaa3311"],
+
+Cell["KeyDrop::invrl: \:5f15\:6570Default\:306f\:6709\:52b9\:306aAssociation\
+\:3067\:3082\:898f\:5247\:306e\:30ea\:30b9\:30c8\:3067\:3082\:3042\:308a\:307e\
+\:305b\:3093\:ff0e", "Message",
+ CellChangeTimes->{3.992384827904662*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"9ec978f7-cdd2-4e00-a886-\
+becb130997d9"],
+
+Cell["General::stop: \:3053\:306e\:8a08\:7b97\:4e2d\:306b\:ff0cKeyDrop::invrl\
+\:306e\:3053\:308c\:4ee5\:4e0a\:306e\:51fa\:529b\:306f\:8868\:793a\:3055\:308c\
+\:307e\:305b\:3093\:ff0e", "Message",
+ CellChangeTimes->{3.992384827905661*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"55e1e48a-b317-40c3-adb4-\
+e34fabc5bd52"],
+
+Cell["\<\
+KeyExistsQ::invrl: 
+   \:5f15\:6570Missing[Nonexistent, \
+PersistentObject[ServiceFramework`$connectionObject
+       s, Local]]\:306f\:6709\:52b9\:306aAssociation\:3067\:3082\:898f\:5247\
+\:306e\:30ea\:30b9\:30c8\:3067\:3082\:3042\:308a\:307e\:305b\:3093\:ff0e\
+\>", "Message",
+ CellChangeTimes->{3.992384827957612*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"63d35555-e3bc-4aaa-ba93-\
+029e152ad328"],
+
+Cell["\<\
+$Failed::rvalue: 
+   PersistentSymbol[ServiceFramework`$connectionObjects, 
+     PersistenceLocation[Local, 
+      file:///private/var/folders/7b/k170h_4x3z9cbknrp1gd230w0000gn/T/m0000011
+       9381/LocalObjects/Persistence]]\:306b\:306f\:5024\:304c\:5272\:308a\
+\:5f53\:3066\:3089\:308c\:3066\:3044\:307e\:305b\:3093\:ff0e\:5024\:3092\:5909\
+\:66f4\:3059\:308b\:3053\:3068\:306f\:3067\:304d\:307e\:305b\:3093\:ff0e\
+\>", "Message",
+ CellChangeTimes->{3.9923848279605637`*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"8f2ed64b-16c0-4a10-b706-\
+c645997b7a02"],
+
+Cell["\<\
+Values::invrl: \:5f15\:6570Missing[Nonexistent, 
+      PersistentObject[ServiceFramework`$connectionObjects, Local]][
+     serviceframework]\:306f\:6709\:52b9\:306aAssociation\:3067\:3082\:898f\
+\:5247\:306e\:30ea\:30b9\:30c8\:3067\:3082\:3042\:308a\:307e\:305b\:3093\:ff0e\
+\>", "Message",
+ CellChangeTimes->{3.992384827962655*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"b77ae67e-495f-40dd-99c8-\
+29a364d21c72"],
+
+Cell["\<\
+Keys::invrl: \:5f15\:6570Values[Missing[Nonexistent, 
+       PersistentObject[ServiceFramework`$connectionObjects, Local]][
+      serviceframework]]\:306f\:6709\:52b9\:306aAssociation\:3067\:3082\:898f\
+\:5247\:306e\:30ea\:30b9\:30c8\:3067\:3082\:3042\:308a\:307e\:305b\:3093\:ff0e\
+\>", "Message",
+ CellChangeTimes->{3.992384827964764*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"458ccd7d-3d19-45d6-99b8-\
+b89dd0bfd4b0"],
+
+Cell["General::stop: \:3053\:306e\:8a08\:7b97\:4e2d\:306b\:ff0cKeys::invrl\
+\:306e\:3053\:308c\:4ee5\:4e0a\:306e\:51fa\:529b\:306f\:8868\:793a\:3055\:308c\
+\:307e\:305b\:3093\:ff0e", "Message",
+ CellChangeTimes->{3.992384827966921*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"8c4ed2fe-45ea-4b09-96fd-\
+6989e058fef1"],
+
+Cell["Complement::heads: \:4f4d\:7f6e2\:30681\:3067\:306e\:982d\:90e8List\
+\:3068Values\:306f\:7b49\:3057\:3044\:3053\:3068\:304c\:60f3\:5b9a\:3055\:308c\
+\:3066\:3044\:307e\:3059\:ff0e", "Message",
+ CellChangeTimes->{3.9923848279693623`*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"8667cbc9-a1bb-4458-b483-\
+4fdb6acf69c3"],
+
+Cell["\<\
+KeyExistsQ::invrl: 
+   \:5f15\:6570Missing[Nonexistent, \
+PersistentObject[ServiceFramework`$connectionObject
+       s, Local]]\:306f\:6709\:52b9\:306aAssociation\:3067\:3082\:898f\:5247\
+\:306e\:30ea\:30b9\:30c8\:3067\:3082\:3042\:308a\:307e\:305b\:3093\:ff0e\
+\>", "Message",
+ CellChangeTimes->{3.992384827970998*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"2a3d620e-af67-49da-a3fd-\
+c06119ab5382"],
+
+Cell["General::stop: \
+\:3053\:306e\:8a08\:7b97\:4e2d\:306b\:ff0cKeyExistsQ::invrl\:306e\:3053\:308c\
+\:4ee5\:4e0a\:306e\:51fa\:529b\:306f\:8868\:793a\:3055\:308c\:307e\:305b\:3093\
+\:ff0e", "Message",
+ CellChangeTimes->{3.992384827972581*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"ea85ca9d-2546-452b-ab27-\
+c9cfe15ca932"],
+
+Cell["\<\
+$Failed::rvalue: 
+   PersistentSymbol[ServiceFramework`$connectionObjects, 
+     PersistenceLocation[Local, 
+      file:///private/var/folders/7b/k170h_4x3z9cbknrp1gd230w0000gn/T/m0000011
+       9381/LocalObjects/Persistence]]\:306b\:306f\:5024\:304c\:5272\:308a\
+\:5f53\:3066\:3089\:308c\:3066\:3044\:307e\:305b\:3093\:ff0e\:5024\:3092\:5909\
+\:66f4\:3059\:308b\:3053\:3068\:306f\:3067\:304d\:307e\:305b\:3093\:ff0e\
+\>", "Message",
+ CellChangeTimes->{3.9923848279737587`*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"0aea1f9f-b091-4529-93ef-\
+e5719dded84b"],
+
+Cell["General::stop: \
+\:3053\:306e\:8a08\:7b97\:4e2d\:306b\:ff0c$Failed::rvalue\:306e\:3053\:308c\
+\:4ee5\:4e0a\:306e\:51fa\:529b\:306f\:8868\:793a\:3055\:308c\:307e\:305b\:3093\
+\:ff0e", "Message",
+ CellChangeTimes->{3.992384827974847*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"d1da229b-1abb-4271-af5b-\
+e79ade7795e8"],
+
+Cell["\<\
+Complement::normal: 
+   Complement[ServiceFramework`Management`PackagePrivate`removeFromConnectionO
+       bjects[Values[Missing[Nonexistent, 
+         PersistentObject[ServiceFramework<<9>>ionObjects, Local]][se<<13>>k]]
+       ], Null]\:30672\:306e\:4f4d\:7f6e\:306b\:539f\:5b50\:7684\:3067\:306f\
+\:306a\:3044\:5f0f\:304c\:60f3\:5b9a\:3055\:308c\:307e\:3059\:ff0e\
+\>", "Message",
+ CellChangeTimes->{3.992384828030953*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"1609f280-ef58-481f-addc-\
+4d91c5dbddf9"],
+
+Cell["\<\
+KeyValueMap::invak: 
+   \:5f15\:6570Missing[Nonexistent, \
+PersistentObject[ServiceFramework`$connectionObject
+        s, Local]][serviceframework]\:306f\:6709\:52b9\:306aAssociation\:3067\
+\:306f\:3042\:308a\:307e\:305b\:3093\:ff0e\
+\>", "Message",
+ CellChangeTimes->{3.99238482804202*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"20bf74dc-9e05-4ead-b13d-\
+9eba664d146f"],
+
+Cell["\<\
+AppendTo::rvalue: 
+   PersistentSymbol[ServiceFramework`$connectionObjects, 
+     PersistenceLocation[Local, 
+      file:///private/var/folders/7b/k170h_4x3z9cbknrp1gd230w0000gn/T/m0000011
+       9381/LocalObjects/Persistence]]\:306b\:306f\:5024\:304c\:5272\:308a\
+\:5f53\:3066\:3089\:308c\:3066\:3044\:307e\:305b\:3093\:ff0e\:5024\:3092\:5909\
+\:66f4\:3059\:308b\:3053\:3068\:306f\:3067\:304d\:307e\:305b\:3093\:ff0e\
+\>", "Message",
+ CellChangeTimes->{3.992384828188592*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"e94ccee7-f854-40b2-a8e5-\
+de4268eb44c2"],
+
+Cell["\<\
+Values::invrl: \:5f15\:6570Missing[Nonexistent, 
+      PersistentObject[ServiceFramework`$connectionObjects, Local]][
+     serviceframework]\:306f\:6709\:52b9\:306aAssociation\:3067\:3082\:898f\
+\:5247\:306e\:30ea\:30b9\:30c8\:3067\:3082\:3042\:308a\:307e\:305b\:3093\:ff0e\
+\>", "Message",
+ CellChangeTimes->{3.9923848281992483`*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"c9efbc37-2406-47c7-827d-\
+9c99ff5a9e58"],
+
+Cell["General::stop: \:3053\:306e\:8a08\:7b97\:4e2d\:306b\:ff0cValues::invrl\
+\:306e\:3053\:308c\:4ee5\:4e0a\:306e\:51fa\:529b\:306f\:8868\:793a\:3055\:308c\
+\:307e\:305b\:3093\:ff0e", "Message",
+ CellChangeTimes->{3.992384828200672*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"2813bacb-0da9-4928-9bf3-\
+57980cebdf16"],
+
+Cell["Complement::heads: \:4f4d\:7f6e2\:30681\:3067\:306e\:982d\:90e8List\
+\:3068Values\:306f\:7b49\:3057\:3044\:3053\:3068\:304c\:60f3\:5b9a\:3055\:308c\
+\:3066\:3044\:307e\:3059\:ff0e", "Message",
+ CellChangeTimes->{3.9923848282016582`*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"779c8e15-c6c2-41bf-b02e-\
+9e0e58f667f5"],
+
+Cell["General::stop: \
+\:3053\:306e\:8a08\:7b97\:4e2d\:306b\:ff0cComplement::heads\:306e\:3053\:308c\
+\:4ee5\:4e0a\:306e\:51fa\:529b\:306f\:8868\:793a\:3055\:308c\:307e\:305b\:3093\
+\:ff0e", "Message",
+ CellChangeTimes->{3.992384828203129*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"3afb2edd-3b59-43cc-87c1-\
+6bcf732cd369"],
+
+Cell["\<\
+Complement::normal: 
+   Complement[ServiceFramework`Management`PackagePrivate`removeFromConnectionO
+       bjects[Values[Missing[Nonexistent, 
+         PersistentObject[ServiceFramework<<9>>ionObjects, Local]][se<<13>>k]]
+       ], Null]\:30672\:306e\:4f4d\:7f6e\:306b\:539f\:5b50\:7684\:3067\:306f\
+\:306a\:3044\:5f0f\:304c\:60f3\:5b9a\:3055\:308c\:307e\:3059\:ff0e\
+\>", "Message",
+ CellChangeTimes->{3.992384828207432*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"7d8769ed-ef6a-496f-a40d-\
+918cf4f88455"],
+
+Cell["\<\
+KeyValueMap::invak: 
+   \:5f15\:6570Missing[Nonexistent, \
+PersistentObject[ServiceFramework`$connectionObject
+        s, Local]][serviceframework]\:306f\:6709\:52b9\:306aAssociation\:3067\
+\:306f\:3042\:308a\:307e\:305b\:3093\:ff0e\
+\>", "Message",
+ CellChangeTimes->{3.992384828208932*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"9af7ba51-3c19-4faf-80bb-\
+177fea110b26"],
+
+Cell["General::stop: \
+\:3053\:306e\:8a08\:7b97\:4e2d\:306b\:ff0cKeyValueMap::invak\:306e\:3053\:308c\
+\:4ee5\:4e0a\:306e\:51fa\:529b\:306f\:8868\:793a\:3055\:308c\:307e\:305b\:3093\
+\:ff0e", "Message",
+ CellChangeTimes->{3.992384828210866*^9},
+ CellTags->"NotebookAssistantChatbarCell",
+ CellLabel->
+  "\:8a55\:4fa1\:4e2d\:ff1aIn[1]:=",ExpressionUUID->"65dee421-b53d-456e-a6db-\
+9e459fe0149a"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
 },
 WindowSize->{781, 872},
-WindowMargins->{{63, Automatic}, {Automatic, 22}},
+WindowMargins->{{63, Automatic}, {Automatic, 0}},
 Magnification:>1.2 Inherited,
 FrontEndVersion->"15.0 for Mac OS X ARM (64-bit) (2026\:5e745\:670819\:65e5)",
 StyleDefinitions->"Default.nb",
@@ -939,10 +1396,90 @@ ExpressionUUID->"619f9fa7-92e7-4ec2-854b-d8402c820f91"
 
 (* Internal cache information *)
 (*CellTagsOutline
-CellTagsIndex->{}
+CellTagsIndex->{
+ "NotebookAssistantChatbarCell"->{
+  Cell[39008, 936, 479, 11, 59, "Message",ExpressionUUID->"41a26a6b-b59b-4944-837f-37994dcc2a9e",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[39490, 949, 635, 13, 92, "Message",ExpressionUUID->"da738ed5-b8bb-4776-acc4-b2cc484f00b3",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[40128, 964, 492, 10, 59, "Message",ExpressionUUID->"e2b252b0-cdd9-4926-bf35-849c46972645",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[40623, 976, 499, 10, 59, "Message",ExpressionUUID->"b9addbd8-db6d-4e1f-b831-5c52097efa20",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[41125, 988, 390, 7, 26, "Message",ExpressionUUID->"30b4a1fd-47c8-4522-a8f8-ae92b1dd248e",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[41518, 997, 449, 11, 59, "Message",ExpressionUUID->"1c62d33e-5600-4a64-8eb3-4c4bcf013617",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[41970, 1010, 494, 10, 59, "Message",ExpressionUUID->"34d3a364-1fb8-4f6d-b1dc-44301a885888",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[42467, 1022, 492, 10, 59, "Message",ExpressionUUID->"325fbc09-ab16-4436-b80f-4ba911068d6d",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[42962, 1034, 478, 10, 59, "Message",ExpressionUUID->"4e3947ec-5b18-461a-8e2c-5b9717024aa2",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[43443, 1046, 494, 10, 59, "Message",ExpressionUUID->"97ea1153-3ee7-465e-b992-65bccccf2d9c",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[43940, 1058, 387, 7, 26, "Message",ExpressionUUID->"e039b952-2890-4c63-8fc9-78ccc50cc851",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[44330, 1067, 549, 13, 75, "Message",ExpressionUUID->"8b477cef-8600-4628-ae87-c5428c3e4be2",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[44882, 1082, 578, 13, 75, "Message",ExpressionUUID->"e90fc206-0717-4aa3-919b-5e5dfbcdb103",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[45463, 1097, 400, 7, 26, "Message",ExpressionUUID->"94ba09bb-51d2-4162-8332-ea6a311b46b2",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[45866, 1106, 381, 7, 26, "Message",ExpressionUUID->"e7ff7cc4-efec-41e0-b110-39cba586ec8b",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[46250, 1115, 569, 12, 75, "Message",ExpressionUUID->"cccaf328-1948-427b-ada2-ed50acaa3311",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[46822, 1129, 381, 7, 26, "Message",ExpressionUUID->"9ec978f7-cdd2-4e00-a886-becb130997d9",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[47206, 1138, 388, 7, 26, "Message",ExpressionUUID->"55e1e48a-b317-40c3-adb4-e34fabc5bd52",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[47597, 1147, 479, 11, 59, "Message",ExpressionUUID->"63d35555-e3bc-4aaa-ba93-029e152ad328",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[48079, 1160, 637, 13, 92, "Message",ExpressionUUID->"8f2ed64b-16c0-4a10-b706-c645997b7a02",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[48719, 1175, 492, 10, 59, "Message",ExpressionUUID->"b77ae67e-495f-40dd-99c8-29a364d21c72",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[49214, 1187, 500, 10, 59, "Message",ExpressionUUID->"458ccd7d-3d19-45d6-99b8-b89dd0bfd4b0",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[49717, 1199, 385, 7, 26, "Message",ExpressionUUID->"8c4ed2fe-45ea-4b09-96fd-6989e058fef1",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[50105, 1208, 392, 7, 26, "Message",ExpressionUUID->"8667cbc9-a1bb-4458-b483-4fdb6acf69c3",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[50500, 1217, 479, 11, 59, "Message",ExpressionUUID->"2a3d620e-af67-49da-a3fd-c06119ab5382",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[50982, 1230, 393, 8, 26, "Message",ExpressionUUID->"ea85ca9d-2546-452b-ab27-c9cfe15ca932",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[51378, 1240, 637, 13, 92, "Message",ExpressionUUID->"0aea1f9f-b091-4529-93ef-e5719dded84b",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[52018, 1255, 391, 8, 26, "Message",ExpressionUUID->"d1da229b-1abb-4271-af5b-e79ade7795e8",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[52412, 1265, 585, 12, 92, "Message",ExpressionUUID->"1609f280-ef58-481f-addc-4d91c5dbddf9",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[53000, 1279, 450, 11, 59, "Message",ExpressionUUID->"20bf74dc-9e05-4ead-b13d-9eba664d146f",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[53453, 1292, 636, 13, 92, "Message",ExpressionUUID->"e94ccee7-f854-40b2-a8e5-de4268eb44c2",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[54092, 1307, 494, 10, 59, "Message",ExpressionUUID->"c9efbc37-2406-47c7-827d-9c99ff5a9e58",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[54589, 1319, 387, 7, 26, "Message",ExpressionUUID->"2813bacb-0da9-4928-9bf3-57980cebdf16",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[54979, 1328, 392, 7, 26, "Message",ExpressionUUID->"779c8e15-c6c2-41bf-b02e-9e0e58f667f5",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[55374, 1337, 393, 8, 26, "Message",ExpressionUUID->"3afb2edd-3b59-43cc-87c1-6bcf732cd369",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[55770, 1347, 585, 12, 92, "Message",ExpressionUUID->"7d8769ed-ef6a-496f-a40d-918cf4f88455",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[56358, 1361, 451, 11, 59, "Message",ExpressionUUID->"9af7ba51-3c19-4faf-80bb-177fea110b26",
+   CellTags->"NotebookAssistantChatbarCell"],
+  Cell[56812, 1374, 394, 8, 26, "Message",ExpressionUUID->"65dee421-b53d-456e-a6db-9e459fe0149a",
+   CellTags->"NotebookAssistantChatbarCell"]}
+ }
 *)
 (*CellTagsIndex
-CellTagsIndex->{}
+CellTagsIndex->{
+ {"NotebookAssistantChatbarCell", 57650, 1399}
+ }
 *)
 (*NotebookFileOutline
 Notebook[{
@@ -956,63 +1493,144 @@ Cell[1571, 46, 202, 3, 35, "Input",ExpressionUUID->"a567e69e-84ad-46df-a97f-e78d
 Cell[CellGroupData[{
 Cell[1798, 53, 161, 3, 79, "Section",ExpressionUUID->"daee794e-c77c-4ca7-b0a5-8e0335710aa8"],
 Cell[1962, 58, 203, 3, 50, "Input",ExpressionUUID->"9075829e-8f2e-4b7d-a6b5-bef83b266897"],
-Cell[2168, 63, 1005, 15, 35, "Input",ExpressionUUID->"bf417543-fdcd-47a6-93eb-2d883bf609d5"],
-Cell[3176, 80, 1413, 43, 122, "Input",ExpressionUUID->"a6ddf5a1-52a6-4fbf-85d1-378502541d5c"],
-Cell[4592, 125, 672, 19, 37, "Input",ExpressionUUID->"9251e539-0e47-438c-9c57-1966d9600c47"],
-Cell[5267, 146, 441, 11, 50, "Input",ExpressionUUID->"573b73f3-97e7-4892-8b25-65ef4ed2c01d"]
+Cell[2168, 63, 1004, 15, 35, "Input",ExpressionUUID->"bf417543-fdcd-47a6-93eb-2d883bf609d5"],
+Cell[3175, 80, 1413, 43, 122, "Input",ExpressionUUID->"a6ddf5a1-52a6-4fbf-85d1-378502541d5c"],
+Cell[4591, 125, 672, 19, 37, "Input",ExpressionUUID->"9251e539-0e47-438c-9c57-1966d9600c47"],
+Cell[5266, 146, 441, 11, 50, "Input",ExpressionUUID->"573b73f3-97e7-4892-8b25-65ef4ed2c01d"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[5745, 162, 163, 3, 79, "Section",ExpressionUUID->"f5696bae-d8f9-4e66-8bec-b0e923d358ad"],
-Cell[5911, 167, 1244, 33, 153, "Input",ExpressionUUID->"d2f20f70-0d55-484d-90d4-9a0a16a50dd6"],
-Cell[7158, 202, 321, 8, 63, "Input",ExpressionUUID->"e49391e5-ac0f-45b5-a619-667cef150f13"]
+Cell[5744, 162, 163, 3, 79, "Section",ExpressionUUID->"f5696bae-d8f9-4e66-8bec-b0e923d358ad"],
+Cell[5910, 167, 1243, 33, 153, "Input",ExpressionUUID->"d2f20f70-0d55-484d-90d4-9a0a16a50dd6"],
+Cell[CellGroupData[{
+Cell[7178, 204, 375, 9, 78, "Input",ExpressionUUID->"e49391e5-ac0f-45b5-a619-667cef150f13"],
+Cell[7556, 215, 215, 3, 40, "Output",ExpressionUUID->"c19aa9e1-3a3c-496a-aa4f-9a7a8ae4d4c4"]
+}, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[7516, 215, 151, 3, 79, "Section",ExpressionUUID->"bae60ac4-6197-4d30-9bbb-916ad1ec530f"],
-Cell[7670, 220, 268, 6, 35, "Input",ExpressionUUID->"cf77663e-b61a-441a-b99b-d3c156e31029"],
-Cell[7941, 228, 421, 10, 36, "Input",ExpressionUUID->"04b96678-64f8-47e9-8ce5-f70f2c01067d"],
-Cell[8365, 240, 403, 8, 50, "Input",ExpressionUUID->"e9d886e0-183e-4f34-8c0c-7630f6184b77"],
-Cell[8771, 250, 1241, 25, 59, "Input",ExpressionUUID->"74fa825f-4cde-4f5e-8a05-2f2745e44045"],
-Cell[10015, 277, 1042, 22, 77, "Input",ExpressionUUID->"64ccbf72-9024-45b7-abc1-e233c969ea8f"],
+Cell[7820, 224, 151, 3, 79, "Section",ExpressionUUID->"bae60ac4-6197-4d30-9bbb-916ad1ec530f"],
+Cell[7974, 229, 268, 6, 35, "Input",ExpressionUUID->"cf77663e-b61a-441a-b99b-d3c156e31029"],
+Cell[8245, 237, 421, 10, 36, "Input",ExpressionUUID->"04b96678-64f8-47e9-8ce5-f70f2c01067d"],
+Cell[8669, 249, 403, 8, 50, "Input",ExpressionUUID->"e9d886e0-183e-4f34-8c0c-7630f6184b77"],
+Cell[9075, 259, 1241, 25, 59, "Input",ExpressionUUID->"74fa825f-4cde-4f5e-8a05-2f2745e44045"],
+Cell[10319, 286, 1042, 22, 77, "Input",ExpressionUUID->"64ccbf72-9024-45b7-abc1-e233c969ea8f"],
 Cell[CellGroupData[{
-Cell[11082, 303, 391, 8, 50, "Input",ExpressionUUID->"25d185d7-b430-43c2-8884-585b0d3dbe10"],
-Cell[11476, 313, 314, 5, 40, "Output",ExpressionUUID->"a1c62cbf-bcbe-44d8-8b8e-d3c1ec949daa"]
+Cell[11386, 312, 391, 8, 50, "Input",ExpressionUUID->"25d185d7-b430-43c2-8884-585b0d3dbe10"],
+Cell[11780, 322, 314, 5, 40, "Output",ExpressionUUID->"a1c62cbf-bcbe-44d8-8b8e-d3c1ec949daa"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[11827, 323, 302, 7, 38, "Input",ExpressionUUID->"2772c747-6b91-428e-bf06-e5ef5a602ac9"],
-Cell[12132, 332, 326, 8, 41, "Output",ExpressionUUID->"a51c56aa-04aa-436c-b2c3-d6ee6581574e"]
+Cell[12131, 332, 302, 7, 38, "Input",ExpressionUUID->"2772c747-6b91-428e-bf06-e5ef5a602ac9"],
+Cell[12436, 341, 326, 8, 41, "Output",ExpressionUUID->"a51c56aa-04aa-436c-b2c3-d6ee6581574e"]
 }, Open  ]],
-Cell[12473, 343, 232, 4, 50, "Input",ExpressionUUID->"9e33f43b-0bd9-40ee-90dd-b3a2944bf9b8"],
-Cell[12708, 349, 2144, 33, 59, "Input",ExpressionUUID->"e2d2ecc4-ed86-4392-9e1a-5188e4afd4d3"],
-Cell[14855, 384, 1803, 41, 371, "Input",ExpressionUUID->"84b82f77-3476-4a31-99c8-cfcba5177df0"],
-Cell[16661, 427, 1359, 35, 371, "Input",ExpressionUUID->"8098ddcc-044f-48c1-bd72-ce31e8aca34e"],
-Cell[18023, 464, 773, 13, 35, "Input",ExpressionUUID->"683a741f-1086-4cd2-a6c3-d2b2da8dd63b"],
-Cell[18799, 479, 466, 9, 93, "Input",ExpressionUUID->"8dedfe43-7872-4491-9ad7-704a6a56898e"],
-Cell[19268, 490, 343, 9, 35, "Input",ExpressionUUID->"febf4ae0-e1cc-45e7-a85f-47006818ecd8"],
-Cell[19614, 501, 490, 10, 50, "Input",ExpressionUUID->"d059cf5a-de70-49e9-9056-4936ca55e01f"]
+Cell[12777, 352, 232, 4, 50, "Input",ExpressionUUID->"9e33f43b-0bd9-40ee-90dd-b3a2944bf9b8"],
+Cell[13012, 358, 2144, 33, 59, "Input",ExpressionUUID->"e2d2ecc4-ed86-4392-9e1a-5188e4afd4d3"],
+Cell[15159, 393, 1803, 41, 371, "Input",ExpressionUUID->"84b82f77-3476-4a31-99c8-cfcba5177df0"],
+Cell[16965, 436, 1359, 35, 70, "Input",ExpressionUUID->"8098ddcc-044f-48c1-bd72-ce31e8aca34e"],
+Cell[18327, 473, 773, 13, 70, "Input",ExpressionUUID->"683a741f-1086-4cd2-a6c3-d2b2da8dd63b"],
+Cell[19103, 488, 466, 9, 70, "Input",ExpressionUUID->"8dedfe43-7872-4491-9ad7-704a6a56898e"],
+Cell[19572, 499, 343, 9, 70, "Input",ExpressionUUID->"febf4ae0-e1cc-45e7-a85f-47006818ecd8"],
+Cell[19918, 510, 490, 10, 70, "Input",ExpressionUUID->"d059cf5a-de70-49e9-9056-4936ca55e01f"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[20141, 516, 215, 4, 79, "Section",ExpressionUUID->"fd5c2084-6f7a-4d31-94b7-cd8938df66a5"],
-Cell[20359, 522, 384, 10, 50, "Input",ExpressionUUID->"3568472b-58a9-4f78-a019-4ec5c56b4709"],
+Cell[20445, 525, 215, 4, 70, "Section",ExpressionUUID->"fd5c2084-6f7a-4d31-94b7-cd8938df66a5"],
+Cell[20663, 531, 384, 10, 70, "Input",ExpressionUUID->"3568472b-58a9-4f78-a019-4ec5c56b4709"],
 Cell[CellGroupData[{
-Cell[20768, 536, 1108, 25, 50, "Input",ExpressionUUID->"e959fcb4-3ab2-4ee0-893f-c70f9184a2e2"],
-Cell[21879, 563, 1226, 21, 93, "Message",ExpressionUUID->"f5906e73-ce68-42c7-8350-24204d2383e5"],
-Cell[23108, 586, 1206, 21, 93, "Message",ExpressionUUID->"db29dfe7-36d1-43a3-a7b6-ff585009f84c"],
-Cell[24317, 609, 1276, 23, 115, "Message",ExpressionUUID->"f590e308-c5b5-48ac-a7c3-8327358fe87b"],
-Cell[25596, 634, 576, 12, 31, "Message",ExpressionUUID->"5d8a88c4-8ba4-4c70-b33d-323eb94ed327"],
-Cell[26175, 648, 511, 12, 43, "Message",ExpressionUUID->"6fd56d2f-eb86-4895-b059-385e70c5a934"]
+Cell[21072, 545, 1108, 25, 70, "Input",ExpressionUUID->"e959fcb4-3ab2-4ee0-893f-c70f9184a2e2"],
+Cell[22183, 572, 1226, 21, 70, "Message",ExpressionUUID->"f5906e73-ce68-42c7-8350-24204d2383e5"],
+Cell[23412, 595, 1206, 21, 70, "Message",ExpressionUUID->"db29dfe7-36d1-43a3-a7b6-ff585009f84c"],
+Cell[24621, 618, 1276, 23, 70, "Message",ExpressionUUID->"f590e308-c5b5-48ac-a7c3-8327358fe87b"],
+Cell[25900, 643, 576, 12, 70, "Message",ExpressionUUID->"5d8a88c4-8ba4-4c70-b33d-323eb94ed327"],
+Cell[26479, 657, 511, 12, 70, "Message",ExpressionUUID->"6fd56d2f-eb86-4895-b059-385e70c5a934"]
 }, Open  ]],
-Cell[26701, 663, 2413, 59, 242, "Input",ExpressionUUID->"7fc6691b-c028-4c1a-9f0b-4432fd4ce853"],
-Cell[29117, 724, 3108, 47, 93, "Input",ExpressionUUID->"92abfc23-e7e3-4bb8-9432-dc3931302b30"],
-Cell[32228, 773, 574, 15, 93, "Input",ExpressionUUID->"ec21fb75-98d3-4cac-8aae-86ab19ab2312"],
-Cell[32805, 790, 1852, 36, 245, "Input",ExpressionUUID->"e19b4b37-78e2-4b37-8e5f-ec0b56f1d320"],
-Cell[34660, 828, 2806, 73, 495, "Input",ExpressionUUID->"daae9a92-245a-4444-acaa-8f46f4508fcc"],
+Cell[27005, 672, 2413, 59, 70, "Input",ExpressionUUID->"7fc6691b-c028-4c1a-9f0b-4432fd4ce853"],
+Cell[29421, 733, 3108, 47, 70, "Input",ExpressionUUID->"92abfc23-e7e3-4bb8-9432-dc3931302b30"],
+Cell[32532, 782, 574, 15, 70, "Input",ExpressionUUID->"ec21fb75-98d3-4cac-8aae-86ab19ab2312"],
+Cell[33109, 799, 1852, 36, 70, "Input",ExpressionUUID->"e19b4b37-78e2-4b37-8e5f-ec0b56f1d320"],
+Cell[34964, 837, 2806, 73, 70, "Input",ExpressionUUID->"daae9a92-245a-4444-acaa-8f46f4508fcc"],
 Cell[CellGroupData[{
-Cell[37491, 905, 588, 9, 50, "Input",ExpressionUUID->"452df8d9-2313-4484-b42d-b093fa2bd899"],
-Cell[38082, 916, 619, 9, 40, "Output",ExpressionUUID->"672f1f55-5ec5-4676-8c20-395e80ff400d"]
+Cell[37795, 914, 588, 9, 70, "Input",ExpressionUUID->"452df8d9-2313-4484-b42d-b093fa2bd899"],
+Cell[38386, 925, 619, 9, 40, "Output",ExpressionUUID->"672f1f55-5ec5-4676-8c20-395e80ff400d"],
+Cell[39008, 936, 479, 11, 59, "Message",ExpressionUUID->"41a26a6b-b59b-4944-837f-37994dcc2a9e",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[39490, 949, 635, 13, 92, "Message",ExpressionUUID->"da738ed5-b8bb-4776-acc4-b2cc484f00b3",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[40128, 964, 492, 10, 59, "Message",ExpressionUUID->"e2b252b0-cdd9-4926-bf35-849c46972645",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[40623, 976, 499, 10, 59, "Message",ExpressionUUID->"b9addbd8-db6d-4e1f-b831-5c52097efa20",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[41125, 988, 390, 7, 26, "Message",ExpressionUUID->"30b4a1fd-47c8-4522-a8f8-ae92b1dd248e",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[41518, 997, 449, 11, 59, "Message",ExpressionUUID->"1c62d33e-5600-4a64-8eb3-4c4bcf013617",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[41970, 1010, 494, 10, 59, "Message",ExpressionUUID->"34d3a364-1fb8-4f6d-b1dc-44301a885888",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[42467, 1022, 492, 10, 59, "Message",ExpressionUUID->"325fbc09-ab16-4436-b80f-4ba911068d6d",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[42962, 1034, 478, 10, 59, "Message",ExpressionUUID->"4e3947ec-5b18-461a-8e2c-5b9717024aa2",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[43443, 1046, 494, 10, 59, "Message",ExpressionUUID->"97ea1153-3ee7-465e-b992-65bccccf2d9c",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[43940, 1058, 387, 7, 26, "Message",ExpressionUUID->"e039b952-2890-4c63-8fc9-78ccc50cc851",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[44330, 1067, 549, 13, 75, "Message",ExpressionUUID->"8b477cef-8600-4628-ae87-c5428c3e4be2",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[44882, 1082, 578, 13, 75, "Message",ExpressionUUID->"e90fc206-0717-4aa3-919b-5e5dfbcdb103",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[45463, 1097, 400, 7, 26, "Message",ExpressionUUID->"94ba09bb-51d2-4162-8332-ea6a311b46b2",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[45866, 1106, 381, 7, 26, "Message",ExpressionUUID->"e7ff7cc4-efec-41e0-b110-39cba586ec8b",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[46250, 1115, 569, 12, 75, "Message",ExpressionUUID->"cccaf328-1948-427b-ada2-ed50acaa3311",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[46822, 1129, 381, 7, 26, "Message",ExpressionUUID->"9ec978f7-cdd2-4e00-a886-becb130997d9",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[47206, 1138, 388, 7, 26, "Message",ExpressionUUID->"55e1e48a-b317-40c3-adb4-e34fabc5bd52",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[47597, 1147, 479, 11, 59, "Message",ExpressionUUID->"63d35555-e3bc-4aaa-ba93-029e152ad328",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[48079, 1160, 637, 13, 92, "Message",ExpressionUUID->"8f2ed64b-16c0-4a10-b706-c645997b7a02",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[48719, 1175, 492, 10, 59, "Message",ExpressionUUID->"b77ae67e-495f-40dd-99c8-29a364d21c72",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[49214, 1187, 500, 10, 59, "Message",ExpressionUUID->"458ccd7d-3d19-45d6-99b8-b89dd0bfd4b0",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[49717, 1199, 385, 7, 26, "Message",ExpressionUUID->"8c4ed2fe-45ea-4b09-96fd-6989e058fef1",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[50105, 1208, 392, 7, 26, "Message",ExpressionUUID->"8667cbc9-a1bb-4458-b483-4fdb6acf69c3",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[50500, 1217, 479, 11, 59, "Message",ExpressionUUID->"2a3d620e-af67-49da-a3fd-c06119ab5382",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[50982, 1230, 393, 8, 26, "Message",ExpressionUUID->"ea85ca9d-2546-452b-ab27-c9cfe15ca932",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[51378, 1240, 637, 13, 92, "Message",ExpressionUUID->"0aea1f9f-b091-4529-93ef-e5719dded84b",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[52018, 1255, 391, 8, 26, "Message",ExpressionUUID->"d1da229b-1abb-4271-af5b-e79ade7795e8",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[52412, 1265, 585, 12, 92, "Message",ExpressionUUID->"1609f280-ef58-481f-addc-4d91c5dbddf9",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[53000, 1279, 450, 11, 59, "Message",ExpressionUUID->"20bf74dc-9e05-4ead-b13d-9eba664d146f",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[53453, 1292, 636, 13, 92, "Message",ExpressionUUID->"e94ccee7-f854-40b2-a8e5-de4268eb44c2",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[54092, 1307, 494, 10, 59, "Message",ExpressionUUID->"c9efbc37-2406-47c7-827d-9c99ff5a9e58",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[54589, 1319, 387, 7, 26, "Message",ExpressionUUID->"2813bacb-0da9-4928-9bf3-57980cebdf16",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[54979, 1328, 392, 7, 26, "Message",ExpressionUUID->"779c8e15-c6c2-41bf-b02e-9e0e58f667f5",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[55374, 1337, 393, 8, 26, "Message",ExpressionUUID->"3afb2edd-3b59-43cc-87c1-6bcf732cd369",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[55770, 1347, 585, 12, 92, "Message",ExpressionUUID->"7d8769ed-ef6a-496f-a40d-918cf4f88455",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[56358, 1361, 451, 11, 59, "Message",ExpressionUUID->"9af7ba51-3c19-4faf-80bb-177fea110b26",
+ CellTags->"NotebookAssistantChatbarCell"],
+Cell[56812, 1374, 394, 8, 26, "Message",ExpressionUUID->"65dee421-b53d-456e-a6db-9e459fe0149a",
+ CellTags->"NotebookAssistantChatbarCell"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
 }
 ]
 *)
+
+(* End of internal cache information *)
 
