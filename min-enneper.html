@@ -3,9 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="金田伸のグラフィックス（Möbiusの帯、Oliveira）">
+  <meta name="description" content="金田伸のグラフィックス（高次の Enneper 曲面）">
   <meta name="author" content="Shin Kaneda">
-  <title>Möbiusの帯（Oliveira） — 金田伸</title>
+  <title>高次の Enneper 曲面 — 金田伸</title>
   <link rel="stylesheet" href="css/style.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Noto+Serif+JP:wght@300;400&display=swap" rel="stylesheet">
@@ -51,46 +51,56 @@
     </aside>
     <main>
       <a class="gfx-back" href="graphics.html">グラフィックスに戻る</a>
-      <div class="gfx-sub-title">Minimal Möbius strips by Oliveira</div>
+      <div class="gfx-sub-title">Enneper surface and its higher-order generalizations</div>
       <div class="data-block">
-        <div class="data-label">Weierstrass data (Double cover)</div>
+        <div class="data-label">Weierstrass data</div>
         <div class="data-formula">
-          \(M = \mathbb{C} \setminus \{0\}, \quad g = \dfrac{z^{2m}(z+1)}{z-1}, \quad \eta = i\,\dfrac{(z-1)^2}{z^{2(m+1)}}\,dz, \quad (m \in \mathbb{Z}_{>0}).\)
+          \[M = \mathbb{C}, \quad g(z) = z^k, \quad \eta = dz.\]
+          <span style="font-size:0.84rem;color:#6e6c67;">ただし \(k\) は自然数である.</span>
         </div>
+        <p class="data-note">\(k=1\) のときが通常の Enneper 曲面である.</p>
       </div>
       <div class="data-block">
         <div class="data-label">グラフィックス</div>
-        </div>
         <div class="x3d-wrap">
           <x3d width="100%" height="360px" style="border:none;">
             <scene>
-              <inline url="x3d/moeb-mo-01.x3d"></inline>
+              <inline url="x3d/enn-01.x3d"></inline>
             </scene>
           </x3d>
-          <p class="x3d-caption">\(m=1\)</p>
+          <p class="x3d-caption">\(k=1\)</p>
           <p class="x3d-hint">ドラッグで回転　・　スクロールでズーム　・　Ctrl+ドラッグで移動</p>
         </div>
         <div class="x3d-wrap">
           <x3d width="100%" height="360px" style="border:none;">
             <scene>
-              <inline url="x3d/moeb-mo-08.x3d"></inline>
+              <inline url="x3d/enn-04.x3d"></inline>
             </scene>
           </x3d>
-          <p class="x3d-caption">\(m=8\)</p>
+          <p class="x3d-caption">\(k=4\)</p>
+          <p class="x3d-hint">ドラッグで回転　・　スクロールでズーム　・　Ctrl+ドラッグで移動</p>
+        </div>
+        <div class="x3d-wrap">
+          <x3d width="100%" height="360px" style="border:none;">
+            <scene>
+              <inline url="x3d/enn-09.x3d"></inline>
+            </scene>
+          </x3d>
+          <p class="x3d-caption">\(k=9\)</p>
           <p class="x3d-hint">ドラッグで回転　・　スクロールでズーム　・　Ctrl+ドラッグで移動</p>
         </div>
         <div class="fig-grid fig-grid--uniform">
           <div class="fig-item">
-            <div class="fig-img-wrap"><img src="figs/moeb.png" alt="m=1"></div>
-            <div class="cap">\(m=1\)</div>
+            <div class="fig-img-wrap"><img src="figs/enn01-sym-r.png" alt="k=1"></div>
+            <div class="cap">\(k=1\)</div>
           </div>
           <div class="fig-item">
-            <div class="fig-img-wrap"><img src="figs/moeb-mo-04.png" alt="m=4"></div>
-            <div class="cap">\(m=4\)</div>
+            <div class="fig-img-wrap"><img src="figs/enn04-sym-r.png" alt="k=4"></div>
+            <div class="cap">\(k=4\)</div>
           </div>
           <div class="fig-item">
-            <div class="fig-img-wrap"><img src="figs/moeb-mo-08.png" alt="m=8"></div>
-            <div class="cap">\(m=8\)</div>
+            <div class="fig-img-wrap"><img src="figs/enn09-sym-r.png" alt="k=9"></div>
+            <div class="cap">\(k=9\)</div>
           </div>
         </div>
       </div>
