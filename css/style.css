@@ -220,12 +220,11 @@ main { padding: 3.5rem 4rem 3.5rem 3.5rem; background: var(--t-bg3); }
 .ext-link:hover { color: var(--t-accent); opacity: 1; }
 
 /* ── ホーム ── */
-.hero-imgs { display: flex; gap: 1.5rem; }
+.hero-imgs { display: flex; gap: 1.5rem; margin: 0 -4rem 0 -3.5rem; }
 .hero-img-wrap {
   flex: 1;
-  border: 1px solid var(--t-border);
-  padding: 1.25rem;
-  background: var(--t-surface);
+  padding: 0;
+  background: var(--t-bg3);
 }
 .hero-img-wrap img { width: 100%; aspect-ratio: 1; object-fit: contain; display: block; }
 .hero-img-wrap .fig-cap { font-size: 0.7rem; color: var(--t-text3); letter-spacing: 0.1em; margin-top: 0.75rem; text-align: center; }
@@ -477,7 +476,7 @@ footer span { font-size: 0.72rem; letter-spacing: 0.1em; color: var(--t-text3); 
   }
 
   /* 画像：縦積みに */
-  .hero-imgs { flex-direction: column; }
+  .hero-imgs { flex-direction: column; margin: 0 -1.5rem; }
 
   /* タイムライン */
   .timeline li { grid-template-columns: 1fr; gap: 0.2rem; }
